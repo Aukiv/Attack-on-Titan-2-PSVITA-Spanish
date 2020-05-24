@@ -2,7 +2,7 @@
 Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 -------------------------------------------
 
-**Antes de proceder, les recuerdo que este parche es totalmente gratuido y no es oficial ni apoyado por la desarrolladora Omega Force.**
+**Antes de proceder, les recuerdo que este parche es totalmente gratuido y no es oficial ni apoyado por la desarrolladora Omega Forceni por el distribuidora Koei Tecmo.**
 
 **No me hago responsable de nigún daño.**
 
@@ -21,7 +21,7 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **5->** En "Original File" seleccionan _"LINKDATA_REGION_JP.BIN"_ y el "Delta Patch" dentro del zip extraido hay una carpeta llamada "rePatch", busquen en su interior el archivo _"LINKDATA_REGION_JP.xdelta"_ y luego le dan a "Apply patch".
 
-**6->** Una vez aplicado el parche en ambos archivos copien _"LINKDATA_REGION_JP.BIN"_ y _"LOGO_KT.mp4"_ de la carpeta AOTSP_v1.0.
+**6->** Una vez aplicado el parche en ambos archivos copien _"LINKDATA_REGION_JP.BIN"_ y _"LOGO_KT.mp4"_ de la carpeta AOTSP_v1.01.
 
 **7->** _"LINKDATA_REGION_JP.BIN" lo pegas en _"AOTSP_v1.01\rePatch\PCSG01102\Linkdata\REGION"_ y eliminas _"LINKDATA_REGION_JP.xdelta"_.
 
@@ -29,9 +29,29 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.01"_ y lo pegar en ux0 en su PS VITA.
 
-**FIN**
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
-**OTRAS INSTRUCCIONES**
+
+**PARA COMPROBAR SI FUE REALIZADO EL PARCHEO UTILIZA LA SIGUIENTE WEB.
+http://onlinemd5.com/**
+
+**SI NO COINCIDE EL MD5 ES QUE ALGO HICISTE MAL, LO CUAL NO FUNCIONARÁ.**
+
+_LOGO_KT.mp4 (Sin parchear)
+MD5
+**DC7D9AA8EE09C1626A7D5E8FD43E4300**
+
+_LINKDATA_REGION_JP.BIN (Sin parchear)
+MD5
+**87D4BFBFF8670A06FB55F18DA6043D50**
+
+_LOGO_KT.mp4 (Parcheado)
+MD5
+**E9506A9D4F6E1645919CC7AC80CBA91F**
+
+_LINKDATA_REGION_JP.BIN (Parcheado)
+MD5
+**1221300EB3B7CE0BC939F81E743615B4**
+
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
 **¿Qué se necesita?.**
 
