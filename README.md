@@ -13,7 +13,7 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **1->** En su PS VITA con VitaShell diríjase a la carpeta ux0:APP y abren en modo desencriptado la carpeta PCSG01102, una vez dentro copien _"LOGO_KT.mp4"_ de _"\File\Movie"_ y también _"LINKDATA_REGION_JP.BIN"_ de _"\Linkdata\REGION"_. (Ojo, abrir en modo desencriptado por cada archivo).
 
-**2->** Una vez copiado lo guardan en ux0:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.01 previamente descargada y extraida.
+**2->** Una vez copiado lo guardan en ux0:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.05 previamente descargada y extraida.
 
 **3->** Ejecuten DeltaPatcherLite.
 
@@ -21,13 +21,13 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **5->** En "Original File" seleccionan _"LINKDATA_REGION_JP.BIN"_ y el "Delta Patch" dentro del zip extraido hay una carpeta llamada "rePatch", busquen en su interior el archivo _"LINKDATA_REGION_JP.xdelta"_ y luego le dan a "Apply patch".
 
-**6->** Una vez aplicado el parche en ambos archivos copien _"LINKDATA_REGION_JP.BIN"_ y _"LOGO_KT.mp4"_ de la carpeta AOTSP_v1.01.
+**6->** Una vez aplicado el parche en ambos archivos copien _"LINKDATA_REGION_JP.BIN"_ y _"LOGO_KT.mp4"_ de la carpeta AOTSP_v1.05.
 
-**7->** _"LINKDATA_REGION_JP.BIN" lo pegas en _"AOTSP_v1.01\rePatch\PCSG01102\Linkdata\REGION"_ y eliminas _"LINKDATA_REGION_JP.xdelta"_.
+**7->** _"LINKDATA_REGION_JP.BIN" lo pegas en _"AOTSP_v1.05\rePatch\PCSG01102\Linkdata\REGION"_ y eliminas _"LINKDATA_REGION_JP.xdelta"_.
 
-**8->** _"LOGO_KT.mp4"_ lo pegas en _"AOTSP_v1.01\rePatch\PCSG01102\File\Movie"_ y eliminas _"LOGO_KT.xdelta"_.
+**8->** _"LOGO_KT.mp4"_ lo pegas en _"AOTSP_v1.05\rePatch\PCSG01102\File\Movie"_ y eliminas _"LOGO_KT.xdelta"_.
 
-**9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.01"_ y lo pegar en ux0 en su PS VITA.
+**9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.05"_ y lo pegar en ux0 en su PS VITA.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -50,7 +50,7 @@ MD5
 
 _LINKDATA_REGION_JP.BIN (Parcheado)
 MD5
-**1221300EB3B7CE0BC939F81E743615B4**
+**A745F571B83061E57F43A8B0D5B689DB**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
 **¿Qué se necesita?.**
@@ -72,12 +72,6 @@ El 9 de Julio del 2019 pude conseguirlo después de horas y horas en el
 mismo escenario, más de 500 líneas recortadas.
 Posibles fallos que te vas a encontrar y soluciones.
 
-
-**Cuando le doy a guardar partida no sale nada->**
-La solución es sencilla, selecciona el espacio donde quieras guardar
-luego le das al botón ​círculo​ ​después con la ​cruceta​ le das a la izquierda y de
-nuevo al botón ​círculo​ con eso debería salirte 
-en la esquina izquierda superior ​guardando....
 -------------------------------------------
 **Cuando le doy a comprar equipo no sale nada->**
 La solución es la misma que cuando no sale nada cuando guardas partida,
