@@ -63,31 +63,37 @@ MD5
 
 4-> ​Obviamente el ​juego​ ya sea comprado o por otros medios... ​(NO ACTUALIZAR EL JUEGO).
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-**Y LISTO, YA TIENES EL JUEGO PARCHEADO**
 -----------------------------------------------------------------------
-Mi principal objetivo fue eliminar cualquier bloqueo que pudiese estropear el modo
+-----------------------------------------------------------------------
+Mi principal objetivo fue eliminar cualquier bloqueo en el modo
 historia.
 El 9 de Julio del 2019 pude conseguirlo después de horas y horas en el
-mismo escenario, más de 500 líneas recortadas.
+mismo escenario y más de 500 líneas recortadas.
+
 Posibles fallos que te vas a encontrar y soluciones.
+-------------------------------------------
+
+**Cuando hablo con alguien para subir rango amistad se bloquea->**
+No están recortadas algunas conversaciones para el Rango de Amistad.
 
 -------------------------------------------
-**Cuando hablo con alguien para subir rango amistad se bloquea->**
-Lo siento pero no he recortado algunas conversaciones del rango amistad.
--------------------------------------------
+
 **Cuando juego, algunos personajes hablan en inglés->**
-Es un fallo que no pude solucionar ya que no encontré los textos, aun así el
-juego no se bloquea por eso.
+24/05/2020/ Encontré 60 archivos de texto en inglés, proximamente serán
+traducidos.
+
 -------------------------------------------
+
 **Se me bloquea cuando accedo a otras cosas que no son modo
 historia->**
-Lo siento pero solo me he centrado en el modo Historia, proximamente
-publicaré un parche con errores que encontréis.
+Lo siento pero sólo me he centrado en el modo Historia.
+
 -------------------------------------------
+
 **A veces el texto se sale del marco->**
 Lo siento pero no puedo solucionarlo.
+
 -------------------------------------------
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/938owc/attack_on_titan_2_repatch_espa%C3%B1ol/**
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
-**Agradecimientos a AkatsukiDarkpor las herramientas aportadas**
+**Agradecimientos a AkatsukiDark por las herramientas aportadas.**
