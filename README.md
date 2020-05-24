@@ -78,9 +78,10 @@ No están recortadas algunas conversaciones para el Rango de Amistad.
 
 -------------------------------------------
 
-**Cuando juego, algunos personajes hablan en inglés->**
+**Cuando juego, algunos personajes hablan en inglés, o cosas que salen en Japonés->**
 24/05/2020/ Encontré 60 archivos de texto en inglés, proximamente serán
 traducidos.
+Todo lo restante que sale en Japonés es gráfico y no tengo conocimiento para editarlo/modificarlo.
 
 -------------------------------------------
 
@@ -94,6 +95,13 @@ Lo siento pero sólo me he centrado en el modo Historia.
 Lo siento pero no puedo solucionarlo.
 
 -------------------------------------------
+
+**No hay acentos, hay faltas de ortografía, de puntuación, etc...->**
+Por desgracia no puedo añadir acentos de momento ni caracteres especiales, la mayoria de las frases
+han sido recortadas para evitar bloqueos.
+
+-------------------------------------------
+
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/938owc/attack_on_titan_2_repatch_espa%C3%B1ol/**
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
 **Agradecimientos a AkatsukiDark por las herramientas aportadas.**
