@@ -1,0 +1,330 @@
+﻿（通常）ESP
+（指示）Eliminen la [r][0:PARTY][/]!
+（指示）Eliminen la [y][0:PARTY][/]!
+（指示）Elimina a [0:CHARA_G]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）Elimina al grupo de [0:CHARA_G]!
+（指示）dummy_ESP
+（指示）Elimina a [1:CHARA_G] con [0:CHARA_G] y los demas!
+（指示）Une fuerzas con [0:CHARA_G] para eliminar a [r][0:PARTY][/]!
+（指示）Une fuerzas con [0:CHARA_G] para eliminar a [y][0:PARTY][/]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）Une fuerzas con [0:CHARA_G] y los demas para eliminar a [1:CHARA_G]!
+（指示）Une fuerzas con [0:CHARA_G] para eliminar a [r][0:PARTY][/]!
+（指示）Une fuerzas con [0:CHARA_G] para eliminar a [y][0:PARTY][/]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）Elimina a [0:CHARA_G] y ayuda a [1:CHARA_G]!
+（指示）Elimina a [r][0:PARTY][/] y ayuda a [0:CHARA_G]!
+（指示）Elimina a [y][0:PARTY][/] y ayuda a [0:CHARA_G]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）Elimina [y][0:PARTY][/] y ayuda a [0:CHARA_G] y a los demas!
+（指示）Elimina rapidamente a [0:CHARA_G] y rescata a [1:CHARA_G]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（指示）Dirijanse a la [g]zona objetivo[/]!
+（指示）dummy_ESP
+（指示）Dirigete a la ubicacion de [0:CHARA_G]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）Escolta a [0:CHARA_G] a la [g]zona objetivo[/]!
+（指示）dummy_ESP
+（指示）Escolta a [0:CHARA_G] a la [g]zona objetivo[/]!
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（指示）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（吉味）Reunete con [0:CHARA_G] y [1:CHARA_G]!
+（警敵）Reunete con [0:CHARA_G] y [1:CHARA_G]!
+（吉味）[0:CHARA_G] regresa con [1:CHARA_G]!
+（警敵）[0:CHARA_G] regresa con [1:CHARA_G]!
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（警敵）[r][0:PARTY][/] Te aproximas a [0:CHARA_G]!
+（警敵）[y][0:PARTY][/] Te aproximas a [0:CHARA_G]!
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（警敵）[r][0:PARTY][/] se mueven hacia [0:CHARA_G]!
+（警敵）[y][0:PARTY][/] se mueven hacia [0:CHARA_G]!
+（通常）[0:CHARA_G] se aproximan a [1:CHARA_G]!
+（警敵）[0:CHARA_G] se aproximan a [1:CHARA_G]!
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（警敵）[r][0:PARTY][/] se dirige hacia [0:FACILITY_BF]!
+（警敵）[y][0:PARTY][/] se dirige hacia [0:FACILITY_BF]!
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（通常）Un grupo de [0:CHARA_G] se aproxima a [0:FACILITY_BF]!
+（警敵）Un grupo de [0:CHARA_G] se aproxima a [0:FACILITY_BF]!
+（通常）[0:CHARA_G] se aproxima a la [g]zona objetivo[/]!
+（警敵）[0:CHARA_G] se aproxima a la [g]zona objetivo[/]!
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（通常）[0:CHARA_G] y [1:CHARA_G] comenzaron a moverse hacia la [g]zona objetivo[/]!
+（警敵）[0:CHARA_G] y [1:CHARA_G] comenzaron a moverse hacia la [g]zona objetivo[/]!
+（通常）[0:CHARA_G] se mueven hacia la [g]zona objetivo[/]!
+（警敵）[0:CHARA_G] se mueven hacia la [g]zona objetivo[/]!
+（吉味）[0:CHARA_G] llego a la [g]zona objetivo[/]!
+（警敵）[0:CHARA_G] llego a la [g]zona objetivo[/]!
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（吉味）[0:CHARA_G] llego a la [g]zona objetivo[/]!
+（警敵）[0:CHARA_G] llego a la [g]zona objetivo[/]!
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（吉味）[0:CHARA_G] se acerca a [1:CHARA_G]!
+（警敵）[0:CHARA_G] se acerca a [1:CHARA_G]!
+（警敵）[r][0:PARTY][/] se acercan a [0:CHARA_G]!
+（警敵）[y][0:PARTY][/] se acercan a [0:CHARA_G]!
+（吉味）[0:CHARA_G] se acercan a [1:CHARA_G] y a los demas!
+（警敵）[0:CHARA_G] se acercan a [1:CHARA_G] y a los demas!
+（警敵）[r][0:PARTY][/] se acercan a [0:CHARA_G]!
+（警敵）[y][0:PARTY][/] se acercan a [0:CHARA_G]!
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（警敵）Encontraste a [0:CHARA_G] luchando contra [1:CHARA_G]!
+（警敵）Avistaron a [0:CHARA_G] en combate con [r][0:PARTY][/]!
+（警敵）Avistaron a [0:CHARA_G] en combate con [y][0:PARTY][/]!
+（警敵）Encontraste a [1:CHARA_G] y a los demas luchando contra [0:CHARA_G]!
+（警敵）Avistaron a [0:CHARA_G] en combate con [r][0:PARTY][/]!
+（警敵）Avistaron a [0:CHARA_G] en combate con [y][0:PARTY][/]!
+（警敵）Encontraste a [0:CHARA_G] atacando a [1:CHARA_G]!
+（警敵）Avistaron a [0:CHARA_G] bajo ataque de [r][0:PARTY][/]!
+（警敵）Avistaron a [0:CHARA_G] bajo ataque de [y][0:PARTY][/]!
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（通常）Se avisto a [0:CHARA_G] dirigiendose a la [g]zona objetivo[/]!
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）Avistaron a [0:CHARA_G] en proceso de establecer una [g]base[/]!
+（通常）dummy_ESP
+（通常）Avistaron a [0:CHARA_G] instalando una [g]base[/]!
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（警敵）Aparece [r][0:PARTY][/]!
+（警敵）Aparece [y][0:PARTY][/]!
+（吉味）Aparecio [0:CHARA_G]!
+（警敵）Aparecio [0:CHARA_G]!
+（吉味）Aparecieron [0:CHARA_G] y [1:CHARA_G]!
+（警敵）Aparecieron [0:CHARA_G] y [1:CHARA_G]!
+（吉味）Aparecio un grupo de [0:CHARA_G]!
+（警敵）Aparecio un grupo de [0:CHARA_G]!
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（警敵）Aparece [r][0:PARTY][/]!
+（警敵）Aparece [y][0:PARTY][/]!
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（吉味）[0:CHARA_G] aparecio nuevamente!
+（警敵）[0:CHARA_G] aparecio nuevamente!
+（吉味）[0:CHARA_G] y [1:CHARA_G] reaparecieron!
+（警敵）[0:CHARA_G] y [1:CHARA_G] reaparecieron!
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）[0:CHARA_G] abandono el campo de batalla!
+（吉味）[0:CHARA_G] abandono el campo de batalla!
+（警敵）[0:CHARA_G] abandono el campo de batalla!
+（通常）[0:CHARA_G] y [1:CHARA_G] abandonaron el campo de batalla!
+（吉味）[0:CHARA_G] y [1:CHARA_G] abandonaron el campo de batalla!
+（警敵）[0:CHARA_G] y [1:CHARA_G] abandonaron el campo de batalla!
+（通常）[0:CHARA_G] y los demas abandonan el campo de batalla!
+（吉味）[0:CHARA_G] y los demas abandonan el campo de batalla!
+（警敵）[0:CHARA_G] y los demas abandonan el campo de batalla!
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）[0:CHARA_G] abandono el campo de batalla por el momento!
+（吉味）[0:CHARA_G] abandono el campo de batalla por el momento!
+（警敵）[0:CHARA_G] abandono el campo de batalla por el momento!
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（吉味）[0:CHARA_G] eliminado!
+（吉味）Eliminaste a [r][0:PARTY][/]!
+（吉味）Eliminaste a [y][0:PARTY][/]!
+（吉味）dummy_ESP
+（吉味）Eliminaste a todos los [0:CHARA_G]!
+（吉味）Ayudaste con exito a [0:CHARA_G]!
+（吉味）Ayudaste con exito a [0:CHARA_G] y [1:CHARA_G]!
+（吉味）Ayudaste con exito a [0:CHARA_G] y a los demas!
+（吉味）Escoltaste con exito a [0:CHARA_G]!
+（吉味）dummy_ESP
+（吉味）Lograste ayudar a [0:CHARA_G] y a los demas!
+（吉味）dummy_ESP
+（吉味）dummy_ESP
+（吉味）Estableciste con exito [0:FACILITY_BF]!
+（吉味）Estableciste con exito [0:FACILITY_BF] y [1:FACILITY_BF]!
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（警敵）No lograste eliminar a [0:CHARA_G]!
+（警敵）No lograste eliminar a [r][0:PARTY][/]!
+（警敵）No lograste eliminar a [y][0:PARTY][/]!
+（警敵）dummy_ESP
+（警敵）No pudiste eliminar al grupo de [0:CHARA_G]!
+（警敵）No pudiste ayudar a [0:CHARA_G]!
+（警敵）No pudiste ayudar a [0:CHARA_G] y [1:CHARA_G]!
+（警敵）No pudiste ayudar a [0:CHARA_G] y a los demas!
+（警敵）No lograste poner a [0:CHARA_G] a salvo!
+（警敵）dummy_ESP
+（警敵）No lograste poner a [0:CHARA_G] a salvo!
+（警敵）No lograste defender [0:FACILITY_BF]!
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（警敵）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（吉味）dummy_ESP
+（吉味）dummy_ESP
+（吉味）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（凶報）Derrota de [0:CHARA_G] en batalla!
+（凶報）dummy_ESP
+（凶報）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
+（通常）dummy_ESP
