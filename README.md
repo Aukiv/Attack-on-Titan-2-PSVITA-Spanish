@@ -73,10 +73,6 @@ mismo escenario, más de 500 líneas recortadas.
 Posibles fallos que te vas a encontrar y soluciones.
 
 -------------------------------------------
-**Cuando le doy a comprar equipo no sale nada->**
-La solución es la misma que cuando no sale nada cuando guardas partida,
-luego podrás equiparte el equipo en los ajustes.
--------------------------------------------
 **Cuando hablo con alguien para subir rango amistad se bloquea->**
 Lo siento pero no he recortado algunas conversaciones del rango amistad.
 -------------------------------------------
@@ -94,3 +90,4 @@ Lo siento pero no puedo solucionarlo.
 -------------------------------------------
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/938owc/attack_on_titan_2_repatch_espa%C3%B1ol/**
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
+**Agradecimientos a AkatsukiDarkpor las herramientas aportadas**
