@@ -1,0 +1,2050 @@
+﻿No te quedes ahi de pie. Lo primero es lo primero, debemos encontrar un lugar seguro.
+Veo una senal de humo. Vayamos hacia alli.
+Oye... Que estas haciendo? Date prisa y ve hacia la senal de humo.
+Tu equipo de maniobras funciona bien? Deberias comprobarlo.
+Que les ha pasado a los demas? Espero que no se los hayan comido...
+Maldita sea, que hacen aqui los titanes?
+No podemos dejarlos a su aire. Tenemos que derrotarlos rapido.
+Que problema tienes? Centrate en los titanes!
+Rapido! Corran!
+Ug, no tenemos eleccion...
+Estas bien? Recuerda como se mueven los titanes.
+La proxima vez seremos nosotros los que ataquen. Solo tenemos que encontrar el momento y golpear.
+Los titanes ya estan aqui... Muevanse rapido y apuntad a la nuca.
+No esta mal... Ahora recuerda lo que se siente.
+Ug... No se ha acabado! Mantenganse en guardia!
+Mierda, detras de ti!
+Vamos! Nuestro trabajo es capturar una titan hembra!
+Estamos acorralados... Es nuestra ultima oportunidad! Tenemos que capturarla!
+Vamos, usa tu equipo de maniobras para acercarte al titan hembra!
+No pierdas la concentracion! Vamos!
+Que haces?! La titan hembra se va a escapar si no te das prisa!
+Maldita titan hembra... No dejaremos que te escapes!
+Es la enemiga de toda la humanidad! No podemos dejar que se escape!
+Estas bien? Pues date prisa y levantate!
+Maldita sea, la titan hembra se ha quitado las cadenas!
+Debe estar agotada... Recalculemos y preparemonos para un ataque unificado!
+Ataquen a la titan hembra desde atras, rapido! Es hora de derribarla!
+Que haces? Tenemos que derribar a la titan hembra!
+Ya esta... Es nuestra!
+No... La titan hembra todavia puede moverse!
+No me creo que hayamos podido derribarla...
+La base de la movilidad tridimensional empieza con el movimiento!
+Usa tu equipo de maniobras tridimensionales para alcanzar el objetivo!
+Parece dificil, pero daremos lo mejor de nosotros!
+Es cierto! Despues de todo, pronto lucharemos en las tierras salvajes!
+Por que el retraso? Deja de perder el tiempo!
+Thomas Wagner! Si no eres capaz de hacer esto bien, por que no vas andando?
+Lo he pillado, creo! Mira!
+Mina Carolina, que crees que estas haciendo? Ese rendimiento es digno del ganado!
+Cumplire con mi trabajo! No te preocupes!
+Cuanto tiempo vas a seguir holgazaneando? Muevete, [0:HERO_FRND]!
+Se acabo! Veamos lo que hiciste...
+[0:HERO_FRND], has logrado el primer puesto en movimiento! Serias un gran senuelo!
+Thomas ha quedado el primero en movimiento! Seria un gran senuelo!
+Demasiado despacio, [0:HERO_FRND]! Te dedicaste a pasear o que?
+[0:HERO_FRND], tu seguiras adelante! El resto volved al punto de partida!
+Que? Otra vez no!
+No me lo creo!
+Que? Creias que solo importaba ser rapido?
+Tambien tienes que centrarte en la postura y el equilibro o te convertiras en comida de titanes!
+Oye, [0:HERO_FRND]! Date prisa y acercate al proximo entrenamiento!
+Ahora vas a aprender las bases de la pelea con objetivos con forma de titan!
+Empezaremos con los pequenos!
+Conoces los puntos debiles de los titanes, verdad? Fijate en ellos y golpea donde mas duele!
+No soy muy habilidoso, pero tengo que hacerlo...!
+Se que solo es un entrenamiento, pero me pueden los nervios... Uf...
+[0:HERO_FRND], date prisa y ataca! O quieres que te mande ya ahi fuera?
+Todo el mundo puedo hacerlo al menos una vez! Hazlo de nuevo!
+Parece que no se te dan mal los enemigos pequenos.
+[0:HERO_FRND], ve al siguiente entrenamiento! El resto, seguid practicando los ataques!
+Nos estamos quedando rezagados...
+Quiza la batalla no sea lo mio...
+Que estas haciendo, [0:HERO_FRND]? Date prisa y ve hacia el entrenamiento siguiente!
+Toca entrenar contra titanes grandes! Dependiendo del titan, habra varios lugares a los que atacar! Asegurate de golpear con precision!
+Ahora, ataca algun lugar que no sea la nuca! Eso lo ralentizara y hara mas facil atacar la nuca mas tarde! Una estrategia clasica!
+Que aburrido... Deberia saltarme las sesiones de entrenamiento.
+No deberias decir esas cosas! [0:HERO_FRND], aprendere viendote a ti!
+Que haces, [0:HERO_FRND]?! Parece que preferirias estar ahi fuera trabajando y no aqui entrenando!
+Fue pura chiripa! Ataca de nuevo!
+Esta bien, ya es suficiente! Recuerda que debes elegir donde golpear tan rapido como puedas!
+Casi no queda tiempo! Vayan todos a la zona del ultimo entrenamiento!
+Por fin hemos acabado... Christa, tomemos un descanso antes de ir.
+[0:HERO_FRND], solo quedas tu! Mueve el trasero hasta aqui!
+Empieza con el ultimo ejercicio del dia!
+Esta vez habra varios objetivos en la zona! Localizalos y destruyelos tan rapido como puedas!
+Se juzgara el lugar donde golpeeis y lo acertado que sea el ataque! Ensenadme lo que saben hacer!
+Empezad!
+Mas te vale no robarme un objetivo si lo veo yo primero!
+No seas idiota, Jean. No hay normas sobre robar bajas!
+Ya, es tu culpa por dejar que te roben el objetivo.
+Vaya... Esa cosa es enorme! Es mia!
+Es... gigantesco! Voy a derribarlo!
+Le demostrare a todo el mundo que puedo pelear contra un titan... A por el!
+No soy capaz de dejar solo a Eren, ni siquiera en los entrenamientos.
+Se que no se me da bien, pero tengo que intentarlo y esforzarme... No me rendire.
+No te tomes el entrenamiento a la ligera. Es una de tus responsabilidades como soldado.
+Te mueves bien... pero los otros destacaran mas que tu.
+No puedo contenerme si quiero llegar a la Policia militar.
+Como te manejas con el equipo de maniobras tridimensionales? Fijate en mi y a lo mejor aprendes algo.
+Si tuviera que aprender de alguien, seria de Mikasa o Reiner... Eh? Que te pasa?
+Esto me pone a mil! Es como salir de caza!
+Ya se que estamos compitiendo, pero aun asi tenemos que trabajar juntos!
+Especie de... Alejate de Christa y de mi!
+Un poco de rivalidad nos ayudara a llevarnos mejor, pero si se sale de madre no estaremos preparados para un combate real...
+Puede que me hayas ganado antes, pero esta vez no pienso perder!
+Keith no dejaba de enfadarse conmigo antes, asi que tengo que responder!
+No pensaba que el entrenamiento seria tan duro. Nos moriremos antes de acabar!
+Es hora de anunciar las calificaciones de media sesion!
+Aun queda tiempo! Sigan asi!
+Ya casi se nos ha acabado el tiempo!
+Esto casi se ha acabado! Vamos a tope!
+Ahora anunciare a la persona mas destacada de esta sesion!
+La puntuacion maxima de la sesion es de... [0:HERO_FRND]!
+Eres increible!
+Que no se te suba a la cabeza! Gandulear te acabara pasando factura!
+Reiner Braun! Estas el primero!
+Sabia que podrias, Reiner!
+Esto me pondra de los primeros.
+Aqui acaba el entrenamiento de hoy! Si quieren, pueden seguir entrenando por vuestra cuenta!
+Que es eso? Humo?
+Como puede haber titanes aqui? Que ocurre...?
+Bien, a darle la vuelta a la tortilla! Pero primero tenemos que reabastecernos!
+Tenemos que establecer una base, verdad? Tengo la intuicion de que este es un buen sitio.
+Parece un buen espacio abierto, podria funcionar. Vamos a comprobarlo!
+Tenemos que establecer una zona para reabastecernos de cuchillas y gas, no?
+Exacto. Es importante tener un lugar de reabastecimiento en una pelea de verdad, no solo durante el entrenamiento.
+Esto va en serio... Somos carne de canon!
+Si quieres morir, adelante. Me da igual.
+Tenemos las cuchillas y el gas! Vamos al punto de reunion.
+Un momento, para estar seguros... Establezcamos otra base.
+Otro lugar cercano en el que podamos reabastecernos?
+Eso es. Esto ya no es un entrenamiento... No esta de mas ir sobre seguro.
+C-Conny, si vuelves a adelantarte solo... se lo dire... a Keith...
+Uf, por que no te callas?!
+Ya esta, base secundaria establecida!
+Ahora podemos ir al punto de reunion!
+Llegais tarde! Eso hara que seais los ultimos en morir! Por que habeis tardado tanto?
+Lo siento, senor!
+Bah... En cualquier caso, ahora practicareis como atacar a un titan en grupo!
+[0:HERO_FRND], llegas tarde! Date prisa y empieza!
+A mi senal, ataquen al objetivo juntos.
+Que cada uno apunte a una parte del titan y acabe con ella!
+Da la senal, [0:HERO_FRND].
+Pero que haces?! Prueba otra vez!
+Mf, no esta mal.
+He oido que se te acabaron las cuchillas y el gas... no esperaba que pudieras conseguirlo asi.
+[0:HERO_FRND]... Gracias a ti, habeis tenido exito.
+Empecemos la ultima sesion de entrenamiento!
+Habra varios maniquies de entrenamiento por el bosque! Encontradlos y eliminadlos lo mas rapido posible!
+Cuantas mas zonas impacteis, mayor sera la puntuacion! Trabajad en grupo y acabad con la mayoria!
+Vuestros objetivos son los mismos que antes, estan por todo el bosque! Encontradlos y destruidlos con rapidez!
+Solo obtendreis puntos por atacarlos en equipo! El resto de los ataques no contara!
+Oye, Eren! Intenta no tropezar con los miembros de tu escuadron, si?
+Pero de que vas, Jean?! Si eres tu el que siempre andas por medio!
+Armin, Mina, eso es todo lo que pueden hacer? Patetico...
+Lo siento...
+Creo que solo estorbo...
+Todo el mundo tiene un papel que cumplir. Esto es un entrenamiento, al fin y al cabo.
+Armin, Mina! Eso es!
+Gracias, Reiner!
+Si, no vamos a rendirnos!
+Que mono.
+Annie, no cargues tu sola!
+Te podria decir lo mismo.
+Este escuadron da bastante miedo...
+Mikasa y Annie son buenas. Si tan solo trabajaran juntas...
+Una lastima que a Mikasa no se le de bien el trabajo en equipo.
+Por desgracia, Annie tiene problemas para trabajar en equipo.
+Eh... En fin, seguid asi.
+Pero que haces, Eren?!
+Eh? Pero si la has fastidiado tu!
+Se supone que esto va de trabajar en equipo, que se os meta en la cabeza de una vez. Me has oido, Bertholdt?
+Eh? Ah, si.
+Centrate, Jean!
+Si eres tu el que no dejas de cagarla! Es como si quisieras que te maten!
+Son un caso perdido! Verdad que si, Bertholdt?
+Eh? Ah... claro.
+Ostras.... No... No se nos da nada mal!
+Podemos hacerlo!
+Es todo gracias a [0:HERO_FRND]... Estas siguiendole bien el ritmo a los demas.
+Nos movemos al unisono!
+Bueno, es lo que pasa cuando tienes a un genio como yo contigo.
+Conny, lo unico que hiciste fue correr y meterte en lios...
+Oh, no, estoy sin gas... Otra vez no!
+Increible, [0:HERO_FRND]... Te sincronizas de maravilla con tus companeros de escuadron.
+Ahora si que lo petamos!
+Si! Podemos hacerlo!
+Tendria que haber dejado que los demas se ocupasen de todo...
+Ahora anunciare las calificaciones de media sesion!
+Aun queda tiempo! No ganduleeis!
+Si! Asi se hace!
+Aun no ganamos! No te adelantes!
+Eso, escucha a Sasha. Tiene razon.
+No podemos descansar hasta que hayamos acabado!
+Aun tengo la posibilidad de ser el primero. Voy a darlo todo.
+Mira que lejos llegue! Pienso quedar el primero!
+Puedo hacerlo...!
+Sigan asi!
+Creo que no lo hemos hecho tan mal, teniendo en cuenta las circunstancias...
+Pero de que hablas? No te rindas todavia!
+No te pega rendirte tan facilmente, Conny!
+S-Si, eres siempre tan optimista...
+Casi habeis terminado! Sigan esforzandoos!
+Es hora de anunciar al mejor escuadron!
+El mejor escuadron de esta sesion de entrenamiento fue el de... [0:HERO_FRND]!
+Increible! No podriamos haberlo conseguido sin ti, [0:HERO_FRND]!
+Yuju! Soy genial, lo sabia!
+Lo logramos!
+Fue aterrador... pero supongo que al final salio bien.
+Son increibles!
+Eren Jaeger! Tu escuadron ha quedado el primero!
+Ostras, Eren! Bien hecho!
+Mikasa Ackermann! Tu escuadron quedo en primer lugar
+No puedo creer que haya perdido contra Mikasa... Que faena, pero ganare la proxima vez!
+Reiner Braun! Tu escuadron ha quedado el primero!
+Sabia que ganaria el escuadron de Reiner.
+Se acabo el entrenamiento! Marchaos a casa y descansad! Romped filas!
+Maldicion...! No podemos permitir que los titanes avancen mas por la ciudad!
+Para esto hemos entrenado! Hora de demostrar lo que sabemos!
+Tenemos que matar a ese monstruo! Usad el equipo para columpiaros detras de el y rebanarle el cogote!
+Primero las piernas. Asi no podra seguir avanzando!
+Ve primero a por las piernas! Asi sera mas facil de matar!
+Ahora! Apunta a la nuca!
+Cuidado! Una vez te enganchas ya no tienes mucho tiempo!
+Ahora puedes acertarle en la nuca! Ponte tras el y rajalo!
+Buen trabajo...! Hazlo como en el entrenamiento y dentro de nada mataras titanes a punados!
+Estas bien?! Recuerda ocuparte de tus heridas!
+Estas en peligro! Ocupate de esas heridas!
+Te estas enfrentando a titanes! andate con mas ojo!
+Tenemos que contenerlos!
+No dejan de llegar...! No podemos dejar que sobreviva ninguno!
+Estas bien?! Yo tambien voy a luchar!
+Yo tambien voy! Podemos ganar si peleamos juntos!
+Los distraeremos! Asi podras acertarles en la nuca, [0:HERO_FRND]!
+Vaya! Mira ahi...!
+Mira como se mueve [0:HERO_FRND]!
+Lo logramos...! Podemos hacerlo... La humanidad puede vencer a los titanes!
+Siguen viniendo... No se acaban nunca!
+Y que? Los mataremos igual que al resto de titanes!
+Siento llegar tarde... Yo tambien quiero ayudar!
+Eso, venimos a unirnos al combate!
+Los titanes estan en guardia...! Atentos a sus movimientos!
+Si las cosas se ponen chungas, no dudeis en retiraros!
+T-Tienen algo raro...!
+Esos titanes... Les noto algo extrano!
+Mira como actuan... Creo que tenemos problemas!
+Retirada! Tenemos a los titanes encima!
+Este titan es mas fuerte que antes...!
+De acuerdo! Si podemos acertarle en las piernas, tendremos una oportunidad!
+Donde esta Eren...? No me digais que se lo han comido los titanes!
+Ha ido a por el titan colosal!
+Que?! Tengo que asegurarme de que este bien!
+Vamos, gente! Juntos, podemos lanzar un ataque sorpresa contra ese bicho!
+Ataquen su punto debil...!
+Acabamos con el! Somos la cana, a que si?
+Andando, vamos a ayudar a Eren!
+Un momento! Viene un titan hacia aqui...!
+Es el fuerte de antes...!
+Tengan cuidado!
+Quiero ayudar a Eren... Mierda! Tendremos que ocuparnos primero de este titan!
+Usa tu equipo de maniobras tridimensionales para ponerte detras!
+No lo pierdas de vista mientras te pones detras de el!
+Es impresionante como te mueves! Sabes que hacer con un titan de verdad!
+Logramos derrotarlo...!
+Mira! Eren... esta enfrentandose solo al titan colosal!
+Una senal de humo?! Alli tambien ocurre algo?!
+No puedo creer que ese titan entrara...!
+Vaya, [0:HERO_FRND]! Lograste matar a esa cosa!
+Eh! Reabastezcanse de gas antes de que se les acabe!
+Cambien de cuchillas antes de que se desgasten!
+Reabastezcanse de gas antes de que se acabe!
+Cambien las cuchillas antes de que se desgasten demasiado!
+Nuestro trabajo es apoyar la guardia media... Pongamos en practica lo que aprendimos!
+Ymir se adelanto para explorar! Tengo que ir con ella!
+Viste eso? Parece que tenemos compania.
+Los titanes... Hay tantos!
+Donde se metio esa idiota?
+Ymir no esta a salvo sola. Tenemos que encontrarla...
+Mierda, no tengo opcion. Matare a todos esos titanes.
+Tengo que darlo todo... Quiero demostrar lo util que puedo ser!
+Seras cien veces mas util que aquel idiota de alli.
+De quien demonios estas hablando?
+Ese humo... Es una llamada de emergencia! Ire a ayudar!
+Dejalos. No es nuestro trabajo.
+Dije que ire. No tenemos motivos para ignorar su llamada de auxilio!
+Aaag!
+Muchas gracias.
+Si ocurre algo, envia una senal de humo y vendre en tu ayuda.
+Gracias! Podemos usar esto para establecer una base y reabastecernos.
+Tienes razon! Menos mal!
+Dejen la charla para despues! Hay un titan en camino!
+Yo me encargo!
+Puedo hacerlo, solo observen!
+Ya acabamos con todos los titanes de la zona. Vamos, Eren... Por alli.
+Hasta luego! Parece que esta vez yo me ocupe de la mayoria de los titanes!
+Ah, Eren! Por favor... ten cuidado!
+Mierda, estoy en problemas! Que alguien me ayude!
+Espero que no te importe, pero yo tambien luchare!
+Se nos acaba el gas, volvamos a reabastecernos!
+Vamos! No podemos reabastecernos con estos titanes aqui! Ayudenme a acabar con ellos!
+No quiero morir!
+Por que tenia que ocurrir esto hoy...? Si a partir de manana iba a estar dentro del muro Sina!
+Nos salvaste... Podemos retirarnos...
+No seas idiota! Tenemos que ir a luchar al frente!
+Callate, cobarde. Ire rapido a reabastecerme.
+Mierda, me llego la hora...? Que alguien me ayude!
+Me salvaste... Gracias, cadete. Me ocupare de la artilleria y te cubrire.
+Mierda, estamos rodeados!
+Son Thomas y Mina! Se supone que tenian que estar con Eren...
+Gente! Nuestro equipo de maniobra no funcionaba, intentamos retirarnos y... el resto ya lo saben!
+Gracias! Ahora podemos retirarnos!
+Si no hubieras venido, seguro que ya estaria muerto. Muchas gracias.
+Uff, no puedo aguantar mucho mas...!
+Estamos perdidos...!
+Nos reabastecimos! Ahora salgamos de aqui!
+Espera! Un titan se dirige hacia aqui!
+No podemos ignorarlo. Tenemos que acabar con el aqui y ahora.
+No te arriesgues demasiado, [0:HERO_FRND]! Esta cosa es mas fuerte que un titan normal!
+No fue nada. Retiremonos.
+Aaaaag!
+Que mierda? Eren y los otros se fueron justo en esa direccion! Rapido!
+Guau... Este parece duro...!
+Creia que la avanzada habia sido destruida... pero estan en la retaguardia. Siguen evacuando civiles?
+Eso parece.
+Tenemos que ayudar a la guarda media e intentar detener a los titanes!
+Un titan se acerca al escuadron de guardia media... Deberiamos ayudar.
+Estamos en camino!
+Eso es de gran ayuda, cadete!
+Entendido!
+Todo bien por aqui! Ve a ayudar a los otros!
+Mataron a la mayoria de los veteranos...?!
+Eso parece.
+Estoy lista por si necesitas refuerzos.
+Mu-muchas gracias! De verdad!
+Parece que estas lista para luchar, Annie!
+Exacto.
+Estamos a salvo, no...? Ve a ayudar a los demas, por favor.
+Espero que la gente no lo este pasando demasiado mal...
+Ten mas fe en tus camaradas, Bertholdt.
+Eso es... Estamos aqui para ayudar.
+Muchas gracias.
+Hay tantos... Hasta donde alcanza la vista.
+No se como, pero lo lograremos!
+Fuiste de gran ayuda, cadete!
+Como va la evacuacion de civiles? Puedes comprobar como van en la retaguardia?
+Nosotros nos ocuparemos de esto. Contamos contigo, [0:HERO_FRND]!
+Una llamada de emergencia...?
+No podemos permitir que los titanes sigan avanzando...! Necesitamos ayuda!
+Gracias, te debo una!
+Puedes usar esto si quieres.
+La guardia central no pudo detenerlos...?!
+Todavia no termina la evacuacion. Protejan a la gente de ese excentrico!
+Eres un cadete de la guardia central? Ayudanos a proteger a los civiles!
+Primero acabemos con el trabajo aqui y luego nos dirigiremos hacia Eren...
+Genial, Ackermann! Sabia que podias hacerlo!
+Aaaaahhh!
+Esto esta mal! Tenemos ayudar ya!
+Que pasa ahi arriba? Rapido!
+Aun no hemos podido evacuar a todo el mundo!
+Mierda, estamos tardando demasiado en evacuar!
+No sirve de nada! Voy a morir!
+Calmate! Estas a salvo con nosotros! Te lo prometo!
+Terminamos la evacuacion de civiles... Tenemos que irnos tambien! Trepen el muro!
+Ayudare a que la avanzada escape!
+Eh? Ackerman! Detras de ella, cadete!
+Pertenezco a este mundo al que llamo hogar.
+Eren... Puedo hacer cualquier cosa mientras estes a mi lado.
+Tenemos que entrar antes de que destruyan el cuartel general!
+No deberiamos reunirnos todos antes de atacar a los titanes de esta area?
+Buena idea... Buscare a gente que no haya huido y les pedire que nos ayuden!
+Yo me encargo!
+Crees que voy a morir aqui?!
+Desde cuando estas tan ansioso por luchar, Jean?
+Shhh! Voy a entrar en el cuartel general aunque sea lo ultimo que haga!
+Jean es muy valiente...
+Vivir o morir, todo se decide en unas decimas de segundo... No tenemos otra opcion mas que luchar!
+Tenemos que librarnos de los titanes que rodean el cuartel general sea como sea!
+Estamos acabados...
+Es hora de poner en marcha un plan para entrar en el cuartel general. Necesito de su ayuda!
+Entendido...! Toma, usa esto!
+Gracias! Con esto puede que consigamos echar a los titanes de esta zona!
+Tenemos que derrotar a lo titanes que rodean el cuartel general...!
+Llego su hora, cabrones!
+Voy a entrar en el cuartel general! Cubreme!
+Entendido! Toma esto tambien!
+Gracias! Esto deberia ayudar a echar a los titanes del cuartel general!
+Tenemos que luchar si queremos ganar...
+Es este el fin...?
+Tenemos un plan para entrar en el cuartel general, y necesitamos tu ayuda.
+Que...? Bien, hare lo que pueda. Toma, esto puede serte util.
+Gracias... Puede que ahora consigamos derrotar a los titanes que rodean el cuartel general.
+Creo que deberiamos poder entrar al cuartel general, no?
+Ese titan... Viene por nosotros! Tenemos que matarlo!
+Ahora! Todos al cuartel general!
+Mierda, estan destruyendo el cuartel general!
+El cuartel general no soportara mas dano! Tenemos que darnos prisa!
+Destruyeron el cuartel general... Como puede estar pasando esto...?
+Estan atacando a civiles! La prioridad es protegerlos!
+No podemos permitir que hagan dano a mas civiles! Hay que protegerlos a toda costa!
+No lo puedo creer... La evacuacion fue un fracaso...
+Este titan me da mala espina...!
+Ese titan podria destruir el cuartel general si quisiera!
+Lo logramos! Demonos prisa!
+Si... No parece que le interesemos demasiado. Solo quiere matar al primer titan que ve.
+Tenemos que librarnos de los titanes que rodean el cuartel y dejar el camino despejado para la evacuacion!
+Creia que estabamos perdidos, pero empiezo a ver la luz al final del tunel...
+No importa lo feas que se pongan las cosas, nunca hay que darse por vencido!
+Si no fuera por Jean, no hubieramos podido reunirnos en el cuartel general. Es un lider nato.
+No te acerques a ese titan! No quiero que nos persiga!
+Ese titan esta atacando a otros titanes! Si lo matamos, solo nos complicariamos mas la vida!
+Ahora estamos un poco mas seguros en el cuartel general.
+Ese titan es increible... Parce que esta enojado...
+Es nuestra oportunidad! En cuanto nos reabastezcamos, hay que escapar por el muro!
+Me pregunto que pasa con ese titan...
+Tiene que ser un excentrico, no? Tendria sentido...
+Gas y cuchillas listas! Ningun titan podra librarse de mi tan facilmente!
+Ya me reabasteci! Puedo acabar con un par de titanes...!
+Sabia que no funcionaria! Que alguien me ayude!
+Incluso los genios cometen errores...! Que alguien me ayude!
+Todo deberia salir bien de ahora en adelante...!
+Llegamos al muro... Estamos a salvo.
+Ayudare guiando a los demas! Tu ve a comprobar el cuartel general!
+No parece que Eren pueda moverse en un buen rato. Tendremos que acabar con este titan sin el!
+No lo puedo creer... Ese titan en realidad era Eren!
+Reiner...
+Eren no morira, verdad...?
+Que rayos pasa aqui...?!
+Pues... no creo que nadie tenga una buena explicacion...
+Maldicion, cuando piensa Eren volver en si?
+Eren...!
+Seguira inconsciente un buen rato. Tenemos que protegerlo...
+Ahora deberiamos poder cargar a Eren hasta el muro. Pero, que le paso exactamente?
+Quiero establecer una base para fortalecer las defensas del cuartel general. Alguien me ayuda?
+Nosotros te cubrimos!
+Espera! Yo ire!
+Todo listo para la base! Ahora la evacuacion no deberia ser un problema!
+Genial! Se lo comunicare al resto!
+Gran trabajo!
+Ug... M-mama!
+Pobre soldado... No pudimos hacer nada por el...
+Perdonanos!
+Alguien puede perseguir a ese titan?! Construimos una base cerca del cuartel general para ayudar a detenerlo!
+Entendido! Estoy en ello!
+Pienso que necesitaras mi ayuda...
+Gracias! Instalamos la base sin ningun problema!
+Con esto, la evacuacion sera mucho mas facil.
+Espero que con esto la evacuacion sea mas facil...
+Pero... no... no quiero morir
+Siento que no hayamos podido ayudarte...
+Perdonanos... por no haber ayudado.
+Aaah! Que alguien venga rapido!
+Se la comeran!
+Ug, que horror... Hasta aqui llegue, me retiro. Gracias, chicos!
+No puedes huir por ti mismo! Te ayudare a llegar a un lugar seguro!
+No puedo... continuar...
+Mierda... A cuanta gente perdimos hoy...?
+Ups... Me atraparon...!
+No, le estan atacando!
+Lo siento...
+No hay problema...
+Asi que... se acabo...
+No... no pude ayudarlo.
+Una senal de humo...? Tengo un mal presentimiento sobre esto... Deberia ir a echar un vistazo.
+Eren...?! Dios mio...
+Mikasa! Pero... como es posible?
+Armin... Ah!
+Es hora de reconquistar Trost!
+Tenemos que mantener a los titanes lejos de Eren! Atraelos hasta el muro y destruyelos!
+Le prometi a Eren... que no moriria aqui.
+Si los atraemos hasta el muro, podremos destrozarlos con toda la artilleria que hay alli.
+Asegurate de hacer un buen trabajo con la artilleria para que la mision sea un exito!
+Desde que aparecieron los titanes, la humanidad no ha logrado derrotarlos.
+A medida que los titanes avanzaban, la humanidad se vio obligada a ceder terreno varias veces.
+Pero el exito de esta mision sera recordado como la primera vez que los humanos lograron recuperar territorio de manos de los titanes.
+Se podria decir que es la primera vez que la humanidad ha salido victoriosa ante los titanes en general.
+Hasta ahora, la humanidad solo habia sido el objetivo de los ataques. Un grano de arena mas.
+Pero este sera el primer gran paso para la raza humana!
+Aah...!
+Un titan... Por favor, ayuda!
+Me... me salvaste la vida!
+Lo siento Daz, pero tenemos que ponernos manos a la obra! Vamos, a la batalla!
+Eso deberia reducir bastante el numero de titanes.
+Arg... Ahora no!
+Que hace Jean...? No me digas que su equipo de maniobras no funciona bien!
+Ayudare!
+Hice algunos ajustes en mi equipo. Ahora deberia funcionar!
+Buena noticia... pero no se si te diste cuenta de que estamos rodeados por titanes...
+Eres tu, Armin? Y uno de tus companeros cadetes? Aqui corren peligro... Vayan al muro!
+Ya no soy el de antes... Ahora puedo luchar!
+Muchas gracias! Creia que era mi fin...
+Todo el mundo esta bien... Gracias al cielo!
+Mis obligaciones me llaman! No te mueras solo!
+Bien, logramos atraer a la mayoria de los titanes hasta el borde del muro!
+El resto te lo dejo a ti, Eren!
+Eren, Mikasa... Que paso?!
+Y ahora que hace?! Sera mejor que vayamos a ayudarlo.
+Aguanta, Eren! Estas intentando tapar el muro con esa roca, no?
+Que haces, Eren?!
+Mierda, mira como esos titanes rodean a Eren! Acaben con ellos!
+Eren... A nosotros tambien nos ataca?!
+Destruira la base si la ataca... Tengan cuidado!
+Eren nos ataca! Ayuda!
+No! Eren morira!
+Maldicion... Necesito ayuda!
+Me salvaste... Ahora me toca a mi ayudarte.
+Esto no es bueno... Ayuda!
+Gracias, chicos! Ahora les ayudare!
+Logramos derribar a los titanes que rodeaban a Eren!
+Como salio, Mikasa? Eren esta bien?!
+El titan no se comportaba como Eren queria. La mision fracaso... A este paso, estaremos perdidos!
+Sacare a Eren de aqui! Mikasa, manten a los titanes lejos de esta zona!
+Rico! Ocupate del titan del fondo! Mitabi y yo nos ocuparemos de los dos primeros!
+Eren esta indefenso. No podemos dejarlo asi!
+Armin! Ten un poco mas de cuidado!
+Mikasa! Haz lo que puedas! Solo por estar aqui ya nos ayudas!
+Cientos de personas ya murieron por su culpa! Y tu quieres que sigamos asi?
+Entonces que hacemos? Como podemos derrotar a los titanes sin perder mas vidas...? Sin perder lo que nos hace humanos?
+No... no lo se.
+Justo lo que pensaba. Eso significa que no tenemos otra alternativa que arriesgar la vida por nuestra arma humana.
+Buen trabajo, Mikasa! Yo me ocupare del resto!
+Erg, no sirve de nada, tengo que retirarme... No puedo morir aun...
+Eren, tu... Aaaah!
+Y ese titan? Maldicion, no podia llegar en peor momento!
+Ocupense del resto, chicos...
+Asegurense de que Eren este a salvo para moverse con libertad. No dejen que los titanes se acerquen a el!
+Aunque nos cueste la vida, tenemos que llevar a Eren hasta esa puerta!
+Vengan por mi, titanes! Si no... los apunalare en ese trasero gigante que tienen!
+No tenemos opcion... Sigamos al escuadron Mitaba!
+Yo me encargo!
+Hoy es el dia en el que la humanidad sale victoriosa!
+Titanes de mierda... Su tirania sobre los humanos llega a su fin!
+Tenemos que confiar en Eren. Se que puede lograrlo!
+No te pongas en el camino de Eren!
+Por aqui, titanes!
+A ver si puedes atraparme, grandulon idiota!
+Te matare!
+Eren esta en peligro... Le estan atacando!
+Mataran a Eren! Tenemos que hacer algo!
+Eso es, Eren! Casi llegas al agujero en el muro!
+Ese es el Cuerpo de exploracion! Regresaron del muro!
+Podemos discutir todo mas tarde. Ahora mismo tenemos que matar a todos los titanes de dentro del muro...
+Parece que aun puedes luchar, cadete. Ayudame!
+Cualquiera que quede que ayude con esto. Lleven a Eren a algun lugar seguro.
+Dispersense y barran a esos titanes!
+Llegas tarde... Tuviste problemas en el bano o que?
+No hay tiempo para charlar. Tenemos que lidiar con esta situacion!
+Eh? Ese es un cadete?
+Tu eres el que acaba de decir que no hay tiempo para charlar!
+Ah, tienes razon! Lo siento.
+Me voy... Les ensenare a esos titanes lo que es bueno!
+Eren hizo un trabajo sobresaliente. Ahora nos toca hacer nuestra parte.
+Vaya, vaya... Si son los refuerzos de la Tropa de guarnicion.
+Parece que ya se ocuparon de la mayor parte...
+Parece que este causara problemas...
+Tienes razon... Fascinante! Oh, me gustaria acercarme para echar un vistazo!
+Estamos aqui para destruir titanes, no para examinarlos. Asi que date prisa, cuatro ojos!
+Creo que pueden oirnos... Oye, tu, el de ahi! Que le paso al distrito Trost?
+Capitan! Dejeme esto a mi!
+Ah, si, el Cuerpo de exploracion... Voy a disfrutar a conciencia!
+Lo logre! De eso me puedo encargar...
+Capitan, voy por buen camino para acabar con el titan!
+De acuerdo... pero no te vayas por ahi tu solo.
+Capitan, puedo ocuparme de esto.
+Parece que todo esta en orden.
+El objetivo fue sometido con exito!
+Ahora que, capitan?
+Estoy listo para acabar con este titan.
+Yo me ocupo a partir de aqui, capitan!
+Los preparativos estan completados! Ahora, a acabar con este titan!
+Ahi! Eso deberia ser suficiente...
+Capitan, que le paso al distrito Trost?
+Podemos pensar mas tarde en eso. Ahora necesitamos concentrarnos en el enemigo frente a nosotros.
+Puedo ocuparme de esto yo solo, capitan.
+Mate a esa cosa.
+Ahora me concentrare en vigilar esta zona.
+De acuerdo... buena suerte.
+No esperes que esos titanes caigan sin luchar! Quiza te lleven con ellos!
+Gracias! Estaba preparado para morir, pero gracias a ti no tengo por que.
+Pero aun quedan titanes... Intentemoslo una vez mas!
+Maldita sea, esto no se ve bien...
+Lo siento! Me salvaste la vida!
+Aun quedan titanes... Hare todo lo que pueda para hacerles la vida imposible.
+Tienen a Eren?! Entonces la humanidad... perdio...
+Aaaaag!
+Ian! No dejare que te maten como a un perro!
+Maldito seas!
+Mitabi! No dejare que mueras en vano.
+Dense prisa con esos refuerzos! Que alguien venga rapido!
+Gracias por salvarme la vida.
+Nuestros camaradas siguen luchando. Tenemos que ayudarlos!
+Mmm, deberia haber sabido que esta cosa apareceria.
+Guau! No ves un titan como este todos los dias!
+Gracias por estar aqui hoy! Probablemente estes nervioso... Pero estaremos aqui para cubrirte!
+Y un vistazo a estas linduras de titanes y te desaparecera el nerviosismo!
+Muy bien, ocupemonos de los mas cercanos al muro primero.
+Tu actuacion en el distrito de Trost fue increible.
+Con algo de experiencia, les vas a dar vuelta incluso a nuestros veteranos!
+Ooh, mira a ese titan! Hola, te gustaria jugar con nosotros?
+Que lindura! Te podria comer a besos!
+Buen trabajo, [0:HERO_FRND]! Pero preferiria que los capturaras vivos.
+Oh, te tienen! No te preocupes, ya voy!
+Siento tanto haberte hecho dano...
+Dime, eres bueno con los caballos?
+Como probablemente sepas, la mayoria de las actividades del Cuerpo fuera del muro se realizan a caballo.
+Te ayuda a ir mas rapido que los titanes en distancias largas y no tienes que preocuparte por cuchillas o gas.
+Maravilloso, nos acercamos sin ningun problema!
+Comandante! Un grupo de titanes se acerca al muro!
+Esplendido! Me muero de ganas por conocerlos! Por esto es tan divertido luchar en el frente!
+Date prisa! No tienes ganas de ver que titanes nos esperan?
+Hange, que haces? Se supone que estas a cargo del muro.
+Ah, ya acabamos todo alli. Asi que queria aprovechar esta oportunidad especial para conocer mas titanes!
+Hay un grupo de titanes aqui! Preparense para interceptarlos!
+Estabas posicionada en la zona segura alrededor del muro para proteger al cadete... No deberias estar aqui.
+Pense que seria una buena oportunidad para que el cadete viera la situacion fuera del muro y se encontrara con unos pocos titanes!
+No deberias ser tan imprudente.
+Guau... No esta mal para un cadete.
+Logramos sobrevivir a su ataque.
+Avistamos humo! Parece una llamada de emergencia!
+De verdad? Yo me ocupo.
+De acuerdo! Entonces iremos contigo!
+Hange... No me importa que vengas tu, pero no quiero que el cadete muera.
+Claro que no! Sere responsable y ofrecere todo mi apoyo!
+Levi! Venimos a ayudar!
+Cuatro ojos... Que haces aqui?
+Dios mio! Mira al titan con el que lucha Levi!
+Por que la trajiste aqui, Miche? Por no mencionar al cadete.
+Hange eligio venir aqui.
+Mmm... Oye, cadete! No te acerques a los titanes!
+Bueno, bueno... no esta mal...
+Esto lo soluciona. Ahora, retirada!
+Ese olor Se acerca otro titan!
+Malditos titanes... Acabemos con esto de una vez.
+Que casualidad encontrarse con un titan como tu en un sitio como este! Oye, Levi, nos podemos llevar este a casa?
+Tienes que estar bromeando.
+Cumplimos con nuestro deber. Ahora, vayamonos.
+Fue divertido conocer a tantos titanes nuevos hoy. Espero volver a verlos otra vez pronto!
+Moblit esta luchando contra un titan ahi... Oye, esta lista nuestra base ya?
+Comandante, ayuda por favor! No puedo continuar con la inspeccion de la nueva base hasta que este titan se haya ido!
+Como sabes, los titanes son fuertes... Pero el uso efectivo de una base puede inclinar la balanza a tu favor
+Una base puede ayudar de muchas formas, desde permitirte reabastecerte a darte apoyo adicional durante una batalla.
+Objetivo eliminado!
+Ahora puedo continuar con mi inspeccion. Gracias.
+Por cierto, la base que acabo de montar esta hecha especialmente para luchar y tiene capacidad ofensiva. Por favor, aprovechala al maximo.
+Nanaba esta luchando ahi... Oye, Nanaba, como va la inspeccion de la base?
+No puedo hacer nada con este titan aqui. Puedes ayudarme, Hange?
+De acuerdo, ese titan ya no molestara mas.
+Gracias, ahora puedo continuar con mi inspeccion. Y gracias a ti tambien.
+La base que monte es para reabastecerse. Deberia ser util, asi que por favor, aprovechala al maximo.
+Que hace Gelgar luchando contra un titan? Pensaba que le habia dicho que montara una base...
+Quiero montar la base, pero este maldito titan esta en medio... Hange! Ayuda, por favor!
+Eso deberia acabar con tus distracciones.
+Gracias, volvere a la inspeccion de la base de inmediato! Te lo agradezco!
+La base esta hecha especialmente para obtener provisiones. Espero que ayude!
+No... Esto no deberia haber pasado...
+Una senal de humo...! Tengo la sensacion de que nos espera una sorpresa!
+El objetivo de nuestra mision es capturar! Primero, tenemos que asegurarnos de que ningun titan pueda entrar dentro del area para distraernos!
+Montar una base en el lugar adecuado ayudara a avistar titanes con mas facilidad cuando se aproximen!
+Ven con nosotros, [0:HERO_FRND]! Estaras en peligro si nos separamos.
+Ahora, vamos a capturar a un bonito titan!
+Que emocionante! Me pregunto que clase de titan aparecera!
+Creo que estas demasiado emocionada, comandante de seccion!
+Hay un titan en el lugar previsto para montar la base...
+Ese no es el tipo de titan que busco. Ve y matalo!
+Esta base se monto con exito!
+Comandante de seccion, quedan tres lugares planeados para montar bases!
+Comandante de seccion Hange! Se avisto un titan en un lugar planeado para una base!
+Donde, donde?! Ah. Ese no es del tipo que quiero. Acaba con el y continua con la construccion de la base!
+Titan derrotado! Ahora continuaremos montando la base!
+Comandante de seccion, quedan dos lugares planeados para montar bases!
+Maldita sea... Estos titanes estan siendo molestos.
+Controla esa actitud, Levi! Si quieres que la humanidad gane, claro...
+Acabamos de construir la base.
+Teniente Levi, gracias!
+Ooh, este es el tipo de titan que me gusta a mi... Je, je, je...
+El titan que se encuentra en el lugar planeado para la base sera eliminado! De acuerdo?
+Si, por favor, eliminalo.
+La base esta montada...!
+Comandante de seccion, finalizamos la construccion de todas las bases!
+A partir de ahora unire fuerzas contigo... Ya que tu solo no sirves de mucho.
+Teniente Levi, muchas gracias!
+Montamos el escenario... Por fin es la hora de poner en marcha mi plan para capturar a un titan!
+Creo que podriamos capturar a ese, no te parece? Ten mucho cuidado, por supuesto!
+Capturar a un titan es incluso mas dificil que matarlo. Pero si lo logramos, podre progresar rapidamente con mi investigacion!
+Puedes usar las trampas que te di antes. Buena suerte con la captura!
+Para capturar a un titan, tienes que debilitarlo primero!
+No dejes que se acerque ningun otro titan hasta que hayamos acabado de capturarlo!
+Protege al equipo de recuperacion hasta que hayan acabado de recuperar al titan capturado!
+Necesitaras hacer uso de nuestras bases para capturar al titan con exito.
+Prepara la trampa antes de que el titan se de cuenta! No funcionara si el titan sabe que pasa!
+Coordinense para lograrlo! Tendran muchas mas posibilidades que si trabajan solos!
+No pasa nada si fracasas! Tenemos muchas trampas a la mano!
+Capturaremos a ese, asi que deja de atacar! Sera mejor que no lo mates sin querer!
+Estuvo cerca! Intentemoslo de nuevo!
+Preparense... Hoy nos llevaremos un titan a casa!
+Tranquila, comandante de seccion!
+Hange no hace nada por ocuparse del cadete...
+Lo logramos! Capturamos un titan de cuatro metros!
+Felicidades, comandante de seccion! Nuestra mision fue un exito!
+Demonos prisa y salgamos de aqui.
+Si... Podemos hacer esto! El proximo lo quiero de siete metros!
+<El proximo>? Maldita sea, cuatro ojos!
+Se que nuestro objetivo es un poco mas grande esta vez, pero el metodo es el mismo!
+Aun tenemos algo de equipo adicional, asi que no se preocupen si se equivocan!
+Dejen de atacar! No quiero que nadie lo mate!
+Estuvo cerca! Intentemoslo una vez mas!
+Tranquilizate, Hange!
+Silencio, Levi! No puedo dejar que se nos escape una oportunidad tan especial!
+Lo siento, teniente Levi! Por favor, quedese con la comandante de seccion un poco mas!
+Si! Capturamos un titan de siete metros! Yuju!
+Lo logramos, comandante de seccion!
+Termine con esto.
+Oh no! Un titan se metio en el area de nuestra mision de captura!
+Crees... que vino a ayudar a su pobre amigo preso?
+Vamos...
+Necesitamos abrir un camino para la retirada, comandante de seccion! No tenemos personal para mas capturas!
+Esperaba capturar uno mas... pero supongo que no lo vale.
+Sobre el titan que paso... Odio decir esto, pero tenemos que acabar con ell.
+Lo matare y acabare esta mision de una vez.
+Tenemos que volver rapido con estos valiosos sujetos para que pueda empezar mi investigacion!
+Siempre aparece un enemigo super fuerte en el ultimo momento...
+Eso es todo. Ahora, salgamos de aqui.
+Gracias a todos por su ayuda hoy! Ahora, volvamos a casa con nuestros nuevos amigos!
+No puedo creer que Hange este capturando titanes vivos de nuevo...
+Hange, puedo matar a ese titan, verdad?
+Ojala pudieramos llevarlo a casa, pero... Si, puedes matarlo.
+Bien hecho! Ahora, si no te importa, ayudame con el resto...
+Si que me importa, la verdad... Oh, bueno...
+Ag... Se me rompio el equipo de maniobras tridimensional! Lo siento, tengo que retirarme!
+De acuerdo, adelante.
+Mmm... Maldita cuatro ojos...
+Hange debe de estar loca. Quien iria en una mision tan peligrosa...?
+Esto nunca funcionara, Hange... No puedes capturar a un titan!
+Quiza no, pero aun asi lo intentaremos, Oruo! Si no lo hacemos, la humanidad nunca vencera a los titanes!
+Listo, Oruo. Ahora, sigamos!
+Arg... Me quiero ir casa...
+Estoy herido! No puedo mas... Me largo...
+Bueno, pues hasta luego!
+Maldita sea... Hange tiene que tratar mejor a los miembros de mi escuadron...
+Quieres que abatamos a este, no? Nos enfrentamos a un buen reto...
+Muchas gracias por la ayuda!
+Ah, no hay de que... Te hacia falta.
+Gracias! Ahora sigue asi!
+Entendido...
+Ag... Lo siento, tengo que retirarme!
+Estas bien? Cuidado al volver.
+Maldita sea por poner mi escuadron en peligro...
+No trataras de capturar a este, no...?
+No me parece que este plan este yendo demasiado bien...
+Pueden hacerlo! Son la elite de la elite, no?
+Eso es, buen trabajo! Un poco mas y esta mision sera un exito.
+Uff... Me estoy esforzando al maximo...
+Ay... No puedo seguir...
+Pueden darle la espalda si quieren! Volveremos con los especimenes mas tarde!
+Maldita seas, cuatro ojos... Meter a mi escuadron en esto...
+No! Comandante de seccion, es demasiado pronto para su muerte!
+Una senal de humo...? Venir hoy resulto ser muchisimo mejor de lo que esperaba!
+Si, ese es un buen ejemplar... Moblit, preparate para capturarlo!
+O crees que es demasiado para nosotros?
+Comandante de seccion, este lo descartamos. Moriremos todos si no lo matamos!
+Lo derrotamos... Estuvo cerca.
+Ag! Si hubiesemos capturado a ese titan, habria sido un valioso objeto de estudio...
+Estableceremos una base de aprovisionamiento en el centro del pueblo. Que se prepare todo el mundo!
+Ven conmigo, [0:HERO_FRND]. Construiremos una base en el limite del pueblo para poner vigilancia.
+Solo podemos construir cierto numero, asi que no te pases... Entendido?
+No muchos poseen tu olfato, [0:HERO_FRND]...
+Eso es. Sigue asi!
+Estupendo, ahora un poco mas.
+Parece que la base esta terminada. Ahora podremos ver a los titanes cuando se acerquen.
+La construccion de la base fracaso... Todo el mundo alerta!
+Me alegra ver que estan bien, sabia que asi seria. Nos vamos a unir a ustedes.
+Debemos derrotar a todos los titanes hasta que la base de aprovisionamiento este lista.
+Dense prisa con las tareas. Y no holgazaneen!
+En cuantas misiones fuera de los muros hemos estado ya...?
+Buena pregunta... No puedo llevar la cuenta.
+Pero hare todo lo que pueda para garantizar que esta no sea la ultima.
+Uff... Esto es mas dificil de lo que pensaba...
+Gracias! Pedire refuerzos!
+Maldita sea... Son demasiado fuertes...
+Lo siento! Ahora puedo ir a pedir ayuda.
+Arg... Pensaba que podia con esto...
+Gracias! Hare que envien refuerzos!
+Maldicion... No puedo hacer esto solo!
+Gracias! Pedire refuerzos para tener mejores opciones.
+La base de aprovisionamiento esta terminada. Preparen la retirada.
+Nuestro trabajo aqui concluyo.
+[0:HERO_FRND]! Hiciste un gran trabajo!
+Perder la base de aprovisionamiento equivale a que la mision fracase. Deberiamos salir de aqui antes de que lleguen los titanes...
+Atencion! Varios titanes se dirigen hacia aqui!
+Aaaah! Un grupo grande de titanes viene directo hacia nosotros!
+Retirada de todas las tropas! Eliminen a los titanes y despejen una via de escape, rapido!
+No me creo que no los hayamos visto hasta ahora...
+Levi, podrias ir tu tambien?
+Bien... Estoy en ello.
+Respondimos demasiado tarde...
+Quiero construir una base para interceptarlos antes de que lleguen a nuestra base de aprovisionamiento...
+Podrias ayudarnos, [0:HERO_FRND]? Pero antes que nada, tenemos que eliminar a todos los titanes de la zona.
+Muchas gracias, [0:HERO_FRND]! Ahora, a preparar la base para interceptarlos.
+Si no preparamos una via de escape segura, vendran todavia mas titanes y destruiran la base de aprovisionamiento.
+La base de aprovisionamiento sufrio danos graves. Salgamos de aqui, ya!
+Aseguramos una via de escape! Que todo el mundo se retire inmediatamente!
+Destruyeron la base de aprovisionamiento... Lamento decir que esta mision fracaso.
+Q-que es esa cosa...?! No es como los demas...
+Vaya suerte... Demonos prisa y acabemos con estos titanes.
+Pensemos en las prioridades. Primero hay que eliminar a los titanes.
+Solo una transformacion parcial...? Teniente...
+Calma, Eren. Quedate aqui y observa mientras derrotamos al titan.
+Vaya! Ese titan, no puede ser!
+Ese es... Esto tiene que ser una broma!
+Pero que demonios esta haciendo Eren?!
+Eren esta en peligro... Si no eliminamos a esta cosa, estamos acabados.
+Vuelvo con el comandante de seccion.
+Comandante de seccion, no pasa nada por estar aqui con Eren...?
+Aqui todos tenemos el mismo objetivo! Tenemos que hacer lo que podamos!
+Estoy preocupada... Vuelvo con el comandante de seccion.
+Que esta pasando con Eren? Quien le dio permiso para hacer esto?
+Los titanes son una amenaza demasiado peligrosa. No podemos dejar que pululen libremente!
+Vuelvo con Eren.
+Eren nos ve... ve a toda la humanidad... como enemigos?
+Puede que tengamos que matar a Eren en funcion de su respuesta...!
+Deberia volver durante un rato.
+Eh? Que fue ese ruido?! Pero... que dem...?! Ay! Ay, cielos!
+Maldicion... Mira quien vino y en el peor momento posible.
+No lo vas a creer, Moblit! Es Eren! Y tiene un brazo de titan!
+Co-comandante de seccion... Se esta poniendo demasiado nerviosa! Relajese!
+Los titanes se nos vienen encima! No podemos perder tiempo con Hange y los demas!
+Mira eso, Moblit! Su brazo!
+Comandante de seccion! No es momento de quedarse embobada!
+Oye, Eren... Te importa si compruebo a que huele tu brazo de titan?
+Comandante de seccion, no se acerque tanto!... Me esta escuchando?!
+Guau!
+Co-comandante de seccion!
+Me muero de ganas por tocarte el brazo, Eren! Puedo, porfaaaaa? No te importa, verdad?... Oh!
+Comandante de seccion! Es que quiere que la maten?!
+Como esta unido a tu mano? Quiero verlo!
+Espera... Si! Deberia poder tirar para sacarlo...
+Que haces?! Eren! Quiero hacerle algunas pruebas!
+Se acabaron las pruebas por ahora. Demonos prisa y retiremonos.
+Eren, vienes conmigo.
+[0:HERO_FRND], ayuda a proteger a Eren.
+Como te sientes, Eren?
+No muy bien.
+No tenia ni idea de lo poco que confiaban en mi... hasta que sacaron las cuchillas.
+Bueno, por supuesto... Ese es el tipo de personas que elijo para mi escuadron.
+No solo sobrevivieron, sino que lograron muchas cosas en innumerables batallas infernales.
+Hay que ser saber reaccionar, ser rapido y estar listo para la accion mientras anticipas lo peor. Asi es como se sobrevive ahi fuera.
+Dicho esto, no es que no me haya molestado que desenvainen contra ti.
+Arg, estamos rodeados de titanes... Ahora que?
+Esto me esta empezando a fastidiar... Los destruire a todos.
+No luches, Eren. Quedate atras.
+B-bien... Maldita sea, ojala pudiera hacer algo...
+Arg... Cuantos titanes...
+Aaaag! Sueltame!
+Aah! Que alguien me ayudeee!
+Aaaaaarggg!
+Arg, ese maldito...! Atencion! Mantenganse alejados de Eren mientras luchan!
+No parecen interesados en nosotros, asi que el plan sigue en marcha.
+Eren, soy yo! Puedes oirme?... Es inutil, no podemos llegar hasta el.
+Maldito seas, Eren! Mira que convertirte en un titan...
+Eren, por que tenias que transformarte en titan otra vez?!
+Por que ignoraste las ordenes, Eren?! No nos entiende! Es imposible!
+Por que, Eren? Por que no me oyes?
+Bien, ganaremos algo de tiempo para que todo el mundo se retire!
+Bueno, espero que esto funcione...
+Ag! No puedo luchar con estas heridas. Lo siento, tengo que retirarme...
+Eh! Eren dejo de moverse!
+Es nuestra oportunidad de agarrar a Eren y retirarnos.
+Perdimos a Eren? No...!
+Este titan nos dara problemas...
+Que fastidio. Acabare con el rapidamente.
+Los de la tropa principal atravesaremos el casco antiguo hacia las llanuras. Preparense para la formacion de deteccion de enemigos a larga distancia!
+El resto de los escuadrones se uniran a nosotros en las llanuras. Miche, quiero que los guies y los protejas.
+Entendido... Parece ser que los titanes lograron reunirse en la zona del casco antiguo.
+Equipo de apoyo! Nuestra mision es ayudar a los escuadrones a unirse a la tropa principal!
+Acaben con cualquier titan que se encuentren para asegurar una ruta y acortar su distancia hasta la tropa principal.
+Esta calle acortaria la distancia que deben recorrer... Ahora, a matar a los titanes que bloquean el camino.
+Los desvios hacen que aumente tanto la distancia como el peligro, asi que acaben con los titanes tan rapido como puedan.
+No podemos dejar que los escuadrones se enfrenten a los titanes. Tenemos que acabar con ellos primero.
+Los escuadrones empezaron a moverse... Tenemos que asegurarles una ruta, rapido.
+Bien, ya pueden usar esta calle.
+Maldicion, lo de esta calle no funcionara. Tendran que tomar un desvio.
+Los escuadrones empezaron a moverse. Tenemos que protegerlos.
+Si logramos derrotar a los titanes y asegurar una ruta, podran atravesar el casco antiguo mucho mas rapido.
+Miche! Si logramos asegurar esta calle, los escuadrones tendran que recorrer menos distancia. echanos una mano!
+Bien, ahora no sera necesario que los escuadrones se desvien.
+Protegeremos esta zona con nuestras vidas!
+Por aqui, titanes!
+Maldicion, no puedo seguir... Lo siento!
+Arg... Tendremos que dejar esta ruta y hacer que los escuadrones se desvien.
+Miche! Si logramos asegurar esta zona, los escuadrones tendran que recorrer menos distancia.
+Esto ayudara a asegurar su ruta...!
+Maldita sea, no puedo hacer mas. Me adelanto al exterior!
+Una llamada de auxilio...? Asegurar tambien esa ruta podria ahorrar algo de tiempo... Vamos a ayudarlos.
+Si mantenemos esta zona a salvo, los escuadrones pasaran con mas facilidad. Por favor, echenme una mano!
+Esta bien, ayudaremos!
+Lo logramos! Ahora, ya no sera necesario que se desvien.
+Es inutil... Informenles que no pueden ir por aqui.
+Maldicion, esta ruta no funcionara. Tendran que tomar un desvio.
+Que tal va tu olfato, Miche?
+Bien. Espero que resulte util en esta batalla.
+Ojala pudiera detectar titanes solo con el olfato como tu...
+Es inutil. Por mucho que nos esforcemos, no saldremos de esta.
+Llegan uno tras otro...!
+Asi es... Pero es nuestra oportunidad de ensenarles lo que sabemos hacer.
+Ahhh... Estoy tan... asustada...
+Tranquila. Los protegeremos hasta que salgan.
+Aah! Un t-titan!
+Yo me encargo!
+Ya estan todos los titanes de la calle principal. Ya pueden pasar sin peligro.
+Mu-muchas gracias!
+La calle principal es demasiado peligrosa... Elijan otra ruta.
+E-entendido!
+Aaah! Los titanes...
+Lo de la calle principal funcionara. Elijan otra ruta!
+Gr-gracias, [0:HERO_FRND]. Me adelantare para reunirme con la tropa principal.
+Eh? Es... [0:HERO_FRND]! Ey!
+Nunca pense que te veria aqui. Te importaria ayudarnos si aparece un titan?
+Vaya... un titan!
+Esto no es bueno para los escuadrones que pasan por aqui... Yo me encargo.
+Esta calle esta asegurada. Sigamos!
+No se que habriamos hecho sin ustedes... Gracias!
+Hay demasiado peligro mas adelante. Necesitamos otra ruta.
+E-entendido!
+Entendido! Bien, deberiamos poder reunirnos con la tropa principal pronto.
+De acuerdo! Entendido!
+La calle principal es demasiado peligrosa. Encuentren otra ruta para salir del casco antiguo.
+Entendido! Encontraremos otra ruta!
+Gracias por ayudarnos a salir de alli con vida... Nos reunimos con la tropa principal en la llanura.
+Todavia quedan caminos que asegurar. Comprobemos el casco antiguo mientras podamos.
+Todos los escuadrones empezaron a moverse. Tenemos que darnos prisa y cubrirlos.
+Todos los escuadrones empezaron a moverse. Y presiento que se acercan mas titanes... Cuidado.
+No te esfuerces demasiado, Nanaba. Te queda mucho gas?
+Estoy bien, Gelgar. Me preocupas mas tu, con lo agitado que estas... No te dejes llevar y acabes rompiendo tus cuchillas, si?
+Maldita sea! Como pudo pasar?!
+Mantengan la formacion cueste lo que cueste!
+No tengan miedo! Confien en el equipo de apoyo y sigan avanzando!
+Eren, dejanos los titanes a nosotros! Sigue avanzando!
+Bien! Gracias!
+Gracias a todo el apoyo, podremos salir de aqui antes de lo que me esperaba.
+Gracias a los refuerzos, parece que podremos salir de la ciudad sin tener que luchar contra ningun titan.
+Entendido! Tomaremos otro camino!
+Maldita sea! Ese titan nos bloquea el paso!
+No pasa nada, dejanos a nosotros!
+Lo lamento... Y gracias por la ayuda!
+Gracias a ti tambien, [0:HERO_FRND]. Ya me uni al grueso de las tropas.
+Acabaremos con todos los titanes que haya en el camino. Ustedes limitense a avanzar!
+Bien, gracias!
+Entendido!
+El camino es peligroso. Tomen otra ruta.
+Bien, encontraremos otra ruta!
+Entendido. Iremos por la calle principal.
+Entendido. Iremos por otra ruta.
+Entendido. Espero que Eren este bien...
+Los titanes nos bloquean el paso... No iremos a ninguna parte.
+Gracias por la ayuda.
+Gracias, [0:HERO_FRND]. Ya me uni al grueso de las tropas.
+Nos ocuparemos de los titanes de la zona. Ustedes centrense en salir de la ciudad.
+Gracias... Confiamos en ti.
+Entendido! Agradezco mucho la ayuda!
+Entendido! Nos desviaremos!
+Arg... Aqui no! No podremos ir a ninguna parte con esos titanes en el camino!
+Gracias por la ayuda! Ahora podremos avanzar!
+Entendido! Iremos por la calle principal!
+Bien! Tomaremos otro camino!
+Me salvaste, [0:HERO_FRND]. Estoy con el grueso de las tropas en las llanuras.
+Todos los escuadrones lograron salir de la ciudad. Debemos reunirnos con el grueso de las tropas en las llanuras!
+...?! Este olor me resulta familiar!
+Un excentrico...? Si no hacemos algo, le dara problemas al grueso de las tropas. Acabemos con el aqui y ahora.
+Hicieron un gran trabajo. Ahora, a reunirse con las tropas en las llanuras.
+Huele a otro titan. Debemos detenerlo antes de que alcance al grueso de las tropas.
+Este titan es duro... Me ocupare de el. Los demas soldados no sabrian ni por donde empezar.
+Eso es. Con eso le simplificamos la vida al equipo de apoyo.
+Maldita sea.. Hay heridos entre los escuadrones. Se rompera la formacion...
+Avancemos hacia el objetivo, pero sin perder la formacion! Tengan cuidado, no sabemos donde estan los titanes!
+Aguanta, cadete! No te asustes y no empieces a dudar!
+Titan avistado!
+Debemos acabar con esa cosa cuanto antes. Hagamoslo, cadete!
+Eliminacion completada! Sigamos!
+Recluta, no te alejes de nosotros! Ni se te ocurra irte por tu cuenta!
+Maldita sea, otro titan...!
+Estas cosas no dejan de venir una tras otra... vaya suerte que tenemos!
+Como es que no los vimos? Bueno, al menos no eran muchos.
+Podria haber mas titanes escondidos por la zona. Tengan cuidado!
+Maldita sea, por que hay tantos titanes aqui?!
+Son demasiados... Por que los exploradores no los vieron antes?
+Hay demasiados titanes. Deben de estar tramando algo...
+Creo que tenemos un problema a la hora de detectar al enemigo...
+Otra vez...?! Que esta pasando? Se rompio la formacion?
+Logramos pasar, pero con tantos titanes...
+Miren! Una senal de humo!
+Se rompio la formacion...! Recluta, podrias informar al resto de los escuadrones?
+unete a cualquier escuadron que encuentres!... Llevate esto tambien. Y sobre todo, no te mueras!
+Hay demasiados titanes... A que crees que se debera?
+Gracias! Hay demasiados titanes por la zona. Debemos reducir su numero si no queremos tener problemas.
+Nosotros nos uniremos a otro escuadron! Ustedes sigan avanzando, pero no hagan tonterias!
+Arg... Esto no funcionara. Eviten a los titanes y sigan avanzando!
+Parece que la formacion se rompio...
+Lo siento, cadete. Hay demasiados titanes. Debemos matar a unos cuantos.
+No ganaremos nada si dejamos que nos maten... Debemos evitar este combate.
+Uniremos fuerzas con otro escuadron! Pero nada de hacer tonterias, si?
+Llegas en el momento perfecto, cadete! Nos podrias echar una mano?
+Gracias. Eran muchos mas titanes de los que esperabamos... Vayamos a ver que tal va todo.
+No te preocupes por nosotros. Nos uniremos al proximo escuadron que llegue.
+Siempre supe... que este dia llegaria... tarde o temprano.
+Eh! Me vendria bien un poco de ayuda!
+Un millon de gracias! Me gustara tenerte cerca la proxima vez que aparezcan los titanes...
+Nos uniremos al proximo escuadron que pase por aqui. Sigan adelante.
+Por favor, que alguien me cubra!
+Gracias... Lo tenemos bajo control, asi que nos quedaremos un rato por aqui.
+Nos uniremos a los escuadrones que vengan despues, no pasa nada. Sigan adelante...
+Jamas hubiera imaginado que habria tantos titanes... Estas cosas no nos las ensenan en clase!
+Dejense de quejas! Lo primero es soportar esta tormenta!
+[0:HERO_FRND]! Que haces aqui? Bueno, da igual. Ayudame!
+Buen trabajo, [0:HERO_FRND]!
+No es normal que esas cosas esten en formacion. Ojala supieramos mejor que esta pasando aqui...
+Miren! Una senal de humo!
+Ahi esta el escuadron de Armin!
+Bien, avancen hacia esa senal de humo! Podrian necesitar refuerzos!
+Esa cosa con tan buen trasero es humana? Que demonios...?!
+Mata a la gente por diversion... Los demas titanes solo matan para comer.
+Apuesto a que fue ella la que atrajo a los titanes cuando aparecieron el titan colosal y el titan acorazado.
+Su objetivo no es otro mas que atacar a la humanidad... O acaso esta buscando a alguien?
+Sera... Eren?
+Eren? Pero se supone que esta en el flanco derecho, justo donde ataco.
+Mi copia del plan ponia que los colocasemos al frente del flanco derecho, pero ponerlos en la avanzada no seria sensato a nivel estrategico...
+Entonces... Donde esta Eren?
+En la posicion mas segura de la formacion. Supongo que sera en la parte trasera de las filas...
+No es momento de perder el tiempo hablando de esto. Debemos informar a todos... O, mejor todavia: detenerla nosotros mismos.
+Si acaba con el escuadron de mando, la formacion se perdera y moriremos todos. Debemos intentar distraerla para que todo el mundo tenga tiempo de retirarse.
+Bien, chicos, distraiganla tanto tiempo como puedan! Pero nada de hacer tonterias!
+Es inteligente, sin duda. Tengan cuidado!
+Es mucho mas atletica que los demas... Es una titan completamente diferente!
+Maldita sea, fuimos demasiado ingenuos... Es mas lista que los demas!
+Ya no hay escapatoria... Estoy muerto! Me tomara del cable y me rematara!
+Seras... Acaso quieres que te destrocen?
+Un grupo de titanes! Debio llamarlos...!
+Miren! Unos soldados detuvieron a ese titan!
+Bien... Debemos centrarnos en detener al titan inteligente.
+Maldicion! Viene hacia aqui!
+Lo logramos! Eso la ralentizara!
+Una senal de humo?! Estamos demasiado ocupados con la titan inteligente!
+Que no escape! Derribenla aqui y ahora!
+Bien, chicos... No dejen de perseguir a la titan inteligente! Vamos!
+Jean! Maldita sea, debo ayudarlo...
+Mataron a Reiner?! Como...?
+Armin?! No, no puede ser!
+[0:HERO_FRND]! Me alegra que estes bien! Vine porque me tenias muy preocupada!
+Estas buscando al escuadron de Levi? Pues necesitaras de mi ayuda tambien!
+Armin, decias que el escuadron de Levi estaba en la parte trasera de las filas, no?
+No es lo que ponia en el plan, pero confiaremos en ustedes!
+Llegan justo a tiempo! Estamos intentando montar una base, pero necesitaremos ayuda con ese titan.
+Gracias! Por fin tenemos una base... pero por que necesitamos una aqui?
+Porque nos ordenaron detener a todos los titanes que aparezcan! Ustedes dos, podrian ayudarnos?
+Gracias a ustedes hemos evitado que los titanes pasaran! Aunque no se cual era el objetivo de esa orden...
+Hay varios escuadrones desplegados en esta zona. Demos una vuelta, a ver si conseguimos informacion.
+Debemos reunir informacion y descubrir donde esta el escuadron de Levi!
+No hay tiempo para desvios! Debemos encontrar al escuadron de Levi cuanto antes!
+Maldita sea... Nuestra mision era evitar que los titanes se acercaran...
+Parece que tienen problemas! Les ayudare!
+Un titan inteligente esta buscando a Eren! Sabe alguien donde esta el escuadron de Levi?!
+El escuadron de Levi? Por que iba a estar aqui? Eso no es lo que decia el plan.
+En este escuadron nadie lo vio... Preguntemos a los demas de la zona!
+Que estan haciendo los titanes en un lugar como este...?
+Se estan peleando por alli! Tenemos que ayudarles!
+Estamos buscando al escuadron de Levi! Los han visto?
+Uh...? Creia que estarian en algun sitio mas lejano. Que estaran haciendo aqui...?
+Por aqui nadie los vio... Preguntemos a los demas escuadrones!
+Estupidos titanes... No seguiran avanzando!
+Hay mas combates, [0:HERO_FRND]! Veamos que podemos hacer!
+Conocen la posicion actual del escuadron de Levi? Tenemos que decirles algo de inmediato!
+No leiste el plan, cadete? El escuadron de Levi no esta cerca de aqui.
+Esto es inutil... Aunque aun nos queda un escuadron! Veamos que nos pueden contar!
+Uf... Que hacen aqui todos esos titanes?
+Ahi estan! Tenemos que ir a ayudarles, rapido!
+Un titan inteligente persigue a Eren! Hay algun rastro del escuadron de Levi?!
+Pues no sabria decirte, pero... creo que los vi pasar. Aunque seria extrano que estuvieran por aqui cerca.
+Puede que esten por aqui cerca... Tenemos que encontrarlos!
+Mira, una senal de humo! Hay alguien por alli! Vamos!
+Espero que consigamos alguna pista al fin...
+Esa persona de alli no es del escuadron de Levi?
+Gracias! Deje al escuadron para entregar un mensaje y me atacaron...
+Un titan inteligente persigue a Eren! Debemos informar a Eren y al teniente Levi cuanto antes!
+Un titan inteligente?! Bien, les mostrare donde estan! Pueden encargarse de la entrega del mensaje?
+Claro! Muestrame el camino!
+Ven ese humo rojo? Ahi deberias encontrar al escuadron. Dense prisa!
+Por que tengo que ponerme a construir bases... Eh, tu! Ayudame, anda!
+Ahora podre buscar a mi querida Christa!
+Lo siento, [0:HERO_FRND]! Necesito ayuda con este titan!
+Uf, gracias... No se que esta pasando, pero me ordenaron detener a todo titan que pasara por aqui.
+Este titan nos esta impidiendo montar una base. Agradeceriamos que nos echaras una mano.
+Gracias... Aunque no se por que tenemos que montar una base aqui.
+Si la titan que persigue a Eren es inteligente, mas nos vale darnos prisa!
+Que estan haciendo? Debemos informar al teniente Levi cuando antes!
+Teniente Levi! Hay una titan inteligente y esta persiguiendo a Eren!
+Mmm... Nosotros seguiremos con el plan. Ustedes protejan a Eren.
+Estan todos bien, [0:HERO_FRND]? Que demonios esta pasando aqui?!
+No te preocupes por los detalles. Callate y sigue moviendote.
+Maldita sea... No hay forma de librarse de ellos en este bosque...!
+Teniente! Debemos hacer uso del equipo de maniobras tridimensionales!
+Teniente Levi! Diganos que hacer!
+La mision del equipo es asegurarnos de que no le ocurra nada a ese mocoso... aunque sea a costa de nuestra vida.
+(Entonces, su mision no es solo la de vigilarme?!)
+Seguiremos avanzando a caballo, si?
+Avanzando...? Hacia donde?! Tenemos encima a esa titan!
+Pero que...? Si el escuadron de Levi no puede detener a esa cosa, quien podra?!
+Eren! Deja de mirar atras y manten el ritmo!
+Quieres que le de la espalda al combate?!
+(Por que sigo en forma humana...? Podria hacerlo sin ayuda de nadie!)
+No, Eren! Detente! No puedes convertirte en titan cuando tu vida corre tanto peligro!
+Eren... no te culpare. Haz lo que quieras.
+Se que da igual lo mucho que lo intente, nunca me obedeceras.
+Tenemos puntos de vista opuestos debido a nuestras experiencias... Tu decides si quieres confiar en ti mismo o en nosotros.
+No se que opcion es mejor, nunca lo he sabido. Deberia actuar segun mi instinto...
+o ponerme en las manos de los camaradas en los que confio? De cualquier manera, nadie sabe lo que pasara...
+Elige la opcion que menos lamentes.
+Eren... Confia en nosotros...
+Maldita sea... No es buen momento para que aparezca uno de esos.
+Debemos acabar con esa cosa de inmediato.
+Esta cosa nos esta haciendo perder el tiempo...
+Todo fue... en vano...
+Todo fue... en vano...
+Nuestro deber es evitar que los titanes entren en el Bosque de arboles gigantes!
+No tenemos que enfrentarnos a todos. Solo contra los que se dirigen al bosque! Eliminenlos tan pronto como los vean!
+Tenemos que parar a todo titan que venga hasta aqui? Que mision mas estupida...
+Y que haras, Jean?
+Que que hare? Seguir las ordenes, por supuesto. Y tu tambien deberias, no crees?
+Esta bien... Ese excentrico esta acabado.
+Aaaaah!
+Por que corren asi?! De verdad son todos excentricos?
+Que mas da! Lo unico que importa es que no los dejemos pasar!
+Mierda! Como enfrentaremos a tantos?!
+Se dirigen al bosque... y creo que se que titan acabamos de oir!
+Nos encargamos de los titanes de los alrededores, pero nos separamos del resto del grupo...
+Que esta pasando en el bosque? Eso fue un grito...?
+Derribamos a unos cuantos, pero otros tantos lograron entrar al bosque.
+En cualquier momento podria salir un titan de entre las sombras.
+Tenemos ventaja en el bosque gracias a los equipos de maniobras, pero solo hasta cierto punto. Tengan cuidado.
+Oye, mira! Esos titanes se estan comiendo a otro titan!
+Crees que la titan hembra hizo que se la comieran para evitar que la capturaramos...?
+Que raro... Estan devorando a la titan hembra sin dejar nada.
+No nos queda mas remedio que eliminar a todos los titanes que la rodean.
+Asi que su grito es lo que los atrajo hasta aqui...? Que fastidio.
+Esta haciendo que se coman su cuerpo para destruir las pruebas...?
+Esto, eh, viene un grupo de titanes! No parece que esten interesados en nosotros... Pero por que no?!
+Ya nos preocuparemos de eso despues, comandante de seccion!
+Miche, viene algun otro titan hacia aqui?
+Mi nariz no sirve de nada con tantos titanes alrededor.
+Miche! No nos enfrentaremos a todos esos titanes!
+Es decision de Erwin si nos retiramos o no... Ahora tenemos que centrarnos en los enemigos que tenemos delante.
+Que haces, Christa?
+Estoy estableciendo una base para interceptarlos! Ayudame!
+Eso lo aclara todo, no?
+Si. La base esta lista, todo el mundo puede usarla!
+Deberia estar construyendo una base asi, pero esos malditos titanes se interponen en mi camino!
+Ymir! Te ayudaremos!
+Ya esta todo listo, Ymir?
+Si, la base esta lista, usenla como crean conveniente. Pueden agradecermelo mas tarde.
+Alli se toparon con el enemigo... Deberiamos mandar refuerzos!
+Nanaba! Como va la pelea? Estas bien?
+Todos los titanes entraron en el bosque a la vez! Necesito ayuda!
+Parece que logramos controlar la situacion...
+Es raro verte en apuros, Nanaba.
+Me salvaste la vida...
+Gelgar deberia estar cerca. Si tiene problemas, tengo que ayudarlo.
+Alguien esta peleando por alli!
+Es Gelgar. No sobrevivira el solo!
+Eh! Siento molestar, pero me echan una mano?
+Me alegra que salieramos con vida de esta!
+Te salvo un cadete, Gelgar.
+Siento las molestias... y gracias.
+Siento involucrar a un cadete como tu, pero Nanaba tambien esta por aqui. Tenemos que encontrarla!
+Nunca pense que la devorarian tan rapido...! Quien estaba dentro de la titan hembra...?
+Ese humo... Que sucede alli?
+Vaya, es un enemigo mas fuerte de lo que esperabamos...
+Entre los tres podemos con la titan hembra! Ustedes vuelvan al cuartel general tan rapido como puedan!
+Yo tambien peleare!
+No! Hazme caso! Tus poderes son demasiado peligrosos!
+Que...? Dudas de nuestras habilidades, es eso?!
+Vamos, Eren! No confias en nosotros?
+Creo en la victoria de nuestro escuadron! Buena suerte a todos!
+Deberiamos avanzar... sin mirar atras...
+El escuadron de Levi deberia ser capaz de derribar a la titan hembra...
+Una senal de humo! Alli hay soldados luchando... veteranos!
+Estare bien, [0:HERO_FRND]! Tu ayuda a esos soldados!
+No dejare que te acerques a Eren!
+Moriras aqui y ahora...!
+No capturaras a nadie!
+Bien, eso deberia calmar las cosas por ahora!
+Aprovechemos la oportunidad para reorganizarnos!
+Nnng... Lo siento... Maldita sea, por que no me puedo mover?!
+Arg... No me puedo levantar! Que ocurre?
+Mierda, estoy herido... Arg!
+Tal como dijo el teniente... Nadie sabe lo que pasara...
+Dijo que evitaramos los remordimientos... Que se supone que debo hacer ahora, teniente?!
+Debo confiar y seguir adelante... Esa es la opcion correcta.
+Lo siento... pero tengo que luchar!
+Aaaaaaah!
+Arg, no... no puedo... continuar...
+Arg, no puedo soportarlo... Mis lesiones...
+Ag! Que demonios pasa con esa cosa...? Maldita sea!
+Uf... Eren? Que haces aqui?!
+Maldita sea, ahora solo lograremos ponernos en medio...
+Apoyalos, [0:HERO_FRND].
+(Todo porque decidi confiar en mis companeros... Y ahora esos soldados murieron...).
+(Ojala hubiera confiado mas en mi mismo y hubiera empezado a luchar antes...).
+(La hubiera matado de buenas a primeras!).
+(Si me hubiera transformado en titan...).
+(No... Deberia haber empezado a luchar antes...).
+(Debi decidirme antes... Debi confiar en mi mismo en vez de confiar en los demas...).
+(Pude salvar tantas vidas...!).
+(Mi indecision mato a mucha gente).
+(El teniente Levi tambien estaba alli... Juntos la habriamos derrotado, estoy seguro).
+(Bien, lograron capturarla, pero...).
+(Mi decision... Lo que elegi provoco la muerte de tantos...).
+(Por mi culpa, todos han... No, espera! No es mi culpa, es la tuya!).
+(Te destrozare... Te hare pedazos... Y luego me los comere!).
+Llamo a mas titanes...? No queremos que nos rodeen. Derriben a todos los titanes de la zona!
+Al final, Erwin tenia razon.
+Estos titanes no se terminan nunca...
+Voy por la titan hembra.
+Si se prolonga la batalla, se escapara... Tenemos que centrarnos en rescatar a Eren.
+Eren esta vivo.
+La matare, la abrire y lo sacaremos de dentro de esa escoria...
+Calmate y centrate en rescatar a Eren!
+Si lo hubieras protegido mejor, nada de esto hubiera pasado...
+Asi que tu eres una de las antiguas amistades de Eren, eh?
+...
+La derribare. Ustedes distraiganla.
+Llamo a mas titanes? Solo nos trae problema tras problema...
+Es rapida! Muy rapida... No podemos bloquear sus ataques.
+Bien... Parece que se esta cansando.
+Solo un poco mas...! Aguanta, Eren, ya vamos...
+Vamos...! Salgamos de aqui!
+Ese humo! Es una llamada de emergencia...
+Vine a traer refuerzos por ordenes del capitan, pero aparecieron los titanes...
+Puedes reabastecerte aqui!
+Arg... Aaah!
+Me ordenaron ayudar a Eren y al resto... pero me rodearon.
+Puedes reabastecerte aqui!
+Arg... AAHHHH!
+Esos son... refuerzos?
+Malditos sean! No se metan conmigo, titanes estupidos!
+Esto ayudara a detenerlos!
+Arg... Maldito seaaaaas!
+Esos malditos titanes estan en nuestro camino...
+Esta trampa deberia detener a los titanes durante un tiempo!
+Maldita sea... No puedo hacer nada mas...
+No podemos dejar que esto continue o se escapara.
+Rapido! No hay tiempo... Vamos por la titan hembra!
+Arg... por favor, espera... Eren...
+Maldita sea... Yo...
+Humo... Deben tener problemas con un titan. No me gustaria tener que enfrentarme a la titan hembra y a otro titan a la vez.
+Maldita sea la titan hembra... Sus amigos titanes estan causando problemas serios...
+Ya me estoy cansando... Tras Eren, rapido!
+AARRGG! M-maldita sea... No puedo moverme!
+Todos moriran... No, no dejare que pase...!
+Vamos! Nuestro objetivo es capturar a Annie!
+No dejare que se escape... Me asegurare de que la capturen!
+Mierda, la titan hembra se quito las cadenas!
+Pero debe de estar agotada... Recalculemos y preparemonos para un ataque unificado!
+Debemos capturar a Annie cueste lo que cueste! No tendremos otra oportunidad si dejamos que se escape!
+La titan hembra se esta escapando! Establece bases para bloquear su ruta!
+Si colocamos trampas, tendremos mas oportunidades de atacarla! Asi podremos cansarla!
+Los otros escuadrones pueden encargarse de detenerla! Adelantemonos y coloquemos las bases!
+Todo esta preparado... Ven aqui, titan hembra!
+La titan hembra cayo en una trampa! Que todo el mundo ataque!
+Si colocamos bases y trampas, podemos impedir que se mueva! Hagamoslo!
+Se esta acercando al muro! No podemos dejar que se nos escape!
+Eso la detuvo! Esta oportunidad de ataque es demasiado buena como para dejarla escapar!
+No lo logramos a tiempo... Se escapara!
+No sirve de nada...! Escapara a este paso!
+Parece que todavia se mueve... Date prisa y coloca la proxima base!
+La titan hembra llegara pronto al muro... Tenemos que derribarla ya!
+Cayo en una trampa! Tenemos que atacar ya...!
+Terminaremos con esto en la proxima batalla! Que todo el mundo la traiga hasta mi!
+Casi llego con Hange... Y entonces todo terminara al fin!
+Mi fracaso le costo la mayoria de las tropas al Cuerpo. La responsabilidad es mia y solo mia...
+No deberia ser capaz de huir mucho mas lejos. Preparense para capturarla!
+Aaaarrrrgg!
+No creia que todavia le quedara tanta fuerza! Maldita sea que debemos hacer ahora?!
+No podemos dejar que la titan hembra se escape! NO dejen que salga de esta zona!
+Las cuchillas no sirven de nada... Debo aguardar mi momento...
+La detendremos! Atraiganla hasta aqui!
+Bien hecho! Toma eso, titan hembra!
+Demasiado tarde... Pero todavia tenemos una oportunidad! No desistan!
+Colocamos una trampa aqui! usala con sensatez!
+La tenemos! Es nuestra oportunidad!
+Fracasamos... Espero que al proximo escuadron le vaya mejor!
+La titan hembra llegara en cualquier momento... Podremos montarle una emboscada con esta trampa!
+Funciono! Que todo el mundo ataque!
+Fracasamos... Tenemos que dejarle el resto a la comandante de seccion Hange!
+Solo un poco mas! Sigan haciendo que la titan hembra se dirija a mi!
+La dirigieron hasta el lugar idoneo! Es hora de acabar con esto de una vez por todas...!
+Oh, no! Si nos pasa, ya no podremos detenerla!
+Eren...!
+Eren volvio!
+Nuestros ataques debieron debilitar a Annie en gran medida. Es hora de acabar con esto!
+Annie debe estar cansada, sigan luchando y no se detengan!
+No logramos cansarla lo suficiente... Tengan cuidado!
+(Annie... Siempre mirabas a todo el mundo como si fueran idiotas inutiles...).
+(Siempre parecias tan... aburrida).
+(Pero habia algo que si lograba emocionarte: luchar).
+(Lo ignoraste, como si no tuviera importancia...).
+(Pero sabia que ni tu misma creias lo que decias).
+(Recuerdo pensar lo mal que se te daba mentir).
+(Annie... Por que haces esto? Que causa puede ser tan importante como para matar gente...?).
+Annie... Vas a caer!
+Rapido, Eren!
+La tenemos acorralada! Es nuestra oportunidad, Eren!
+Que demonios es eso...?!
+No podemos dejar que arruine nuestro plan! Tenemos que derribarlo antes de actuar!
+Eren tiene a Annie bajo control. Tenemos que apresurarnos y derrotar a este titan!
+Ese titan esta acabado... Eren, ya vamos...!
+Q-Que hace un titan aqui?!
+Un titan en el interior...? No puede ser!
+Aaah! Socorro!
+Pense que aqui estaria a salvo...!
+Grrrraaahh... Aaah!
+Aaaag!
+Pido disculpas a los cadetes. Es culpa nuestra haber acabado indefensos en esta situacion.
+Si... No me gusta nada estar asi.
+En fin... Lo primero es matar a los titanes cercanos.
+Rapido! Si tardan demasiado, los titanes los rodearan y estaran atrapados.
+Los cadetes deberian dividirse y ayudar a evacuar las comunidades de la zona.
+Umf... Apartense, titanes!
+Esto no se ve nada bien... Tenemos que derrotar a los titanes cuanto antes y sacar de aqui a los cadetes.
+Hay un titan cerca de ese pueblo! Y no parece que terminaran de evacuar...!
+Ay! Que alguien me ayude!
+Gracias, soldado! Me salvaste.
+Antes encontre esto... Te lo puedes quedar si quieres.
+Maldita sea, no pudimos ayudar... Lo siento!
+Distraere a los titanes, protejan a los cadetes!
+El comandante de seccion Miche hara de cebo?! No podra sobrevivir el solo!
+Confia en el! Es el segundo mas fuerte despues de Levi!
+Gelgar, puedes establecer una base? Quiero comprobar si hay titanes en la zona.
+Claro, yo me encargo!
+Titan a la vista! Avancen a toda velocidad y eviten la lucha!
+Eso es... Sigamos esquivando a los titanes mientras podamos.
+Tengo un mal presentimiento... como si hubiera titanes cerca...
+Tu crees? Me gustaria establecer una base si tenemos equipo de sobra...
+Titan avistado! Viene hacia aqui!
+Sasha tenia razon. Cambiemos de rumbo.
+Ag! Hay un titan justo hacia donde vamos!
+Maldita sea, tenemos que cambiar el rumbo!
+Titan avistado! Eviten el contacto con el enemigo y sigan a toda velocidad!
+Mierda! Tenemos un titan justo delante! Hacia donde vamos ahora?!
+Ay, un titan! Tenemos que pasarlo de alguna manera!
+Ah! Un titan justo adelante! No podemos seguir!
+Otro? Maldita sea, estupidos titanes!
+Ahora es nuestra oportunidad! Separense!
+[0:HERO_FRND], como tienes equipo, esperaba que pudieras ir con Miche...
+Puede que todavia haya gente intentando escapar... Necesitaras ayuda, te acompanare.
+Comandante de seccion Miche, los cadetes se dispersaron! Dejenos ayudar!
+Ustedes...? De acuerdo, ayudenme a acabar con los titanes de la zona.
+Tenemos que detenerlos cueste lo que cueste.
+De acuerdo, alla vamos!
+Estupidos titanes... Acabare con todos!
+Los titanes se dirigen en la misma direccion que los miembros del escuadron cuando nos separamos... Puedo olerlo.
+[0:HERO_FRND], elimina a los titanes que fueron tras los miembros del escuadron y retirate con los demas.
+Yo me quedare e intentare ganar algo de tiempo...!
+Nosotros tambien nos separaremos! Mantengase a salvo, comandante de seccion!
+La cosa salio bien... Ahora tengo que salir de aqui y reunirme con los miembros del escuadron.
+Percibo el olor de humanos en esa aldea... Quiza haya algunos rezagados.
+Eh, una aldea! Puede que aun quede gente por evacuar!
+Aaah! Socorro! Auxilio!
+Ah, muchas gracias por salvarme!
+Aaah, titanes! Que alguien me ayude!
+Gracias. Rezare por ti.
+Ahi tambien hay una aldea...? Puede que aun quede gente.
+No sabia que quedaran mas aldeas por aqui... Puede que aun haya gente en ella!
+Maldita sea... No pude hacer nada para ayudar...
+No te rindas! Te ayudare!
+No! No llegamos a tiempo...!
+Que le pasa a ese excentrico? Tiene algo extrano... Acabemos con el antes de que dane a los miembros del escuadron.
+echame una mano, [0:HERO_FRND]! Tenemos que matar a esta cosa aqui y ahora!
+Uf... Eso fue muy duro, pero estamos vivos.
+Sal de aqui tan rapido como puedas, [0:HERO_FRND]!
+Volvere a hacer de cebo! Ustedes sigan adelante!
+N-no... Miche, no puede...
+Aaaah! Para! Nooo!
+Miche! Mierda! Como se atreven esos titanes...?
+Eh, somos los refuerzos! Son los unicos supervivientes?
+Esta zona parece estar bien... Deberiamos dispersarnos!
+Arg! Mataron a cadetes... y es culpa mia. Lo siento...
+Ese olor... Se acerca un enemigo fuerte.
+Esa senal de humo significa que... hay un enemigo especialmente fuerte!
+Una senal de humo... Debe de haber un titan poderoso cerca.
+Umf... Me da igual lo fuerte que sea un titan, lo matare!
+Un titan, y es de los fuertes... Podremos derrotarlo?
+Un enemigo fuerte? Seguro que podemos acabar con el.
+Si, lo logramos!
+Bien hecho, [0:HERO_FRND]! Sabia que podrias!
+Se acabo... Bien hecho, [0:HERO_FRND].
+[0:HERO_FRND]! Que haces aqui?! Y lo mas importante, viste a un nino pequeno?
+Tenemos que detener a los titanes para que el nino pueda escapar!
+Distraere al titan mientras tu atacas!
+Ese nino no puede haber ido lejos. Tenemos que asegurarnos de que no pase nada malo...!
+Ayudare con mi arco! Si le disparo en los ojos, perdera el equilibrio!
+Quedate aqui... Nuestro objetivo es grande y lento.
+Si morimos ahora, el nino no podra escapar.
+Muchas gracias!
+Ire por el nino! Tu asegurate de que no se quede nadie atras!
+Ug...! Ah...!
+No...! Los titanes estan rodeando al nino!
+Tenemos que acabar con los titanes y despejar un camino seguro antes de que rodeen al nino del todo!
+Todos los demas huyeron ya. No quedaba nadie para ayudarme...
+Estaras bien... Te lo prometo.
+Por que tengo que acordarme justo ahora... de los dias tontos del pasado?
+No puedo... pensar en nada mas.
+Si no nos damos prisa, el nino acabara rodeado por los titanes!
+No tenemos tiempo! El nino no podra escapar si no detenemos a los titanes!
+Aaah! Que alguien me ayude!
+G-Gracias por salvarme! Ire a pedir ayuda!
+Nooo! Socorroooo!
+Me salvaste la vida, gracias! Ire a buscar ayuda!
+Vine a ver que pasaba... pero habia demasiados titanes! Necesito ayuda!
+G-Gracias! Hare los preparativos para mejorar la lucha!
+Me llamaron para ayudar... pero ahora soy yo quien necesita ayuda! Me echas una mano?
+Gracias! Pero las cosas no se ven nada bien... Hare algunos preparativos.
+Parece que saldremos de esta...!
+Me estas... ayudando? Tengo que salir de aqui...
+Hay titanes en el puente?! Sin el, nadie podra escapar...!
+Sasha?! [0:HERO_FRND]?! Pero que hacen aqui?!
+Dejemos las reuniones emotivas para despues, Daz! Tenemos que cumplir nuestro deber y ayudar a los aldeanos!
+Si no nos damos prisa, ese nino no podra escapar!
+Sasha! P-Por que estas desarmada? Haras que te...!
+No pasa nada, ya me las arreglare! Tu sigue ayudando!
+No habia vuelto a luchar desde Trost... Uf... No esperaba volver al frente!
+Rapido! Tenemos que matar a esa cosa cuanto antes!
+Ya no puedo mas! Mata al titan de una vez!
+No podemos hacer esto solos! Necesitamos refuerzos!
+Gracias! Ire a establecer una base!
+Uf... Ya se puede usar el puente otra vez!
+Que alivio...!
+Deberia comprobar el resto de las aldeas...! Oye, explorador, puedes arreglartelas aqui?
+Otras aldeas?! Es que aun no terminamos?!
+Ya casi terminamos! Solo tenemos que salir de la zona donde estan los titanes...
+Uf! No es un buen momento para que llegue un titan tan grande!
+Pero vamos a tener que jugarnosla!
+Lo logramos! Muchas gracias, [0:HERO_FRND]!
+En serio? Tienes que estar bromeando...
+Tenia que pasar justo ahora...!
+No, ahora no...!
+Grrr! Estan como locos! Cuidado!
+Este no nos lo hara nada facil. Esten alerta.
+Lo logramos! Sabes algo, [0:HERO_FRND]? Podrias convertirte en una leyenda de la caza!
+Vaya logro impresionante.
+Refuercen nuestras defensas, rapido! Tenemos que detener el avance del titan!
+Muy bien, [0:HERO_FRND]! Primero, ayuda a reforzar las defensas, si?
+Matare a los titanes que hay por aqui para ganar tiempo hasta que las defensas esten listas... Me voy!
+Si la base principal cae, la humanidad estara perdida...
+[0:HERO_FRND], mejoraste un monton desde Trost.
+Las defensas estan casi completadas! Sigan protegiendo a nuestros companeros!
+Todo esta listo para la base! Las defensas estan completas.
+No podemos dejar que los titanes atraviesen las defensas!
+Usa bien la base para acabar con los titanes.
+Atacan a los companeros de la linea de defensa! Protegelos!
+Los companeros que mantenian la linea de defensa cayeron... La mision fracaso...
+Tenemos que proteger la base principal... cueste lo que cueste!
+Protejan la base principal! Si cae, todo habra terminado!
+La base principal esta a punto de ser destruida! Rapido, a cazar titanes!
+Maldita sea, no puedo reforzar la base con tantos titanes alrededor! Ayuda!
+Gracias. Reforzare la base ahora mismo.
+Tengo que reforzar la base, pero ahora... me van a comer!
+Lo siento. Ya puedo reforzar la base.
+Que haces aqui, [0:HERO_FRND]? Da igual, no tenemos tiempo para charlar.
+Nos asignaron a partes destruidas del muro... pero los titanes se interponen en nuestro camino.
+Lo siento, [0:HERO_FRND], podrias ayudarnos?
+Hannes! Los titanes se acercan!
+Mierda, por que tuvieron que aparecer todos estos titanes de golpe?
+Diria que de momento estamos bien, pero no podemos irnos de aqui...
+Tenemos que reforzar el frente! Usa la base con astucia, no podemos perder el tiempo!
+Entendido! Asegurare una ubicacion para la base!
+No podemos continuar con la mision...
+Retiremonos por ahora!
+Quiero crear una distraccion, pero en esta situacion es dificil...
+Gracias! Ahora podre crear la distraccion.
+Me ordenaron crear una distraccion, pero no puedo hacerlo en estas circunstancias...!
+Gracias! Ya puedo ponerme manos a la obra con la distraccion!
+Toca proporcionar refuerzos! Primero, tenemos que reforzar el frente!
+Muy bien, toca establecer una base y apoyar al frente!
+Mucho mejor...
+Alerta! Vienen hacia aqui varios titanes!
+No nos echaremos atras ahora...! A todas las tropas, carguen! Voy con ustedes!
+C-Capitan..!
+Erg... Aaag!
+Jamas pense que veria al capitan Woermann demostrar tanto valor...
+Impresionante!
+Logramos contener su avance. Aunque aun no terminamos...
+La base principal esta en ruinas. Es el fin de la mision...
+La base principal esta destruida. Es el fin de la mision y la humanidad... esta...
+Si destruyen la base, se acabo todo. Asi que supongo... que es el fin...
+P-Pero que...?!
+M-Matalo! Ya!
+No puedo seguir luchando... Puedes ocuparte del resto?
+Lo siento... No puedo hacer mas.
+Tengo que volver a la retaguardia. Ocupate del resto.
+Empecemos con los titanes que rodean la torre. Siento tener que meterte en esto, [0:HERO_FRND], pero cuento contigo!
+Malditos sean...! Acabemos con esto!
+Hay cadetes indefensos en la torre... Tenemos que centrarnos en protegerla!
+No le pondran un dedo encima a nadie, gigantes estupidos!
+Eso fue peligroso, Geldar...
+Yo hago las cosas asi... Te reto a contar cuantos voy derribando!
+Que valiente... No olvidare esto.
+Esto no es bueno... No se acaban nunca.
+Todo salio bien al final gracias a ti. Yo tambien me unire a la lucha!
+Maldita sea... Lo unico que podemos hacer es esperar aqui...
+No soporto mirar sin hacer nada... Quiero pelear...
+Pues vaya... Lo unico que podemos hacer es prepararnos para lo peor.
+Ojala pudiera hacer algo... Soy un soldado, maldita sea!
+Es que lo unico que podemos hacer es sentarnos en silencio y ver como destruyen la torre...?
+Y con esto nos encargamos de los titanes de la torre.
+Los exploradores estan a otro nivel respecto al resto de los soldados.
+Ahi..! Otro grupo de titanes llega por la retaguardia!
+Podemos parar un segundo para recuperar el aliento?!
+No se si sobrevivire a esto, pero mientras viva, seguire luchando!
+Ug... Malditos titanes, siempre en medio! A este paso no podre defender la torre!
+Gracias... Ahora puedo centrarme en proteger la torre.
+Nos encargamos de la mayoria de los grandes...
+Es gracias a la torre... Normalmente no luchamos en condiciones tan favorables.
+Si... Creo que podemos lograrlo.
+Eh? Que es eso...?
+Que?! Parece que las rocas que nos estan lanzando vienen del muro!
+Quedarse juntos es peligroso... Sera mejor que nos separemos y vayas a proteger la torre tu!
+[0:HERO_FRND], podrias instalar una base para interceptarlos alrededor de la torre? Te dejo trabajar!
+Estas rocas... Las esta tirando el titan bestia?! Iba en direccion al muro...
+Guau...! Se acercan muchos titanes! Mierda, hay muchisimos!
+Es como si los titanes hubieran creado una estrategia...
+Me parece que estan jugando con nosotros...
+Date prisa con la base! Si no la acabas rapido, no servira de nada!
+Date prisa con la base! La torre no aguantara mucho mas...!
+Creo que podemos encargarnos de los titanes que quedan. Pero tenemos que hacer algo con las rocas que nos lanzan!
+Mierda... La torre no va a aguantar!
+Rayos, me quede sin gas!
+Rayos... No puedes luchar sin gas. Tiene que haber una solucion!
+No me pienso rendir todavia! [0:HERO_FRND], encuentrame un caballo que aun pueda moverse!
+Buen trabajo! Podemos usar el caballo para buscar ayuda... Resiste hasta entonces!
+Siento que tengas que quedar aqui... pero solo sera un momento!
+Ese titan bestia se dirige hacia aqui! La cosa no se ve bien!
+Sinceramente, esta es una buena oportunidad. Si matamos a esa cosa ahora, dejara de lanzar piedras!
+Gaste todas mis cuchillas y el gas... Las tuyas se estan desgastando tambien, no?
+Si... pero no podemos rendirnos hasta que todo haya acabado.
+A cuantos crees que matamos entre los dos?
+No lo se... No tuve tiempo de llevar la cuenta.
+El titan bestia esta huyendo...? Eso quiere decir que lo logramos, verdad?
+No, este sitio sigue lleno de titanes... Malditos monstruos...
+Ag, esto no se ve nada bien! Si la torre cae, estamos perdidos...
+No! Conseguira destruir la torre!
+Parece que estamos en un gran problema!
+Se mueve de una manera extrana... Ten cuidado, [0:HERO_FRND]!
+Increible, [0:HERO_FRND]! Me alegro de que estuvieras aqui para ayudar...
+Arg... Me niego a rendirme!
+Maldita sea, No puedo morir aqui... aun no!
+Ey... Esa cosa va tras Ymir!
+No... Ymir tambien es una titan...?
+Escuchaste, Christa? Ymir... puede transformarse en un titan...
+No tenia ni idea. Siempre fuimos buenas amigas... pero nunca...
+Siempre supo que era un titan. De que lado esta?
+De que lado? Crees que es una enemiga de los humanos?
+Siempre tuvo estos poderes, no? Nadie sabe lo que pasaba por su cabeza...
+Ymir...
+(M-Mori... para que muchos otros puedan ser felices).
+(Pero juro que si algun dia revivo...).
+(No vivire mas que para mi...).
+Podria haber usado sus poderes de titan para escapar con vida.
+Pero ahora... esta arriesgando su vida para protegernos...
+Mira! Podemos reabastecernos en aquella base de alli!
+Puede que haya provisiones en aquella base y que podamos reabastecernos!
+Una base! Podemos reabastecernos aqui!
+Seguramente en la base haya provisiones que podamos usar!
+Ey! Encontre provisiones que nos serviran en la torre!
+Mira! Hay provisiones en la torre y estan en buen estado!
+Mira esto! Podemos utilizar las provisiones que estaban en la torre!
+Mira, encontre algunas provisiones en la torre que nos pueden ser utiles!
+Ahora, separemonos y vigila la zona! El resto del personal, que se centre en derrotar a los titanes y en ayudar a los cadetes!
+La mayoria de los cadetes no tienen ningun equipo! Nos tenemos que dar prisa para ponerlos a salvo!
+Pero que...? Ese titan esta atacando a otros titanes...
+Ese titan es Ymir! No la ataquen!
+Quieres decir que Ymir tambien puede transformarse? Como Eren?
+No ataques a ese titan! No creo que nos haga nada!
+Teniendo en cuenta la situacion, hiciste un gran trabajo, [0:HERO_FRND].
+Lo siento, mis queridos titanes... Pero hoy no tengo tiempo para jugar con ustedes.
+Hange tiene razon. A ese titan no le interesa atacarnos.
+Ese titan es un humano transformado, como Eren?
+Tambien me voy a meter en esto!
+Espera, no tienes por que luchar!
+Tengo que ayudar al resto lo mas rapido que pueda!
+Contamos contigo, Mikasa!
+De donde salieron todos esos titanes?
+Podemos pensar mas tarde en eso, Armin. Ahora necesitamos concentrarnos en derrotar a esos titanes!
+Comandante de seccion! Pusimos a salvo a todos los miembros de la Unidad de instruccion 104!
+Que buena noticia! Ahora podemos centrarnos en los titanes que quedan!
+Llegan refuerzos del enemigo por todas partes! Nos estan acorralando!
+Preparense para atacar! Los refuerzos enemigos estan en camino!
+Hay un nuevo grupo de titanes bajando en el castillo Utgard!
+Ahorra fuerza, Eren. Yo luchare por ti...
+No te preocupes tanto, Mikasa! Puedo arreglarmelas por mi mismo!
+Umf! Cada vez que derroto a un titan, aparece otro enseguida!
+No se acaban nunca. De donde demonios vienen?!
+Darle vueltas a la cabeza no sirve de nada. Enfrentarse a ellos es la unica opcion!
+Se acerca otro grupo de titanes!
+Arg... Preparense! Ahora les ensenaremos de que estamos hechos los humanos!
+Estoy listo para luchar!
+Voy a ensenarles de que son capaces los cadetes!
+Todos los titanes que rodeaban el castillo fueron derrotados!
+Uf, evitamos la catastrofe... Christa, te importaria decirnos que paso?
+Conny! Te ayudare!
+Ya basta! Comencemos la evacuacion mientras podamos!
+Gracias, Eren! Te debo una!
+Au, eso duele! Piensan que pueden detenerme tan facilmente?!
+No sigas luchando, Eren! Retirate!
+Lo siento! Te dejo el resto a ti!
+Christa, voy a ayudarte...
+Date prisa, Christa... Yo me ocupo del resto.
+Mikasa... Muchisimas gracias!
+Aah, no... Estoy herida...
+No te fuerces tanto, Mikasa. Ve a la retaguardia y llevate a los cadetes contigo!
+Bien, Hange. Estoy en ello.
+Reiner, dejame esto a mi!
+Uf... Todo salio bien. Aprovecha esta oportunidad para retirarte, Reiner.
+Gracias, Armin, fuiste de gran ayuda!
+No... No aguantare mucho mas!
+Armin! Calmate y dirigete a la retaguardia!
+Entendido!
+Yo te cubro.
+Vete ahora, rapido! Todo saldra bien!
+Gr-Gracias. Creia que estaba perdido...
+Son duros de roer!
+Moblit, que no te alcancen! Toma a los cadetes y salgan de aqui!
+Entendido, comandante de seccion...
+Esto no se ve nada bien. Destruiran la torre!
+No... La torre no aguantara mucho mas! Que hacemos ahora?
+Aaaaaaah!
+Esto no se ve nada bien... Acabaran con Ymir!
+Ymir esta en peligro... Que alguien la proteja!
+Ah... aun le queria... decir... a Ymir...
+No... no puedo morir... aqui no...
+Vaya, este me intriga mucho! Me gustaria observarlo con atencion si no tuvieramos tanta prisa!
+Este es interesante... pero no tenemos tiempo que perder.
+Este titan me intriga, pero me temo que tenemos que matarlo.
+El titan colosal... se comio... a Ymir?!
+Que todas las unidades ataquen al titan colosal hasta acabar con el! Es el verdadero enemigo de la humanidad!
+El vapor nos repelio a todos... Tenemos que acercarnos como sea!
+Ese vapor es muy poderoso... No podemos acercarnos asi como asi...
+Creo que solo podemos acercarnos cuando el vapor es mas debil... Solo tengo que encontrar el momento para atacar.
+Podemos protegernos del vapor detras de estos escombros!
+Muevete con cuidado! Tienes que tener paciencia y esperar tu oportunidad!
+El titan acorazado y el titan colosal... eran en realidad Reiner y Bertholdt?
+No podemos seguir capturandolos! Hay que matarlos, y sin dudar un instante.
+El vapor del titan colosal se hace mas fuerte a medida que te acercas... Ten cuidado.
+El vapor esta lanzando los escombros por los aires! Ten cuidado al avanzar!
+Guau! Esta lanzando escombros por los aires otra vez! Ve con cuidado al avanzar!
+Protegete tras los escombros si ves que el vapor te empuja hacia atras! Deja que pase y luego continua!
+Tranquilizate! Encuentra la pila de escombros mas cercana!
+Ahora! Hora de acercarse mas!
+Se mueve despacio... Tranquilizate y analiza sus movimientos con atencion.
+Ymir no puede estar muerta... Por favor... No dejes que suceda...
+Ymir se esta ocupando del titan acorazado. Concentremonos en el titan colosal.
+Es muy lento... Si logramos acercarnos lo suficiente, no deberiamos tener problemas para cortarle la nuca.
+Retirada general!
+Se esta protegiendo con vapor mas poderoso! Ahora no podemos atacarle... Que hacemos?
+No tenemos otra opcion mas que esperar... Armin, vienes conmigo! Nos encargaremos del titan acorazado!
+Me intriga durante cuanto tiempo puede seguir quemando su propio cuerpo... Tarde o temprano tendra que salir de aqui.
+A diferencia de la titan hembra, su cuerpo siempre esta duro. Debe de haber algun modo de derrotarlo...
+Mikasa! Retiremonos e intentemos encontrar el punto debil del titan acorazado!
+Ag! Aqui no podemos hacer nada!
+No... Si su cuerpo fuera duro como la piedra, no seria capaz de correr asi.
+En las armaduras que usaban en el pasado, siempre habia puntos que quedaban al descubierto... Como las axilas, la ingle... y la parte trasera de la rodilla.
+(Eres un tipo genial, Reiner).
+(Antes deseaba ser tan fuerte como tu...)
+(No se lo en que estas pensando, Reiner, pero no eres mas que basura humana).
+(El simple hecho de recordarte con tu cara de santurron me da ganas de vomitar).
+(Llego la hora de exterminarte, eres una maldita plaga!)
+Se le cayo la armadura!
+Espera, no es esa la tecnica... que uso Annie?
+(Funciono! Esa llave funciono! Puedo seguir luchando!)
+Que? Fue rapidisimo!
+(Derribar a tu oponente es una opcion rapida y poderosa. No hay manera de defenderse!)
+(Si no quieres rendirte... que asi sea! Simplemente apartate de mi camino!)
+El titan acorazado se esta comportando de manera extrana... Crees que tiene un as bajo la manga?
+Eren! No! Nunca lograras ganar en la primera pelea!
+Acaso perdio el control?!
+Eren, aguanta! Hare todo lo que pueda para ayudarte!
+Tenia que haberles cortado la cabeza cuando tuve la oportunidad...
+Era mi ultima oportunidad... No tendre otra igual... Por que? Por que no lo hice?
+Eren esta volviendo en si! Es posible que aun pueda lograrlo!
+Tengo un mensaje! Vimos titanes dirigiendose hacia aqui! Nunca habiamos visto titanes asi!
+Maldicion... Vaya suerte... No podemos permitir que nos interrumpan.
+Son una amenaza para la humanidad, como el resto. Hay que luchar e ir con cuidado!
+Lo logramos... Que alivio! Pero me preocupa Eren. Volvamos rapido!
+Eren...!
+A todas las unidades! Busquen a Eren y rescatenlo!
+Eren debe de estar en algun lugar de este bosque. Encontremoslo, rapido!
+Esta lleno de titanes. Como vamos a poder encontrar a Eren asi?
+Primero hay que acabar con algunos de estos titanes! Asi sera mas facil encontrarlo.
+De verdad Reiner y Bertholdt eran nuestros enemigos todo este tiempo? No me lo creere hasta que me lo digan ellos.
+Christa, no deberias estar en primera linea...
+Me da igual las veces que me lo repitas. No puedo quedarme aqui de brazos cruzados mientras Ymir esta secuestrada.
+Reiner... Bertholdt... Por que hicieron esto?
+Si no nos damos prisa, intentaran secuestrar a Eren!
+Piensas que Eren se rendiria sin luchar? No te preocupes, mientras le queden fuerzas seguira luchando. Estara bien!
+Maldita sea... Hay demasiados... Ten cuidado, Eren...
+Arg!
+Ese grito... Era Ymir?
+No podemos dejar que se lleven a Christa tambien! Tras ellos!
+Es hora de empezar nuestra mision. Primero destruiremos a todos los excentricos del bosque!
+Solo vamos por los excentricos. Ignoren a cualquier titan normal! No tenemos mucho tiempo... Rapido!
+La presencia de excentricos es un obstaculo para nuestra mision! Acaben con ellos tan rapido como sea posible!
+No tenemos ni un segundo que perder... Dense prisa y derroten a esos excentricos!
+Que quiere decir Erwin con eso de que solo tenemos que acabar con los excentricos?!
+Debe tener alguna razon... Que estas tramando, Erwin?!
+Guau...! Este excentrico ataco de repente de la nada! Que alguien me ayude!
+Gracias por el apoyo... Fuiste de gran ayuda.
+No esperaba que ese excentrico atacara tan de repente... Que alguien me ayude a eliminarlo!
+Lo logre gracias a ti.
+Los preparativos estan completos... Atencion a todos los escuadrones! Dejen que los titanes los sigan y vengan conmigo!
+Maldicion... La mision llevo demasiado tiempo. Ahora no hay esperanza para Eren... o la humanidad...
+Ya esta! Este es el momento en que se decidira el destino de la humanidad! Al ataque!
+Ag!
+Esa era Ymir... Si se mete en mi camino tendre que matarla primero.
+Espera, Mikasa! No mates a Ymir!
+Eso depende de ella! Matare a todo el que se ponga en medio! La decision es suya!
+Ymir morira si no hace lo que dicen Reiner y Bertholdt! No tiene opcion!
+...!
+Hay pocas vidas que me importen... Mis enemigos hicieron que decidir fuera muy facil hace seis anos.
+Asi que no vengas en busca de compasion. No tengo tiempo ni lugar en mi corazon como para que me importe.
+Christa, escoges a Eren o a Ymir? Cual sera? Tambien te meteras en mi camino?
+...?!
+Ag!
+Detente, Ymir! No luches! Moriras!
+Por favor, Ymir... No tenemos tiempo!
+Hazte a un lado, Ymir! Si te pones en mi camino, no dudare en matarte!
+Entonces, Ymir... Tu tambien nos traicionaras, es eso?
+Ymir, tu tambien, no...! Por favor, apartate!
+Esa es Ymir...? Si se mete en medio no nos quedara mas remedio que matarla.
+Comandante Erwin! Maldita sea!
+No me digas... De todas las cosas, ese excentrico esta intentando obstruir nuestra base?!
+De acuerdo! Ahora podemos atraer a los titanes hacia aqui!
+Dense prisa y acaben con esos titanes! Apoyaremos a las tropas en el frente!
+Gracias por la ayuda... Con esta base podremos atraer a los titanes hacia aqui!
+Ese titan es... el del otro dia!
+Viste eso? Voy a rescatar a Eren y traer de vuelta esos dias tranquilos que soliamos pasar!
+Arg! De nuevo... no logre protegerlo...
+Ymir no nos detendra! Todos al titan acorazado!
+Eren... Voy por ti!
+Una senal de humo! Esto me da mala espina...
+Ya tenemos demasiado con lo que lidiar... Ocupemonos de esto rapido para que podamos volver a salvar a Eren!
+Bien hecho! Ahora, de vuelta con los otros!
+Tienen al comandante Erwin...?! Como continuaremos con la mision...?
+Ahora Reiner lanza titanes?! Maldita sea, nos esta dividiendo!
+Si se escapan con Eren, la humanidad esta acabada...! Tenemos que encontrarlo ya!
+No podemos ser imprudentes o llegaremos demasiado tarde...! Primero tenemos que dirigirnos hacia la senal de humo!
+Mientras estemos separados estamos en peligro...! Rescata otros escuadrones y reestructura tus unidades!
+Quiza consigamos informacion sobre Eren tambien... Rescatemos a tantos como podamos!
+Maldita sea, los titanes estan atacando a la Policia militar! Si no los ayudamos, moriran...!
+Yo no queria salir de los muros... Por que tenia que pasarme esto a mi?! Maldita sea!
+Estoy buscando a Eren Jaeger. Sabes algo...?!
+A quien le importa Eren! Es la razon de que estemos en este problema, no?
+Maldito seas!
+Mierda, llegamos demasiado tarde...!
+Calmate, Christa! Mierda, casi no podemos ni hablar con estos titanes alrededor!
+Conny, estas bien?!
+Cubreme, [0:HERO_FRND]! Quiero hablar con Christa y los otros!
+Gracias! Por fin podremos hablar con ellos!
+Solo tenemos que persuadir a Christa y a Ymir, y volver al frente!
+Ymir...?! Ag!
+Y Christa?! La volvieron a devorar?!
+Ymir la agarro y huyo! Vamos a buscar a Eren, asi que encargate tu de esos dos!
+Es solo cuestion de tiempo hasta que sea comida para titanes... Ayuda!
+Uf, creia que estaba perdida... Gracias!
+Has visto a Eren Jaeger?
+No, lo siento... Pero cuando todos nuestros preparativos esten listos, te ayudare!
+Aaahhh!
+Mierda... Cuantas vidas perdimos ahora?
+Me devorara...! Que alguien venga, rapido!
+Me uni a la Policia militar porque no queria luchas contra titanes...
+Sabes donde esta Eren Jaeger? Tenemos que asegurarnos de que esta a salvo!
+No tengo ni idea! Probablemente en el estomago de algun titan!
+Noooo!
+Maldicion, no pudimos salvarlo!
+La Tropa de guarnicion esta luchando con los titanes! No podemos ignorarlos... Tenemos que ayudarlos!
+No habria sobrevivido si no fuera por ti...!
+Estamos buscando a Eren Jaeger...! Sabes donde puede estar?
+No lo se... Pero vi a alguien del Cuerpo de exploracion al sur.
+Si son del Cuerpo, quiza hayan estado con Eren en el frente... Vamos!
+Eren tambien me preocupa... pero y Mikasa?
+El Cuerpo de exploracion ataco al enemigo! Apoyemoslos!
+Nos salvaste... Gracias!
+Has visto a Eren? Necesitamos encontrarlo cuanto antes para mantenerlo a salvo!
+Eren? Se me ocurre donde puede estar... Bien, vamos!
+Que demonios esta pasando? Los titanes corrieron hacia Reiner!
+No lo se... Pero si queremos retirarnos, ahora es el momento!
+Necesitamos caballos para retirarnos... Los preparare. Mientras tanto, protege a Jaeger!
+(No podemos dejar que se lleven a Eren. Acabemos con esto de una vez por todas!).
+Es esto algun tipo de broma...?! Hay titanes por todas partes!
+No quiero morir...! Tenemos que vencerlos!
+No importa cuantos matemos, siempre hay mas...! Solo es cuestion de tiempo para que nos sobrepasen...!
+Basta, Reiner...! Pedazo de mierda!
+Ymir, cuando estoy contigo, no importa donde vayamos o lo complicada que se ponga la cosa, no tengo miedo!
+No se acerquen a mi, idiotas!! Maldita sea, los matare!!
+Dije que no se acerquen a mi, bastardos! Les arrancare todos los miembros!
+Me estoy quedando sin chuchillas y gas...! Si tengo que montar esta base necesito proteccion!
+Ahora podemos reabastecernos...! Gracias!
+Ag!
+No podemos reabastecernos, asi no! Que hacemos...?!
+No me quedan casi cuchillas ni gas...! Creare una base para darme refuerzos!
+Gracias por la ayuda! Ahora podemos reabastecernos!
+Altooo!
+Estan muriendo mas de nuestros camaradas...! Tenemos que acabar con esto con el gas y las cuchillas que nos quedan!
+Eren y Mikasa no pueden luchar...! No podemos dejar que se alejen demasiado de nosotros!
+Los caballos aun no estan listos...! Tenemos que resistir un poco mas!
+Mierda, los caballos aun no estan listos! No aguantare mucho mas...!
+Maldita sea... Reiner viene directo hacia mi!
+No! Hicimos todo lo que pudimos para proteger a Eren de los otros titanes...!
+(No estabamos intentando proteger a Eren?! Que hacen aqui?!
+Los caballos estaran listos pronto. Aguanta un poco mas!
+Que demonios crees que haces, Reiner? Contestame!
+No sirve de nada, Jean! Nuestra unica opcion... es acabar con el!
+(Pensaba que se te daba bien esto, [0:HERO_FRND], pero no tanto...).
+(Puede que causes mas problemas de los que esperaba).
+Como puedo detener a Reiner? Que debo sacrificar para cambiar la situacion...?!
+(Eres persistente, [0:HERO_FRND]! Ahora, dejate de tonterias y rindete ya!).
+Compartimos sudor, sangre y lagrimas durante estos tres anos! Como te atreves a mostrar tanta indiferencia al enfrentarte a nosotros ahora?
+(Soy un guerrero... Consigo mis objetivos sin importar lo que tenga que hacer!).
+Esto es... donde yo...? Maldita sea, no!
+Eren! No, esto no puede ser...
+Los caballos estan listos! Toma a Eren y salgan de aqui!
+Aaaaaagggg!
+Puf... Maldicion... no!
+Esto es como... un mal sueno... Ja, ja...
+Mas titanes...?! Como si las cosas no estuvieran bastante mal ya...!
+Tenemos que eliminarlos antes de que pase algo malo!
+Gracias por vencerlos! Quiza ahora tengamos una posibilidad!
+Protejan nuestra ultima linea de defensa con sus vidas! Si los titanes pasan por aqui, toda esperanza para la humanidad esta perdida!
+Dejen la lucha a la Tropa de guarnicion y al Cuerpo de exploracion! La Policia militar se concentrara en defender la base!
+El destino de la humanidad depende ahora mismo de esta pelea! Es hora... de ofrecer sus corazones a la causa!
+Las rocas causaron graves danos... Tropa de elite! Quiero ver a ese titan bestia muerto!
+No tenemos suficientes soldados para reforzar nuestra linea de defensa... Algunos estan ocupados con los titanes y no nos pueden ayudar.
+No podemos perder... No podemos dejar que atraviesen el muro Sina...
+Uf, titanes estupidos...! Se estan acercando cada vez mas!
+El titan bestia... Es incluso mas poderoso de lo que habia imaginado. No podemos desperdiciar tiempo con otros titanes ahora mismo.
+Los titanes estan bloqueando el paso! No podemos continuar...
+Que hacemos? Tenemos que encontrar la manera de pasar!
+Muchisimas gracias! Ahora puedo unirme a la linea de defensa!
+Voy en camino! Ganaremos esta batalla y volveremos a casa con vida, lo se!
+Si lo matamos, dejara de lanzar piedras! Tenemos que vencerlo de alguna forma!
+Entendido, capitan! Escucha, titan bestia! Por el bien de la humanidad, tenemos que acabar contigo...!
+Tenga cuidado, capitan! Es tan listo como un humano!
+Mierda, se escapo! Pero por lo menos ya no tirara mas piedras!
+Capitana Rico! Maldita sea, aun no acabamos! Tenemos que vencer a esa cosa para que deje de tirar rocas!
+Maldita sea, se escapo... Pero por lo menos no tendremos que preocuparnos mas de las rocas!
+Una senal de humo... y viene de una zona crucial para expandir nuestra linea de defensa!
+Maldita sea, los titanes estan en medio! No podemos montar una base en estas condiciones! echenme una mano!
+Si montamos mas bases de defensa, podemos fortalecer nuestra linea.
+La base esta lista!
+Nos uniremos tambien!
+Nuestra linea de defensa todavia no ha caido. Tenemos que asegurarnos de que resista!
+Sigan manteniendo la linea de defensa!
+Nuestro trabajo hoy aqui muestra que la humanidad es superior!
+No creo que esto haya acabado. Que quiere ese titan bestia?
+El titan colosal esta dentro de los muros! La puerta interior del muro Sina esta destrozada!
+Esta intentando destruir el muro desde el interior! Debemos vencer a ese titan colosal y mantener la linea de defensa a la vez!
+Si consigue salir al exterior, la humanidad esta perdida. Tenemos que vencerlo antes de que alcance el muro!
+Esa senal de humo es del escuadron que estaba montando una base? Sin la base, sera dificil expandir la linea de defensa!
+Maldicion... No voy a perder contra un titan estupido!
+No hay forma de vencer a esta cosa... Que alguien me ayude!
+Gracias por la ayuda! Todavia tenemos una oportunidad!
+Creo que estare mas segura con ustedes... Dejen que luche a su lado.
+Ag, me hirieron... Por favor, usa esto en mi lugar para montar una base!
+Gracias. Gracias a ti expandimos nuestra linea de defensa.
+Montar la base costo demasiado... No logramos expandir nuestra linea de defensa...
+Yo tambien voy! Matare hasta el ultimo de ellos!
+A este paso, el pronostico no es bueno... Quiero que luches junto a mi, [0:HERO_FRND].
+Arg... Esa bestia torpe es un fastidio...
+Bertholdt... Voy a matarte aunque sea lo ultimo que haga!
+Ya no me cabe duda... Esta vez voy a matarte.
+Bertholdt... Lo siento, pero no puedo dejar que hagas esto!
+Maldito seas, titan largucho! Voy a matarte aqui y ahora!
+Como te atreves a darnos una apunalada por la espalda, Bertholdt...! Vamos, te reto! No tienes posibilidad de vencerme!
+Todavia no puedo creerme que hicieras esto! Aun asi...
+Tantos companeros mios cayeron por tu culpa... Hora de la venganza!
+Este monstruo... Acaben con el!
+No me subestimes por ser de la Policia militar. No me rendire facilmente!
+Hay tantas preguntas que quiero hacerte... Se un buen chico y calmate, Bertholdt.
+Por fin llego la hora de ajustar cuentas contigo de una vez por todas...
+Arg... El Cuerpo de exploracion tambien tiene que luchar contra esta cosa...?!
+Que?! Es el titan colosal? Como se supone que vamos a vencer a esa cosa?
+No dejen que el titan colosal escape!
+Solo atacaba el muro para dar tiempo a que rescataran a la titan hembra... Que no escape!
+Genial, un momento perfecto para que mi equipo de maniobras falle...
+El titan acorazado escapo! Abandonen la defensa y persigan a esa cosa!
+El titan colosal esta indefenso... pero la puerta exterior no sera segura mientras el titan acorazado siga vivo.
+Tras el titan acorazado! No podemos dejar que escape.
+Tranquilizate, Eren. Nos ocuparemos de Reiner!
+Me alegra que te hayas recuperado, Eren. Pero no tenemos tiempo para descansar...
+Ahi estas, titan bestia... Te matare!
+Me encargare del titan bestia. Caera.
+Maldita sea, se escapo...! Aunque al menos ya no tenemos que preocuparnos de que nos lancen rocas.
+Oye... Adonde vas?! Maldita sea!
+Tengo que matarlo... pero no puedo... moverme...
+Maldicion... No es momento para que mi equipo de maniobras deje de funcionar...
+Basta de vacilar... Esta vez acabare con el titan acorazado.
+Tenemos que luchar! No podemos dejar que escape!
+Maldita sea! No dejare que te escapes, Reiner!
+Sinceramente, ni yo mismo me lo creo... Pero no tenemos opcion!
+Tenemos que hacer esto... No iras a ninguna parte, Reiner!
+Puede que seas humano... pero eres enemigo de la humanidad.
+Eres un monstruo que fingia ser humano! Llego tu hora!
+No dejare que te salgas con la tuya, titan acorazado...! No saldras de esta con vida!
+Por el futuro de la humanidad... No podemos dejarte escapar.
+Tu cuerpo parece bastante robusto... Aun asi, voy a abrirte en canal y a sacarte a rastras.
+Es el titan acorazado... Tenemos alguna posibilidad de derrotarlo?
+Esto es imposible! Como se supone que vamos a vencer a esa cosa?
+Bien, detuvimos al titan acorazado... Bien hecho, gente.
+Entonces el titan bestia tambien se retiro? No es necesario ir a la caza. La mision acabo.
+Nuestra base esta sufriendo danos! Dense prisa y acaben con esos titanes!
+Nuestra base defensiva tiene danos graves... Venzan esos titanes rapido y hagan lo que sea necesario para mantener nuestra linea de defensa!
+Atravesaran nuestra linea de defensa... Protejanla con su vida!
+Atravesaron nuestra linea de defensa! Creo que hasta aqui llego la humanidad...
+El titan colosal se acerca al muro! Detenganlo antes de que lo derribe a patadas!
+Va a atravesar el muro. A todo el mundo: abatan al titan colosal tan rapido como sea posible!
+El titan acorazado huira. No podemos dejar que escape!
+Rapido! Si dejamos que el titan acorazado escape, la humanidad correra un grave peligro!
+Esa senal de humo... Debe de haber aparecido un titan poderoso. Prefiero no enfrentarme a otros titanes a la vez.
+Esta entorpeciendo nuestra mision! Eliminenlo, rapido!
+Por aqui ya acabamos... Rapido! Que no escape el titan acorazado!
+Maldita sea... Estupidos titanes... Me siento fatal...
+Mis lesiones son graves...
+Arg... No nos queda mas remedio que retirarnos. Vaya mierda.
+No esta mal... Pero, aun asi hay que retirarse...
+No podemos continuar con la mision! Me largo de aqui!
+Hasta aqui puedo llegar. Sabia que no tenia la fuerza necesaria...
+No escaparas! Vamos a atraparte aqui y ahora!
+Tantos companeros mios murieron por culpa de esa cosa...
+Ahora! Ataquen a la vez!
+Llego la hora! Coordinen sus ataques!
+Tienen el equipo que les di antes, no? Pueden usarlo para atrapar al titan!
+Centren sus ataques en el titan! Usen el equipo para capturarlo!
+No pasa nada si fallan! Tenemos muchos mas equipos disponibles!
+Antes de capturar a un titan grande, primero hay que ralentizarlo!
+Cortarle las dos piernas hara que el titan pierda el equilibrio y caiga.
+Una vez que el titan haya caido al suelo, disparen desde su cabeza!
+Actuen a discrecion y capturenlo con el maximo cuidado.
+Es necesario debilitar a los titanes grandes antes de capturarlos!
+Bien! Ahora solo queda usar el equipo para capturarlo!
+Apunten a las piernas, pero tengan cuidado de no matarlo accidentalmente!
+Bien hecho, comandante de seccion!
+No hay por que excederse. Me temo que tendran que dejar este a la comandante de seccion.
+Ahora no pueden capturarlo aunque usen el equipo! Primero tienen que cortarle las piernas y derribarlo!
+No hay duda: esa cosa es un enemigo de la humanidad y no podemos dejar que escape!
+Al parecer, la mision no va a ser facil, pero podemos hacerlo, no?
+Encarguemonos de esos titanes y tengamos exito en la mision, cierto, [0:HERO_FRND]?
+Lo conseguimos! Mision cumplida!
+Lo cierto es que las cosas no habrian ido tan bien si hubiera estado solo. Esta victoria es gracias a ti.
+Ya llevamos un tiempo trabajando juntos, eh? Creo que formamos un gran equipo!
+Espero que Eren este bien... Y Armin...
+Bueno, vamos a centrarnos en el peligro mas inmediato. Si tu tambien ayudas, terminaremos antes.
+Gracias, [0:HERO_FRND]. Contigo aqui, ha sido mas facil.
+No puedo dejar de preocuparme por Eren y Armin. Ya se que saben apanarselas, pero... Mira, sera mejor que volvamos.
+Deberia poder utilizar la experiencia obtenida en la mision para mejorar mis ejercicios de entrenamiento.
+Me gustaria echarle un buen vistazo a tus metodos de combate. Espero que me dejes observarte.
+Si estas de acuerdo, seguro que podria mejorar el entrenamiento en el que estoy trabajando. Al fin y al cabo, luchas de maravilla.
+Gracias por aceptar ayudarme, [0:HERO_FRND]! He aprendido un monton!
+Como pensaba, el combate en el mundo real es muy distinto a las situaciones simuladas que usamos en el entrenamiento. Implementare algunos cambios cuando vuelva.
+Vamos a poner en marcha el entrenamiento especial, eh? Es hora de convertirnos en soldados de verdad!
+Por cierto, hablas mucho con Christa?
+Estoy seguro de que le gust... En fin, sabes que? Sera mejor centrarnos en la mision.
+Enemigo neutralizado! Pienso con total claridad ahora mismo.
+Gracias a ti, ya me siento como un soldado de verdad, [0:HERO_FRND].
+No es la primera vez que alguien me dice algo asi. Que tengo las habilidades, pero que tengo que ponerle mas ganas.
+Supongo que necesito mas confianza en mi mismo.... Tengo que encontrar la forma de mejorar.
+No pienso rendirme. Me ayudaras a conseguirlo?
+Si! Una actuacion convincente, eh? Al menos siento que por fin puedo serle util a Reiner y a los demas.
+No podria haberlo conseguido sin ti, estoy seguro. Gracias, [0:HERO_FRND], de verdad.
+He visto a titanes devorar humanos. Durante una temporada quise alejarme de todo esto y no volver a enfrentarme a un titan en la vida.
+Pero, bueno, esto es lo que elegi hacer. Y si vas a luchar, tienes que darlo todo en el combate.
+Eso y que Marco se reiria de mi desde la tumba si no hiciera algo para mejorar mis habilidades.
+Gracias por ayudarme. No hay nada que pueda sustituir un combate real.
+Soy lo suficientemente soldado como para no decepcionar a nadie. Los amigos muertos pueden descansar en paz.
+Y con mis nuevas habilidades, quiza... quiza pueda sobrevivir en el Cuerpo de exploracion!
+Vale, es la oportunidad perfecta para poner en practica todo el entrenamiento! Venga, titanes! Estoy listo!
+Nunca fui muy bueno en las clases, pero despues del entrenamiento especial, seguro que soy mas listo que nunca! Ya veras!
+Muy bien! Hemos acabado con ellos! Es cosa mia o he mejorado en combate?
+Gracias, [0:HERO_FRND], me has ayudado mucho a llegar hasta aqui, lo sabes, no?
+Y ahora soy tan bueno como le dije a aquel nino cuando no podia ni tenerme en pie.
+Asi que, dime... Cual es... tu comida favorita?
+A mi me encanta comer de todo. Pero las papas y la carne.... O sea... Ejem! Las patatas y la carne me vuelven loca.
+Pero supongo que no es el mejor momento para hablar de comida, no? Centremonos en la mision.
+Lo conseguimos! Aunque no se por que se me ocurrio usar mi acento real en medio de la mision, que tonta!
+De todos modos, gracias por la ayuda. Aun creo que te mueves como un cazador. Es increible!
+De todos modos, gracias por la ayuda. Aun creo que te mueves como un cazador. Es increible!
+Me alegro de que hayas venido conmigo. Busquemos la planta para ayudar al padre de la nina!
+Pero no te arriesgues demasiado, entendido? No podemos perder una vida para salvar otra.
+Mision cumplida! Mira! Tengo la planta que necesitamos!
+Gracias por ayudarme en esto. No habria salido tan bien de haber ido yo sola.
+Seguro que esto marcara la diferencia! Volvamos enseguida!
+Que molest... Umf, al menos contigo aqui terminaremos antes, no?
+No quiero pasar demasiado tiempo lejos de Christa. Aunque... no me importaria resultar herida si supiera que me va a cuidar ella.
+En fin, voy a tener que darlo todo ahora y mas te vale hacer lo mismo, entendido?
+Ay, me lastime el dedo... Tendre que dejar que Christa me lo cure.
+No digo que estemos en paz, pero me has ayudado ahi fuera. Gracias.
+Esta situacion esta demasiado descontrolada como para considerarla un entrenamiento! Pero no podemos abandonar! Oye, tu! Estas temblando?
+Tch, quejate cuanto quieras, pero mas te vale no decepcionar al comandante Erwin. Tiene muchas esperanzas contigo.
+Hemos vuelto con vida y sin marcas de dientes de ningun titan, no, [0:HERO_FRND]? Como si fuera poco!
+Estoy impresionado. Todavia estas muy verde, pero te mueves bien.
+Puede que Erwin tuviese razon al pedirme que te entrenase.
+Si esta mision va bien, sera un gran avance en mi investigacion. No podemos fallar!
+Pero eso no significa que quiera que te arriesgues mas de la cuenta, entendido? No quiero que Levi se vuelva a enojar conmigo por eso!
+Y ya esta? Ya no hay mas titanes?
+La mision ha sido un exito, [0:HERO_FRND]! Ja, ja, puedo confiar en ti como ayudante!
+Ya tengo todos los materiales que necesito! Volvamos para que pueda demostrar mi hipotesis.
+En el exterior siempre estas a unos segundos de algun peligro mortal. No puedo garantizarte que vayas a volver con vida.
+Pero tenemos a algunos veteranos tercos en el regimiento. Espero que los novatos puedan mantener la tradicion!
+Tengo mucha fe en ti. No quiero que perdamos un talento como el tuyo.
+Sigue asi y obten tanta experiencia en combate como puedas, [0:HERO_FRND]. Quiero que aprendas las habilidades necesarias para mantenerte con vida.
+Si todos los novatos mejorasen igual que tu, al Cuerpo de exploracion le esperaria un futuro brillante.
+Snif, snif... Huele a titan.
+Bien, estare justo detras de ti como apoyo, tu mandas. Quiza asi podamos desbloquear esa habilidad especial tuya.
+Snif, snif... Bueno, ya no quedan titanes. Estas bien, no, [0:HERO_FRND]?
+Parece que seguimos sin despertar ese talento oculto tuyo, pero no te desanimes.
+La pelea no estuvo mal y seguro que descubriremos cual es tu habilidad secreta. La proxima vez probaremos otra cosa.
+Esta mision deberia ser dura para los novatos, [0:HERO_FRND], pero estaremos cerca para apoyarte, de acuerdo?
+Eso: si puedes arreglartelas para no retrasarme, tendras al explorador con el mayor numero de muertes a tu lado.
+Ah, si? Recuerdame quien era el que siempre retrasaba a los demas cuando era un novato, eh?
+Bueno, bueno, ya basta de recordar los viejos tiempos! Tu... dalo todo, [0:HERO_FRND]!
+Los titanes se acercan. Tendremos que peinar la zona para asegurarnos. Adelantense y vuelvan a la base.
+De acuerdo. Mantenganse alerta, eh? Nada de pararse a descansar.
+Otro dia, otra mision. Y otra vez vuelvo a ser el mejor del grupo, verdad?
+No se a que grupo estabas mirando, pero en el nuestro quien se merece los aplausos es [0:HERO_FRND].
+Me alegro de que hayas venido con nosotros, [0:HERO_FRND]. Vamos a ver los resultados!
+Pero no te arriesgues demasiado. Con un temerario en el equipo tenemos de sobra!
+Nos pondremos con los experimentos en cuanto volvamos. Esto hara avanzar mucho la investigacion!
+Bien, hemos conseguido muy buenos resultados! El comandante de seccion estara encantado!
+No te han herido, verdad, [0:HERO_FRND]? La mision ha sido todo un exito gracias a tu esfuerzo.
+Gracias por venir a ayudarnos. Siento que te hayamos arrastrado a una mision de la guarnicion, pero andamos tan justos de personal como el Cuerpo de exploracion.
+Sin embargo, recuerda que tienes que seguir las reglas. Las deserciones estan mal vistas, entiendes? Y con eso quiero decir que estan muy mal vistas.
+No se preocupe, capitan. [0:HERO_FRND] lucho en la liberacion de Trost. Siempre se puede contar con el Cuerpo de exploracion, verdad?
+Muy bien, se acabo la mision. Creo que ya no quedan titanes por aqui... no?
+Todo parece despejado, senor. Gracias a usted y a [0:HERO_FRND], hemos acabado muy rapido.
+Tengo que volver para informar al comandante del exito de la mision. Has hecho un buen trabajo, [0:HERO_FRND].
+Te tomas esto con mucha calma, eh? Seguro que no tienes mucha experiencia, [0:HERO_FRND]?
+Entonces no puedo dejar que veas el miedo que tengo yo, pero me cuesta mantener la compostura!
+Uf, por fin se acabo! Estas bien, [0:HERO_FRND]?
+Gracias a que has aceptado venir conmigo, he conseguido superar mis miedos. De verdad te lo agradezco.
+Bueno, ahora me siento mucho mejor. Tengo que ir a escribir mi informe enseguida.
+Yo tambien ire en esta mision. Quiero ver como han mejorado gracias a mis tres anos de entrenamiento.
+Recuerden que no importa cual sea la situacion, un soldado debe adaptarse y ocuparse de las cosas con la cabeza fria.
+Has seguido un entrenamiento muy riguroso, [0:HERO_FRND]. Y ahora tambien tienes experiencia en combates reales. Puedes hacerlo.
+No bajes la guardia hasta que hayas acabado con un titan. Piensa siempre en tu proximo movimiento, soldado.
+En el ejercito, tienes que tomar decisiones apresuradas en todo momento. Tienes que tenerlo siempre en cuenta.
+Dios... Tengo tanto miedo... No quiero que me coman... No puedo dejar de temblar...
+No! No puedo rendirme al miedo! Los titanes no dan miedo... Los titanes no dan miedo... Los titanes no dan miedo...
+A quien quiero enganar? Los titanes dan mucho miedo! Por favor, [0:HERO_FRND], no te apartes de mi lado!
+Ya esta? Estaba asustado! Espero no tener que volver a ver otro titan!
+Lo siento... Ni siquiera ahora puedo dejar de temblar. Puedes ocuparte tu del informe?
+Bueno, [0:HERO_FRND], si las cosas se te complican, avisanos cuanto antes, entendido?
+No dudamos de tus habilidades, pero no queremos ponerte en peligro sin motivo.
+Sin embargo, esta es una gran oportunidad! Vamos, adelante!
+Estoy seguro de que soy el que mas ha matado, pero tus movimientos son espectaculares, [0:HERO_FRND].
+Si, realmente me has sorprendido. Tienes talento, eso seguro.
+Todos esperan mucho de ti. Sigue asi, [0:HERO_FRND]!

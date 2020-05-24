@@ -1,0 +1,96 @@
+﻿Don't let up! Push right through!
+I did it...but there's no time to celebrate.
+That was a tough one, but I wore him down!
+I never want to meet one like that again.
+The odds don't look good, but we have to fight!
+Be careful! It's an Abnormal!
+It's a distress call!
+That smoke signal! What's happening?!
+Thanks.
+Thank you.
+You're a recruit, right? [0:HERO_FAMN], was it? Thanks for the save.
+Expect your next assist to come from me, [0:HERO_FSTN]. Thanks.
+Thanks as always, [0:HERO_FSTN]. You're my hero.
+It was nothing.
+Don't mention it. Now let's clean up the remaining Titans.
+You know what I think, Eren? You're worth us staking our lives.
+Thanks. But next time, don't worry about me. We need you at your best, without distractions.
+Sorry about that. The way I'm fighting, maybe I shouldn't be giving orders, ha!
+Sorry to drag you this far into the front lines, sir!
+
+Right back at you, Rico. The next time I slip up, I'll be expecting you to come running!
+No prob, Mitabi. You saved me last time, so now we're even.
+If I may object sir, nothing is more integral to this regiment than your ingenuity and judgment.
+Please leave the heavy lifting to us, sir!
+
+Great work!
+Amazing!
+Good going, [0:HERO_FAMN]. I like your enthusiasm!
+Nicely done, [0:HERO_FSTN]. The Garrison Regiment could use a soldier like you.
+You're too good, [0:HERO_FSTN]. We elites don't have anything left to kill!
+I can't wait to see what you've got up your sleeve next, Eren.
+You're a damned fighting genius, Ackermann! I shudder to think what your childhood was like.
+We elites are an example to other soldiers. We need to stay at the top.
+You handle yourself on the front lines like an elite, Commander.
+Captain Woermann glides like a bird. There's still much we can learn from him.
+Killing a Titan like that...?! How could one person be so powerful?
+A perfect demonstration of how to bring down a Titan.
+I thought you were being reckless, but it looks like you knew what you were doing, [0:HERO_FAMN].
+You obliterated that Titan, [0:HERO_FSTN]. You're practically an elite.
+Together with you, there's no Titan we can't topple.
+Someone, lend a hand!
+I need support over here!
+I'll be right there!
+Copy that! I'm coming for you!
+I'll resist...until...the very end.
+I'm prepared...to lay down...my life.
+Don't give up. I won't abandon you.
+There's no time to lose! I have to hurry!
+Can you still fight?
+Are you okay?
+The question is, can you still fight?
+Hah, I can still fight!
+Take care of the rest, guys...
+That's it. I'm retreating.
+Ian Dietrich here, ready for battle!
+Joining the fight!
+This is it! Advance!
+Let's take care of these Titans and then go for a drink!
+We allowed this situation to arise.
+Hang on! The Elite Squad will save you!
+The Titans are getting away! Chase them down and destroy them!
+No matter how many of us lose our lives, we will defend this area!
+The Titans are closing in! Fall back!
+For the future of mankind, advance!
+There's no time to think about it! Just push on!
+Right, let's go!
+Understood!
+We won!
+You persevered, team. Mission successful.
+It was close, but we got away.
+The battle's over...but I'm not thrilled with the outcome.
+Victory for mankind. So this day has finally arrived.
+We failed the mission?! That's it then, all units fall back!
+Mankind no longer has a hope of victory.
+Keep up the momentum!
+However you look at it, the Titans are overwhelming us.
+Time to get this campaign underway!
+I'll take point!
+Leave the support to me!
+I'll save our comrades!
+I will halt the Titans!
+I'm teaming up.
+Advance!
+Provide support!
+Save our comrades! Don't let them die!
+Focus all your efforts on defense!
+Mission accomplished!
+They took us to town. Mission failed.
+The mission is inviable! Aborting!
+I'll carry on resisting until the very end.
+No matter how hard we fight, humanity can never resist the Titans.
+Know what they call us? The "elite of elites." Our performance must be worthy of that mantle.
+If there's even a fraction of a chance that humanity can beat back the Titans...I'm willing to stake everything on it.
+The Garrison Regiment exists to protect towns caught on the front lines.
+I wanna get this over with and then have a nice drink.
+I pour my heart and soul into each and every mission.

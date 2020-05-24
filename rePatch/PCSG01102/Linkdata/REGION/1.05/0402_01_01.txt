@@ -1,0 +1,46 @@
+﻿（吉味）[0:CHARA_G] has eliminated [g]%d[/] targets!
+（吉味）[0:CHARA_G] got another elimination!
+（吉味）[0:CHARA_G] has eliminated [1:CHARA_G]!
+（通常）[0:CHARA_G] has crushed [1:CHARA_G]!
+（副見）Distress smoke signal has been confirmed!
+（警敵）[0:CHARA_G] is struggling!
+（緊急）Urgent distress smoke signal has been confirmed!
+（警敵）[0:CHARA_G] is nearly on the run!
+（吉味）[0:CHARA_G] has saved [1:CHARA_G]!
+（凶報）[0:CHARA_G] has been downed by [1:CHARA_G]!
+（凶報）[0:CHARA_G] has been downed!
+（凶報）[0:CHARA_G] has been defeated!
+（警敵）[0:CHARA_G] has retreated!
+（凶報）[0:CHARA_G] has been downed!
+（警敵）[0:CHARA_G] has temporarily retreated!
+（吉味）[0:CHARA_G] has saved [1:CHARA_G]!
+（吉味）[0:CHARA_G] and [1:CHARA_G] have joined up!
+（警敵）[0:CHARA_G] has begun fighting with [1:CHARA_G]!
+（通常）[0:CHARA_G] has begun fighting with [1:CHARA_G]!
+（吉味）You're favored! Signal for battle!
+（警敵）All forces gathered for battle!
+（吉味）Victory!
+（凶報）Defeat!
+（凶報）[0:CHARA_G] has died! Battle lost!
+（凶報）The outpost was destroyed! Battle lost!
+（凶報）Out of time! The battle has been lost!
+（勝敗）Victory conditions have changed!
+（勝敗）Defeat conditions have changed!
+（消失）The distress smoke signal disappeared!
+（討伐）A Dire Elimination target appeared!
+（通常）Eliminate as many [r]Titans[/] as possible within the [g]time limit[/]!
+TEMP
+TEMP
+TEMP
+TEMP
+（副見）Smoke signal sighted!
+（警敵）[0:CHARA_G] alert!
+（吉味）[0:CHARA_G] has died. [g]Points[/] decreased!
+（警敵）[0:CHARA_G] has died. [g]Points[/] decreased!
+TEMP
+TEMP
+TEMP
+TEMP
+TEMP
+TEMP
+（通常）[r]Titan[/] spotted on the battlefield!

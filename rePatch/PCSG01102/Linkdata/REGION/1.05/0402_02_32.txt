@@ -1,0 +1,96 @@
+﻿Cutting up Titans is the very thing I TEACH! 'Course I can do it myself!
+Ooh, I feel young again!
+That was a big one. Call it luck, I guess.
+That one had more bark than bite. Smashed right through him.
+That's definitely not your normal Titan.
+We've got an Abnormal on our hands! I take it you maggots know what to do?!
+It's a distress call! Handle it!
+Can't you see the smoke signal? There's not a moment to lose!
+I appreciate your assistance.
+Thank you for the assist.
+That was you, [0:HERO_FAMN]? Guess I owe you.
+Thanks, [0:HERO_FSTN]. I can tell you've improved!
+I won't forget this, [0:HERO_FSTN]. You're going to do great things!
+Do you actually WANT to die? Get your head out of your ass!
+Hope I didn't cross a line, sir. I'm only here to help.
+You're a gifted solider, Elwin. You've got a knack for gauging the big picture.
+I didn't expect a save from you. Thanks, I suppose.
+You sure as hell aren't green anymore. Good job.
+Thanks, Levi. I see why Elwin trusts you.
+Nicely handled, recruit. Say, I remember you. Where are you from again?
+Actually, sir, I was much better in my younger days as a Scout.
+I didn't make you commander so you could get offed by some random Titan!
+
+
+
+Excellent judgment! Don't let your standards slip!
+That is how it should be done.
+I like the fire in those eyes, [0:HERO_FAMN]! They say you've seen your share of hell.
+Impressive, [0:HERO_FSTN]. When did you pick up that maneuver?
+You're a beacon to humanity, [0:HERO_FSTN]-and you're gonna kill every last one of these Titans dead!
+Grisha... You're son's a proud soldier now.
+You're a damned fighting genius, Ackermann-without precedent!
+Appointing you commander is my greatest, and only, military exploit.
+Almost doubted my eyes there! You've changed quite a bit, and in such a short span.
+You're what, section commander now? You do your rank honor.
+Defeating such a Titan... It would appear that an extraordinary talent is coming into bloom.
+Absolutely splendid! You are a model soldier to the young recruits, sir!
+That's exactly how you take care of the big ones! A fine kill, by the book, [0:HERO_FAMN]!
+That your work, [0:HERO_FSTN]? The front lines have molded you into a true warrior!
+A beautiful victory, [0:HERO_FSTN]! No Titan can devour you!
+I've got my hands full! Back me up!
+Requesting support!
+Roger. Heading your way now.
+Support's on the way.
+So this is how I go? Before seeing the mission through...?
+I'm outmatched. Assist me!
+Looks like I'm needed. Charging ahead!
+I'm coming! Don't let it be too late...!
+Looks like you aren't Titan fodder yet.
+So you made it after all.
+Yeah, it's too soon to die just yet.
+Looks like I'll live to see another day.
+Don't die on me now...
+You guys can handle the rest.
+Can someone tell me what the hell's going on here?!
+Never thought I'd have to fight on the front lines, too..
+Put your training into action! All units, engage!
+Let me show you what my years in the Survey Corps taught me!
+We're gonna make it through this alive!
+Did I ever teach you to abandon an ally?
+Beat them down before they can get away!
+Form a wall and stop that Titan!
+We'll mount a counterattack later! For now we retreat!
+Put your hearts into this, everyone! This is our final fight!
+Here we go! Make every second count!
+I'll help, too.
+I'll do whatever I can.
+We've achieved our mission! You should be proud!
+That was amazing! Way to form a good defense!
+We made it! They're not gonna chase us any further.
+Was that really a victory? We lost so many...
+You're done already? Impressive...!
+Sometimes retreat is the best option when all else fails...
+I knew it... I'm too weak to change anything.
+With this much skill we might just be alright.
+How is this happening? Didn't you learn anything from me...?
+This is where all your hard work in training pays off!
+CHARGE!
+I think you need my protection.
+I'm bringing backup!
+Stop the Titans!
+I see some comrades over there... I'm gonna need the extra manpower if I plan on moving at all.
+Advance! Don't fall behind!
+Provide support!
+Save our comrades!
+Assume a defensive position!
+Mission accomplished! Well done!
+We have failed the mission!
+Aborting mission!
+Watch and learn! This is how you fight 'em!
+An average man like me...can't accomplish anything...
+I'll never do anything but watch from the sidelines. Special people are the only ones who can change anything.
+The Scout Regiment exists because people don't trust the King's policy of staying within the Walls.
+People who aren't special can never hope to accomplish anything important...
+This takes me back to my days in the Scout Regiment.
+I trained you as hard as I could so you wouldn't die in vain on the battlefield.

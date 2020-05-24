@@ -1,0 +1,96 @@
+﻿All monsters should be destroyed!
+Spotted us, did you? You enemies of humanity!
+There... I eliminated our enemies! On with your duties, everyone!
+I d-did it... I brought down that monster with my own hands!
+Ugh... I don't care how strong our foes are, we can't turn our backs on a fight!
+What...? An Abnormal?! Destroy it at once!
+Why such a struggle over those paltry Titans?
+That smoke signal means they're in serious trouble! What the hell is going on over there?!
+Thanks! But come quicker next time.
+I didn't expect you to come this far just to help me...
+Well played, [0:HERO_FAMN].
+You've come to be quite promising, [0:HERO_FSTN]
+You've saved me again, [0:HERO_FSTN]. I shall recommend you as an elite member of the Garrison Regiment.
+No need for gratitude, just keep fighting!
+I only did what was expected of me as a soldier.
+Elite soldiers truly are talented. Thanks for the help.
+Well done... On the off-chance I die, I entrust my troops to you.
+Commander Pyxis...! I appreciate the help, but you needn't put your life on the line for me...
+Wh-what are you doing, Jaeger? Trying to get on my good side, is that it?
+Th-thank you... May you keep up the good work, for all of humanity.
+Y-yes, sir...but you shouldn't be putting yourself in harm's way like this.
+What are you blabbering about? If you've got time to be "touched" then quit lollygagging and get back to work!
+
+
+
+Now onto the next task! There's no time to slow down!
+You never cease to amaze me.
+Onwards to the next enemy! You can do it, [0:HERO_FAMN]!
+Very well done, [0:HERO_FSTN]! I'll remember your performance today!
+Keep that attitude and take down all the Titans! If anyone can do it, you can, [0:HERO_FSTN]!
+Ian Dietrich! You're what the Garrison Regiment prides itself on, an elite among elites!
+Rico Brzenska! You're exactly the type of soldier people mean when they say "elite"!
+Mitabi Jarnach! You are what makes the elites of the Garrison Regiment elite!
+Commander Pyxis! You're performing excellently, but please keep yourself out of harm's way!
+Jaeger! So you're on humanity's side after all!
+How could anyone kill a Titan like that? Astounding!
+You wouldn't find me risking my life like that if I held that rank.
+[0:HERO_FAMN], a newcomer like you just beat that Titan...?
+Well done, [0:HERO_FSTN]! There aren't many soldiers of your caliber!
+[0:HERO_FSTN], your power is indispensable to the future of humanity!
+Hey, someone! Get over here, quick!
+I'm s-sorry to say this, but I need backup!
+You're pitiful! Hold on, I'm coming!
+M-me...? I'll be there right away!
+I did this for humanity... I have no regrets...
+I've always been prepared...to give my life...!
+Hey, you can't just die like that!
+Hang in there! Just a little longer!
+There, all better.
+Are you feeling alright?
+I'm fine, completely fine! Of course I am!
+No problems here!
+I'm injured... So there's nothing wrong with retreating!
+This is a strategic withdrawal!
+I can't turn my back on a fight like this...!
+Those monsters will be stopped dead in their tracks now that I'm here!
+Make sure to follow regulations as you fight, soldiers!
+Blast them with artillery!
+Don't be a coward! Anyone who runs away will be killed as a traitor!
+Take out any Titans you can along the way, but remember that our top priority is rescue!
+Every threat must be eliminated! Don't let them escape!
+Strengthen your defenses! We can't let the Titans advance!
+Retreat! Don't let those monsters catch us!
+This fight determines whether humanity wins! Attaaaaack!
+We can't afford to waste any time! Hurry!
+We must always adhere to the rules, no matter the situation.
+Leave it to me.
+Mission complete... We win!
+All threats have been removed... My duty is fulfilled.
+Retreat successful... Good job, everyone.
+Can we really call this a success?
+Humanity wins... We accomplished our mission!
+The mission was a disaster... How could I fail in my duties so completely...?
+So this is where...my life ends...
+We've got the upper hand! Don't stop now!
+What are you doing?! We have to fight back!
+Let's get the mission started!
+Onwards... I must go onwards!
+I will offer my protection!
+I'm coming in for the rescue!
+I will shore up our defenses!
+I'll team up!
+Advance! Don't break formation!
+What are you doing? Give them some support!
+Saving our comrades is our number one priority!
+The Titans are coming! Tighten your defenses!
+Mission accomplished!
+Mission failed?! No way.
+Aborting mission.
+Every threat to humanity must be eliminated, without exception!
+What am I supposed to do now...?
+This is all is to keep our people safe...to keep humanity safe...
+As long as we adhere to the rules, my judgment will not falter...
+If Titans can transform into humans, then who can we really trust...?
+Anyone who disobeys the rules will be punished. That's what it means to be a soldier. 
+Don't let your guard down! We still don't fully understand Titan behavior!

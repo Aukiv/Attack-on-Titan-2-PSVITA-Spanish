@@ -1,0 +1,96 @@
+﻿Maybe this'll get everyone to quit saying I got into the MP unfairly, hm?
+Hey, why am I the one doing all the work?
+That was TOO close! Why are they pitting me against the scary ones?
+I thought I was a goner! What kind of Titan was that?
+Are you crazy?! I can't beat this thing!
+Is that an...Abnormal?
+The color of that smoke... Isn't it a distress call?
+That signal means things are going south, right?
+You came along at just the right time.
+Sooooo sorry for the trouble. Won't happen again!
+Let me guess, [0:HERO_FAMN]. You want to be my friend?
+You again, [0:HERO_FSTN]? You're nice. Maybe too nice.
+You saved my life again, [0:HERO_FSTN]. Thanks. I'm glad we're friends.
+Huh? What are you talking about? I just happened to be passing by.
+Not at all. It actually looks like I got in your way.
+What's with that look? Mad at me for making you work more?
+Thanks, Marlo. I guess you're more than just a mouth.
+Wow, saved by the commander. Does MP corruption only run in the lower ranks?
+
+
+Don't mention it. Only the cream of the crop gets into the Military Police, right?
+Well, I certainly can't let YOU die. Who would I have to laugh at?
+...Maybe I should throw you back to the Titans.
+But of course, sir. The MP has an eye for talent-and it's talent I have. Yep...
+
+Wow, you're amazing.
+Wow. I must say, I'm very impressed.
+Yeah, that's amazing and all-but personally, I'd rather not try that hard.
+You're good, [0:HERO_FSTN]. I'll give you that. Not that I want to BE like you, I'm just saying.
+You really put slackers like me to shame, [0:HERO_FSTN]. Eh, almost.
+You're gloomy and well, kind of rude-but talented!
+Keep it up, Marlo! You know, so I don't have to.
+Wow, Commander! You're soooo strong!
+Are all the southern Cadet Corps graduates whiz kids like you?
+Incredible, sir! But personally...if I made it to Premier, I'd never set foot on the front lines again.
+I can't believe you're still alive after taking on a Titan like that.
+I can't believe you killed it. It must be tough being such a big shot.
+You beat THAT? What the heck are you, [0:HERO_FSTN]?
+I'm not sure which was scarier, the Titan or you.
+I have a fab idea, [0:HERO_FSTN]. Stick by me-and protect me from those things, 'kay?
+I can't handle this. Someone, help me.
+Help! Please!
+Isn't there anyone else around?
+Why did I bother joining the Military Police?
+Tell me this is a dream. I might actually die...!
+Help me! I'll do anything!
+You look wrecked.
+I can't just ignore it... Crap!
+I'm glad we're both still alive.
+Are you hurt?
+Huh? I'm fine.
+Yeah, by some miracle.
+Sorry... I'm done for.
+My mission ends here!
+Well? I'm here.
+Sorry to keep you waiting.
+Let battle commence! Huh? Why am I saying that?
+How can I get out of this?
+We can't win this. Why bother fighting?
+Guess I have to help out.
+I'm not letting you get away!
+So, we stop the Titans-or we all die. Got it.
+I've gotta move my ass! The Titans are almost right on top of us!
+Even I'm gonna pull out all the stops. It is the last time after all.
+We ain't got time for chit-chat.
+Woohoo!
+Yes!
+We won? I don't believe it.
+We held out... Phew!
+Have they stopped chasing us? My legs are killing me.
+I hate it when things turn out like this.
+It's over...for good this time.
+No way? That can't be right.
+Sorry... I failed.
+This one's in the bag if we carry on like this!
+We can't win this. Why even try?
+Okay, let's get this party started.
+I guess I'm gonna advance.
+They're just gonna ask for help anyway, right?
+I can't just not help them, can I?
+I'm not sure I'll be able to hold out, but I'll try to defend the area.
+I should be safe if I stick with them.
+Advance!
+Support them!
+Save our comrades!
+Defend that area!
+Mission complete!
+How could we have failed the mission?
+The best laid plans...
+Sometimes even I can get serious!
+It might be time for me to tap out of this.
+The Military Police is rotten to the core. Works for me-that's why I joined.
+Those Scouts sure like to play hero.
+I didn't become a soldier to scrap with Titans.
+My reason for joining the Military Police? Whatever, let them gossip.
+I'm beat. I just wanna get this over and done with.

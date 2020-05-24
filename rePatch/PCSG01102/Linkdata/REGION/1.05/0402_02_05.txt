@@ -1,0 +1,96 @@
+﻿So far so good. Just stay alert.
+There are still more. No time to rest.
+That one was vicious! I'm winded.
+That was a tough one. It's a miracle I'm still alive.
+This one looks strong... Do we have to fight it?!
+Huh?! An Abnormal!
+A smoke signal. Are they in trouble?
+Can we make it in time?! We've got to help them!
+Sorry. Didn't mean to drag you into this.
+Sorry for being a burden.
+You came, [0:HERO_FAMN]. I'm still breathing thanks to you.
+Sorry about that, [0:HERO_FSTN]. I guess I screwed up.
+Thanks, [0:HERO_FSTN]. Saved me again. I'll pay off this tab one day.
+It's only natural for us to help each other.
+I'll try to keep it up.
+Thanks, Reiner. We WILL get back home...one of these days.
+Oh, uh... Thanks for the assist, Annie.
+Whew! Close one. You're a star, Conny.
+You're a born strategist, Armin. Thanks.
+You're a lifesaver, Jean. Literally!
+One day, Reiner. One day...for sure.
+I, erm... I'm just glad I made it in time!
+Aw, c'mon. We're friends, right?
+Heheh. I'm not used to getting compliments.
+
+So brave... I could learn a thing or two.
+You're so graceful in battle.
+You're breezing through this, [0:HERO_FAMN]!
+Where'd you pick up THOSE skills, [0:HERO_FSTN]? I'm astounded.
+Just amazing, [0:HERO_FSTN]. I'm proud to call you my friend.
+Good work, Reiner! Now let's end this-together!
+Intense, Armin... I sure am glad we're on the same side!
+Looking awesome out there, Annie. You know I really...respect you. Yeah.
+You're tearing it up, Daz! Hey, I'm scared too, but...it's all for the mission.
+That's the commander for you-brilliant...and lethal.
+Wow, how did you kill such a formidable Titan?!
+Now that's the work of an experienced soldier.
+You trounced that thing, [0:HERO_FAMN]! Surreal!
+Were I equipped with your resolve, [0:HERO_FSTN]...maybe I could've been stronger.
+I can hardly believe my eyes, [0:HERO_FSTN]. You're worlds ahead of me.
+Urgh... Somebody, help!
+Please, we need reinforcements!
+I'm on my way! Just hold on!
+I'm coming for you!
+Someone... Please hurry!
+Reinforcements! I can't hold on any longer!
+I'll help you. Just hang on a little longer!
+Not good. They need help-stat!
+Are you okay? Let's stick together from now on.
+How's the situation?
+I'm all right. Let's do this.
+I'm fine. Let's go!
+I've reached my limit!
+That's enough. I'm out of here.
+Sorry to keep you waiting!
+It looks like you're not finished here. I'll lend a hand!
+Okay, let the battle commence!
+Sometimes you just need to take it easy.
+It's too soon to lose hope. We will return home alive.
+We will save them!
+We mustn't let them get away! Hurry!
+Don't let them past. If they break through, it'll be a catastrophe.
+Run for your lives! If they catch us, we're dead meat!
+Let's finish this once and for all!
+We're strapped for time! Stay light on your feet!
+I'll do my best.
+I can do this!
+Yes, we won!
+We stopped the Titans' advance!
+That was a close one, but we made it.
+So...I guess we won.
+Yeah, we did it! Maybe now I can go home.
+It looks like we've failed. We'd better retreat.
+Is this the end for me?
+We have the advantage. Maybe now we can win this.
+They have the high ground. Things could get ugly...
+Let's get this mission started.
+Advancing!
+I'm going to support them!
+I'm going to save them!
+I'll defend this place to my dying breath!
+I'm teaming up!
+Everyone, to the fore!
+Our friends need assistance! Go!
+Come on! Let's get our men out of there!
+Defensive positions, people!
+Great, mission complete!
+Urgh... Mission failed.
+There's no use... Aborting mission.
+I won't let my comrades die!
+It's impossible... We can't win.
+I am...far from free. I envy everyone to be honest.
+I will return to my homeland.
+Somebody has to do this...
+I just want to end all this as soon as possible.
+Perhaps one day I will find something that's more important than my own life.

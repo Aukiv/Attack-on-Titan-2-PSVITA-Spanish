@@ -1,0 +1,52 @@
+﻿ESP
+Refuercen nuestras defensas, rapido! Tenemos que detener el avance del titan!
+Muy bien, [0:HERO_FRND]! Primero, ayuda a reforzar las defensas, si?
+Matare a los titanes que hay por aqui para ganar tiempo hasta que las defensas esten listas... Me voy!
+Si la base principal cae, la humanidad estara perdida...
+[0:HERO_FRND], mejoraste un monton desde Trost.
+Las defensas estan casi completadas! Sigan protegiendo a nuestros companeros!
+Todo esta listo para la base! Las defensas estan completas.
+No podemos dejar que los titanes atraviesen las defensas!
+Usa bien la base para acabar con los titanes.
+Atacan a los companeros de la linea de defensa! Protegelos!
+Los companeros que mantenian la linea de defensa cayeron... La mision fracaso...
+Tenemos que proteger la base principal... cueste lo que cueste!
+Protejan la base principal! Si cae, todo habra terminado!
+La base principal esta a punto de ser destruida! Rapido, a cazar titanes!
+Maldita sea, no puedo reforzar la base con tantos titanes alrededor! Ayuda!
+Gracias. Reforzare la base ahora mismo.
+Tengo que reforzar la base, pero ahora... me van a comer!
+Lo siento. Ya puedo reforzar la base.
+Que haces aqui, [0:HERO_FRND]? Da igual, no tenemos tiempo para charlar.
+Nos asignaron a partes destruidas del muro... pero los titanes se interponen en nuestro camino.
+Lo siento, [0:HERO_FRND], podrias ayudarnos?
+Hannes! Los titanes se acercan!
+Mierda, por que tuvieron que aparecer todos estos titanes de golpe?
+Diria que de momento estamos bien, pero no podemos irnos de aqui...
+Tenemos que reforzar el frente! Usa la base con astucia, no podemos perder el tiempo!
+Entendido! Asegurare una ubicacion para la base!
+No podemos continuar con la mision...
+Retiremonos por ahora!
+Quiero crear una distraccion, pero en esta situacion es dificil...
+Gracias! Ahora podre crear la distraccion.
+Me ordenaron crear una distraccion, pero no puedo hacerlo en estas circunstancias...!
+Gracias! Ya puedo ponerme manos a la obra con la distraccion!
+Toca proporcionar refuerzos! Primero, tenemos que reforzar el frente!
+Muy bien, toca establecer una base y apoyar al frente!
+Mucho mejor...
+Alerta! Vienen hacia aqui varios titanes!
+No nos echaremos atras ahora...! A todas las tropas, carguen! Voy con ustedes!
+C-Capitan..!
+Erg... Aaag!
+Jamas pense que veria al capitan Woermann demostrar tanto valor...
+Impresionante!
+Logramos contener su avance. Aunque aun no terminamos...
+La base principal esta en ruinas. Es el fin de la mision...
+La base principal esta destruida. Es el fin de la mision y la humanidad... esta...
+Si destruyen la base, se acabo todo. Asi que supongo... que es el fin...
+P-Pero que...?!
+M-Matalo! Ya!
+No fue suerte. Tu lo hiciste, [0:HERO_FSTN]. Impresionante!
+No puedo seguir luchando... Puedes ocuparte del resto?
+Lo siento... No puedo hacer mas.
+Tengo que volver a la retaguardia. Ocupate del resto.

@@ -1,0 +1,96 @@
+﻿On to the next target.
+Humanity will never yield to the Titans!
+That was a strong one.
+This is a significant achievement.
+That Titan... We must be careful.
+An Abnormal. We mustn't ignore this.
+That smoke signal... It's a distress call.
+We must hurry to their aid before it's too late.
+Thanks for your help.
+Thank you for your help.
+You saved me, [0:HERO_FAMN]. I am indebted.
+Thanks, [0:HERO_FSTN]. I see great things in store for you.
+To my rescue again, [0:HERO_FSTN]. Your courage is worthy of my gratitude and respect.
+You have but one heart. When you die-make it count.
+I'm happy to repay you for all the times you've helped me. Stay safe.
+My thanks, Levi. I was careless there.
+Thanks. It seems I'm always being saved by you.
+Thank you, Nile. You and your Military Police are boons to humanity.
+My deepest thanks, Premier-and apologies. I did not mean to trouble you so.
+Thanks, Instructor. Were it not for you, I would have met my end.
+Think nothing of it. I needed the practice anyway.
+It's no trouble at all, Hange. Plus, I get to show you I'm not past my prime.
+Your generation is the Scout Regiment's future. It's far too early for you to die.
+We're busy as it is, Premier. We can't be taking on your duties as well.
+It does bring back memories. As I recall, you saved me back then too.
+Good work. Keep it up and see this mission through.
+Absolutely splendid.
+Good form today, [0:HERO_FAMN].
+Impressive, [0:HERO_FSTN]. Your skills have been duly noted.
+I'm honored to have a soldier such as yourself in my regiment, [0:HERO_FSTN].
+I knew you'd come through, Levi. You always have.
+Exemplary work, Hange. With you here, the Scouts are sure to endure.
+Your greatest strength is your experience, Miche.
+Incredible. It would seem the years have only honed your skills further.
+What a show of battle prowess by the Garrison Regiment elites. Their skills rival our own.
+Excellent work! That Titan's defeat is a major boost to our campaign.
+I'm astonished that you managed to defeat such a powerful Titan!
+Thank you for that display. You show much promise.
+You felled quite a dangerous foe, [0:HERO_FSTN]. My compliments.
+I foresee you will someday become a leading presence in this regiment, [0:HERO_FSTN].
+Someone... I need help!
+I need reinforcements over here!
+Hang in there. I'm on my way!
+I'll be right there. Just hold on.
+No... I'm done for... Somebody, help!
+I am outmatched. Requesting assistance!
+Just hang on! I won't let you die!
+Understood! I won't give up on you!
+How are you? Can you still fight?
+You don't look wounded.
+I'm still standing. Let's go.
+I'm okay. Let's move out.
+I mustn't die in vain. Retreat!
+There's no point fighting on. I'm withdrawing.
+I'm here to support you!
+I'm here to bolster the front line!
+All units, engage!
+All units, spread out! Engage at will!
+Attack! Turn the tables and seize victory!
+Our objective isn't to fight the Titans! Our priority is saving our comrades! Go!
+Suppress the Titans! All units, don't let up!
+Meet them head-on! Put a stop to the Titans' advance!
+All units, fall back! Secure our retreat!
+This moment will determine the future of all humankind! Give it everything you've got!
+We don't have any more time! Get this mission done!
+I'm in!
+Understood. Engaging!
+This brings mankind one step closer to victory.
+Well done. Without your resilience, the Titans would have undoubtedly broken through.
+Safe at last. Commendable work, everyone.
+It looks like the danger has passed, but what are we to make of this situation?
+This victory marks another step forward for the whole of mankind! Well done, soldiers!
+The day is lost. All units-retreat!
+This gamble didn't pay off.
+We're dominating the battlefield! Don't let up!
+This is a troubling state of affairs.
+Let's get this show on the road!
+Let's advance.
+I'm bringing support.
+I'll save them.
+I'll stand my ground for as long as there's breath in my body.
+I need to team up.
+Advance!
+Back them up!
+Save them!
+Hold strong!
+Excellent, mission complete.
+Mission failed.
+There's nothing else we can do. Abort mission!
+The future of humanity hangs on the outcome of this battle!
+I can't allow any more soldiers to die!
+Our struggle will determine mankind's very fate.
+Venturing into the territory of humankind's greatest foe-such is the duty of our regiment.
+Humanity's progress is paved with the corpses of those who came before us.
+We must be prepared to lose everything in this fight. Only then do we have a chance of victory.
+It is imperative we unravel the mystery of the Titans.

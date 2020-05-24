@@ -1,0 +1,124 @@
+﻿ESP
+El objetivo de nuestra mision es capturar! Primero, tenemos que asegurarnos de que ningun titan pueda entrar dentro del area para distraernos!
+Montar una base en el lugar adecuado ayudara a avistar titanes con mas facilidad cuando se aproximen!
+Ven con nosotros, [0:HERO_FRND]! Estaras en peligro si nos separamos.
+Ahora, vamos a capturar a un bonito titan!
+Que emocionante! Me pregunto que clase de titan aparecera!
+Creo que estas demasiado emocionada, comandante de seccion!
+Hay un titan en el lugar previsto para montar la base...
+Ese no es el tipo de titan que busco. Ve y matalo!
+Esta base se monto con exito!
+Comandante de seccion, quedan tres lugares planeados para montar bases!
+Comandante de seccion Hange! Se avisto un titan en un lugar planeado para una base!
+Donde, donde?! Ah. Ese no es del tipo que quiero. Acaba con el y continua con la construccion de la base!
+Titan derrotado! Ahora continuaremos montando la base!
+Comandante de seccion, quedan dos lugares planeados para montar bases!
+Maldita sea... Estos titanes estan siendo molestos.
+Controla esa actitud, Levi! Si quieres que la humanidad gane, claro...
+Acabamos de construir la base.
+Teniente Levi, gracias!
+Ooh, este es el tipo de titan que me gusta a mi... Je, je, je...
+El titan que se encuentra en el lugar planeado para la base sera eliminado! De acuerdo?
+Si, por favor, eliminalo.
+La base esta montada...!
+Comandante de seccion, finalizamos la construccion de todas las bases!
+A partir de ahora unire fuerzas contigo... Ya que tu solo no sirves de mucho.
+Teniente Levi, muchas gracias!
+Montamos el escenario... Por fin es la hora de poner en marcha mi plan para capturar a un titan!
+Creo que podriamos capturar a ese, no te parece? Ten mucho cuidado, por supuesto!
+Capturar a un titan es incluso mas dificil que matarlo. Pero si lo logramos, podre progresar rapidamente con mi investigacion!
+Puedes usar las trampas que te di antes. Buena suerte con la captura!
+Para capturar a un titan, tienes que debilitarlo primero!
+No dejes que se acerque ningun otro titan hasta que hayamos acabado de capturarlo!
+Protege al equipo de recuperacion hasta que hayan acabado de recuperar al titan capturado!
+Necesitaras hacer uso de nuestras bases para capturar al titan con exito.
+Prepara la trampa antes de que el titan se de cuenta! No funcionara si el titan sabe que pasa!
+Coordinense para lograrlo! Tendran muchas mas posibilidades que si trabajan solos!
+No pasa nada si fracasas! Tenemos muchas trampas a la mano!
+Capturaremos a ese, asi que deja de atacar! Sera mejor que no lo mates sin querer!
+Estuvo cerca! Intentemoslo de nuevo!
+Preparense... Hoy nos llevaremos un titan a casa!
+Tranquila, comandante de seccion!
+Hange no hace nada por ocuparse del cadete...
+Lo logramos! Capturamos un titan de cuatro metros!
+Felicidades, comandante de seccion! Nuestra mision fue un exito!
+Demonos prisa y salgamos de aqui.
+Si... Podemos hacer esto! El proximo lo quiero de siete metros!
+<El proximo>? Maldita sea, cuatro ojos!
+Se que nuestro objetivo es un poco mas grande esta vez, pero el metodo es el mismo!
+Aun tenemos algo de equipo adicional, asi que no se preocupen si se equivocan!
+Dejen de atacar! No quiero que nadie lo mate!
+Estuvo cerca! Intentemoslo una vez mas!
+Tranquilizate, Hange!
+Silencio, Levi! No puedo dejar que se nos escape una oportunidad tan especial!
+Lo siento, teniente Levi! Por favor, quedese con la comandante de seccion un poco mas!
+Si! Capturamos un titan de siete metros! Yuju!
+Lo logramos, comandante de seccion!
+Termine con esto.
+Oh no! Un titan se metio en el area de nuestra mision de captura!
+Crees... que vino a ayudar a su pobre amigo preso?
+Vamos...
+Necesitamos abrir un camino para la retirada, comandante de seccion! No tenemos personal para mas capturas!
+Esperaba capturar uno mas... pero supongo que no lo vale.
+Sobre el titan que paso... Odio decir esto, pero tenemos que acabar con ell.
+Lo matare y acabare esta mision de una vez.
+Tenemos que volver rapido con estos valiosos sujetos para que pueda empezar mi investigacion!
+Siempre aparece un enemigo super fuerte en el ultimo momento...
+Eso es todo. Ahora, salgamos de aqui.
+Gracias a todos por su ayuda hoy! Ahora, volvamos a casa con nuestros nuevos amigos!
+No puedo creer que Hange este capturando titanes vivos de nuevo...
+Hange, puedo matar a ese titan, verdad?
+Ojala pudieramos llevarlo a casa, pero... Si, puedes matarlo.
+Bien hecho! Ahora, si no te importa, ayudame con el resto...
+Si que me importa, la verdad... Oh, bueno...
+Ag... Se me rompio el equipo de maniobras tridimensional! Lo siento, tengo que retirarme!
+De acuerdo, adelante.
+Mmm... Maldita cuatro ojos...
+Hange debe de estar loca. Quien iria en una mision tan peligrosa...?
+Esto nunca funcionara, Hange... No puedes capturar a un titan!
+Quiza no, pero aun asi lo intentaremos, Oruo! Si no lo hacemos, la humanidad nunca vencera a los titanes!
+Listo, Oruo. Ahora, sigamos!
+Arg... Me quiero ir casa...
+Estoy herido! No puedo mas... Me largo...
+Bueno, pues hasta luego!
+Maldita sea... Hange tiene que tratar mejor a los miembros de mi escuadron...
+Quieres que abatamos a este, no? Nos enfrentamos a un buen reto...
+Muchas gracias por la ayuda!
+Ah, no hay de que... Te hacia falta.
+Gracias! Ahora sigue asi!
+Entendido...
+Ag... Lo siento, tengo que retirarme!
+Estas bien? Cuidado al volver.
+Maldita sea por poner mi escuadron en peligro...
+No trataras de capturar a este, no...?
+No me parece que este plan este yendo demasiado bien...
+Pueden hacerlo! Son la elite de la elite, no?
+Eso es, buen trabajo! Un poco mas y esta mision sera un exito.
+Uff... Me estoy esforzando al maximo...
+Ay... No puedo seguir...
+Pueden darle la espalda si quieren! Volveremos con los especimenes mas tarde!
+Maldita seas, cuatro ojos... Meter a mi escuadron en esto...
+No! Comandante de seccion, es demasiado pronto para su muerte!
+Una senal de humo...? Venir hoy resulto ser muchisimo mejor de lo que esperaba!
+Si, ese es un buen ejemplar... Moblit, preparate para capturarlo!
+O crees que es demasiado para nosotros?
+Comandante de seccion, este lo descartamos. Moriremos todos si no lo matamos!
+Lo derrotamos... Estuvo cerca.
+Ag! Si hubiesemos capturado a ese titan, habria sido un valioso objeto de estudio...
+No puedo... continuar.
+Yo estoy acabado... Vayanse. Salgan de aqui.
+Que alguien... me vengue.
+Yo... Nosotros... le fallamos... a toda la humanidad.
+Tienen el equipo que les di antes, no? Pueden usarlo para atrapar al titan!
+Centren sus ataques en el titan! Usen el equipo para capturarlo!
+No pasa nada si fallan! Tenemos muchos mas equipos disponibles!
+Antes de capturar a un titan grande, primero hay que ralentizarlo!
+Cortarle las dos piernas hara que el titan pierda el equilibrio y caiga.
+Una vez que el titan haya caido al suelo, disparen desde su cabeza!
+Actuen a discrecion y capturenlo con el maximo cuidado.
+Es necesario debilitar a los titanes grandes antes de capturarlos!
+Bien! Ahora solo queda usar el equipo para capturarlo!
+Apunten a las piernas, pero tengan cuidado de no matarlo accidentalmente!
+Ahora no pueden capturarlo aunque usen el equipo! Primero tienen que cortarle las piernas y derribarlo!
+Bien hecho, comandante de seccion!
+No hay por que excederse. Me temo que tendran que dejar este a la comandante de seccion.

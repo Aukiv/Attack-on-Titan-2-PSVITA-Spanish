@@ -1,0 +1,96 @@
+﻿Yes, that should do.
+I suppose I'm not bad.
+How unexpected... I didn't expect to take up arms myself.
+My skills may have dulled with age, but I won't be outdone by these youngsters.
+Well...this one looks quite powerful.
+Well, well...an Abnormal...
+That smoke signal is a distress call.
+I'm not optimistic about their predicament.
+You appear to have saved me. Allow me to thank you.
+You really saved me.
+Well done, [0:HERO_FAMN], you managed not to die.
+Thank you, [0:HERO_FSTN]. I'm glad it was you and not some other soldier who came to my aid.
+You are truly trustworthy, [0:HERO_FSTN]. I'd be dead by now if it weren't for you.
+I just happened to be in the right place at the right time.
+What are you talking about? It was nothing.
+Sorry to trouble you, Pyxis.
+I'm sorry, Erwin, I know you've got your own matters to attend to.
+Well done, Nile. Keep up the good work.
+You're more serious than I thought, Levi, coming to help me like this.
+I should've known the Military Police would notice my distress and be first to respond.
+My thoughts exactly, Pyxis. There are still many things left for us to do.
+No problem, Erwin. We can't afford to lose you now.
+No need for words of gratitude, Nile. I just want you to do your job.
+No need to be humble. We're no different in the eyes of a Titan, after all.
+
+You're a fine soldier. I expect great things from you.
+You truly have outstanding skill. I cannot fault you.
+Impressive... You're very dependable, [0:HERO_FAMN].
+That's the spirit, [0:HERO_FSTN]. Keep it up and continue with your duties. 
+[0:HERO_FSTN], you hold the key to this fight.
+You're really pushing yourself, Pyxis. But I won't let another old man outdo me!
+Your outstanding performance is worthy of the title of Scout Regiment Commander.
+Just as I'd expect from a commander of the Military Police Regiment. You're the only man of your kind.
+Levi, you leave only the bodies of Titans in your wake.
+The Military Police Regiment doesn't see much fighting, and yet you're doing a wonderful job.
+I didn't think you would be capable of felling such a Titan.
+How could anyone survive an encounter with such a Titan unscathed?
+It's very impressive what you did there, [0:HERO_FAMN].
+[0:HERO_FSTN]... There's no denying that your power is the real deal.
+Wonderful, [0:HERO_FSTN]! I knew you could do it.
+Could someone assist me?
+I could use a bit of assistance here.
+What? Must I come to the rescue?
+I'll offer my help if you need it.
+Ugh...so this is...the end?
+Is it too late...to ask for help?
+I'd like to help if I can...
+I hope I'm not too late to help...
+Is there a problem?
+Is something the matter?
+Everything's all right. Continue on with your duties.
+Nothing's the matter at all.
+I'll leave the rest to everyone else... I must take my leave.
+This is all I can do. I have to retreat.
+Back on the battlefield once again...
+I'm here. Someone update me on our progress!
+All units, engage!
+The normal rules don't apply here. This fight is different... Is that clear?
+This fight is going to be tough, but we can't afford to lose. Prepare yourselves, everyone.
+Our priority is on rescuing our comrades. We need to make it fast.
+We can't let them escape. We must keep chasing now matter how far we have to go.
+We must fight to the death... We can't let the Titans break our defenses.
+Inform all troops...to retreat as quickly as possible.
+We must put our hearts into this if we wish to achieve real victory!
+There's no time... We must make great haste to achieve our goals.
+Very well.
+Understood.
+It seems we are victorious. Congratulations, ladies and gentlemen.
+We managed to keep this area safe.
+Our retreat was successful.
+We may not have lost, but we have little to celebrate.
+At last... Humanity has triumphed over the Titans!
+Our mission didn't succeed... This fight was for nothing.
+I shouldn't have pushed myself so hard at my age...
+The tide is turning in our favor.
+Ergh... Things aren't looking good for us.
+Time to start the mission.
+I will move forward.
+I will protect my comrades.
+I will save my comrades.
+I will bolster our defenses.
+I will team up with my comrades.
+Head to the front.
+Have your comrades been given support?
+Save your comrades.
+Shore up our defenses.
+Mission accomplished.
+It appears we've failed.
+We have no alternative but to abandon the mission.
+I am more than prepared to sacrifice myself!
+This fighting is useless...
+...I lived my life in such a way as to carry out my dreams.
+I make my decisions based on one thing...whether it will help or hurt humanity.
+Ignoring the will of the people creates new threats in addition to the Titans.
+Even I have had numerous plans go awry.
+We must protect the peace within the Wall.

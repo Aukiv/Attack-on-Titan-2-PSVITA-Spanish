@@ -1,0 +1,96 @@
+﻿That was a fair number taken out. I'd say we've contributed.
+Begone from this world, you vile Titans!
+Ha! Take humans lightly and you'll get torn to ribbons.
+Now you know the power of the Scout Regiment!
+I'm not optimistic about taking this one on.
+An Abnormal. I've got this!
+To the signal! Our allies need assistance!
+We have to get to them before they're wiped out!
+I appreciate your help.
+Thank you! I'll be careful from now on!
+You're a new recruit-came in with Eren, right? Thanks for the assist.
+You saved me, [0:HERO_FSTN]. I'll be sure to repay the favor.
+[0:HERO_FSTN]...! You're a saint. Thanks.
+We all need help sometimes.
+Please fall back if it gets to be too much.
+Much obliged, Captain! I'm fine now.
+Thanks for the save. Am I glad we're in the same squad!
+We should be the ones saving you... Anyway-appreciate it, Eren!
+
+
+Without you, Captain, this squad is nothing.
+You've got quite the mouth on you now, Oruo, but remember your first mission? You were shaking in your boots!
+Don't mention it, Petra. You've got the most assists under your belt. We need you!
+I can see you're fully functional. Let's hit 'em hard, Gunther!
+
+Very good! My turn next!
+You're in excellent form today.
+Commendable, [0:HERO_FAMN]. Just remember to look before you leap.
+I don't surprise easy, but wow, [0:HERO_FSTN]. Show me more!
+Skilled soldiers like you are this regiment's future, [0:HERO_FSTN]!
+No one can hold a candle to the captain... I'll do my damned best to support him, though!
+Looking good out there. I'll do my part for the squad too!
+I had my doubts about you in the beginning-but now I see how much of an asset to humanity you are, Eren!
+He's a brilliant strategist and one of the toughest Titan-slayers around. There's no better choice for commander of the Scout Regiment.
+Wow. I see the Garrison Regiment has a star of its own.
+You killed that monster?! I can't believe it!
+I knew you were strong, but that was unbelievable.
+Splendid work, [0:HERO_FAMN]. Just don't push it. Being wary of your opponent is a skill in itself.
+Another kill, [0:HERO_FSTN]? You've shed that new recruit recklessness too. Good!
+You're a beast, [0:HERO_FSTN]. Not sure if I could've downed that one myself.
+Can I get some help over here?
+This is too much. A little help please!
+That sounds bad. I have to help.
+I'm coming to help!
+I'm just going to hold everyone back.
+Sorry to ask, but please help me!
+I'll help! Can you carry on?
+Don't be in such a hurry to reach the next life.
+How are you? Can you still fight?
+I'm glad to see you're still in one piece.
+Fine. I'm good to go.
+No need to worry about me.
+I'm done. Retreating!
+I can't take any more risks. I'm falling back.
+Sorry for the wait.
+I see the situation still hasn't been resolved. Here goes!
+Right, let's get this mission over and done with!
+Fight your hearts out! Don't regret not giving it everything you've got!
+Just don't let yourselves get killed for nothing! Fight with all your might and survive!
+We have to save them, however great the risk.
+Don't let them get away! Move, as fast as you can!
+Focus on defense! Halt the Titans!
+We just have to get the hell out of here! Avoid any unnecessary conflict!
+Now it's time to settle things once and for all!
+And the remaining time left is... Uh oh. Just hurry!
+Don't lose sight of our objective.
+I'll make sure we accomplish any mission!
+As least we've won this battle, if not yet the war.
+Let's just be grateful we held our ground.
+We managed to escape. Hopefully next time it'll be us doing the chasing.
+There are positives to be found even in situations like this.
+This is a major step forward! For us and for all humanity!
+Mission failed. I didn't have what it takes.
+Someone...avenge me.
+We've got them on the ropes.
+We don't stand a chance of winning. Shouldn't we retreat?!
+I'll see this mission through to the end!
+Advancing towards our objective!
+We'd better bail out our friends.
+Someone, save them!
+There's no way they're getting through here!
+I'm going to team up.
+Advance! Don't look back!
+Provide support! I'm relying on you!
+Help them now!
+I'm relying on you to hold the area!
+Job well done!
+What a disaster. Time for a rethink!
+We've been forced to abort this mission.
+I'll do anything and everything it takes to kill the Titans!
+In the end...we just aren't strong enough.
+A soldier's worth isn't decided by their kill count. Pulling your friends out of a pinch is important too.
+I'm in charge of the squad when the captain's not around. I don't take that responsibility lightly.
+No matter the situation, I place my full trust in the judgment of the captain and commander.
+Individually we're weak...but when we come together, we are anything but!
+I've lived through so many campaigns. There's no way I'm dying today!

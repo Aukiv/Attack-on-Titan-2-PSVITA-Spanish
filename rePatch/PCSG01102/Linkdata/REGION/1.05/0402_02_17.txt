@@ -1,0 +1,96 @@
+﻿I can take down a Titan or two-you'll see!
+Well? Not too shabby, eh?
+I'm not letting the Titans win today!
+Please don't move anymore!
+Is...Is that a Titan?
+An Abnormal! Be careful!
+It's a distress call! We have to help!
+A smoke signal! Please let us reach them in time!
+You...saved me. Thanks.
+Thank you so much!
+I can't thank you enough, [0:HERO_FAMN].
+You're my hero, [0:HERO_FSTN]. We should be able to turn things around now!
+Thanks again, [0:HERO_FSTN]. Just seeing you gives me strength.
+Let's just say you owe me one, heheh.
+I'm just glad you're all right!
+Thanks, Thomas! Now let's show the enemy what we're capable of.
+Thanks for coming, Sasha. I'll pass you some grub later. Bread or potatoes-your choice!
+Annie, you came for me! Thanks! I'm touched.
+Phew! Thanks for bailing me out, Marco!
+Thanks, Christa. I think I'll be okay now.
+I'll be sure to hold you to it!
+Just glad to see you alive, Christa.
+Oh, Daz. I'd never leave you for dead! But do try to be careful.
+S-Sir, yes, sir! I was born in a pigsty, sir! I am livestock! No, lower-SIR!
+
+Wow! How can I learn how to do that?
+So that's what you need to do to become a full-fledged member?
+You're not taking prisoners today, [0:HERO_FAMN]!
+Nice one, [0:HERO_FSTN]! Seems all I do is eat your dust these days.
+Fabulous work, [0:HERO_FSTN]. Keep it up and you'll make it big!
+You're pretty good at this soldier business, Sasha. Well, except when food's in the equation...
+Great work, Eren! You're our shining star!
+Amazing, Thomas! I'll soon be needing a plan to stay out of your shadow, heh!
+Wow, Mikasa. Is your strength...human?
+Your powers of observation are second to none, Marco. I'd better take notes!
+Unbelievable! You killed it!
+I hope I'll be able to defeat such strong Titans one day.
+That's no small feat, [0:HERO_FAMN].
+You did it! With you around, mankind stands more than a chance!
+You never cease to amaze, [0:HERO_FSTN]. You had me gawking there!
+Ouch! Please, help me!
+Please, I need reinforcements!
+Are you okay?! I'll be right there!
+Got it! I'm coming!
+I feel...faint.
+I think...this is the end for me...
+No! I have to help!
+Hold on! I'll be right there!
+Hey-you okay?!
+Are you all right?!
+I'm glad you're okay.
+I'm okay. I'm good to carry on!
+Unable to proceed. Pulling out!
+I've done what I can. Leaving battlefield...
+I've come to help!
+Backup's here! Everyone okay?
+Ready for combat.
+The winner gets to eat the most meat, yeah?!
+Do we even stand a chance?
+Hang on! We'll save you!
+You're not getting away! I'm gonna chase you down and destroy you!
+I'll defend this area, no matter what comes my way!
+Fighting back would be futile. Retreat.
+We're ready for this!
+There's no time! Hurry!
+Okay, let's go!
+I can do this!
+We won...and I helped.
+I held the area.
+It's a miracle we escaped alive.
+We won...but at too much of a cost.
+We won! We beat the Titans!
+Did we fail the mission?
+I'm still...lower than livestock.
+This is great! Victory is ours for the taking!
+Aren't they overwhelming us? Aren't we in serious danger?
+It's time for me to earn my keep!
+I'm not scared. Advancing!
+I'm going to support our comrades.
+I'll help our comrades! I can't just ignore them!
+I'll stand my ground until my last breath! Leave it to me!
+Meeting up with the others is the smart move.
+Now! Advance!
+Support our comrades!
+Our comrades are in danger! Help them!
+I'm relying on you to defend the area!
+Yeah! Mission complete!
+We failed? No way.
+Continuing this mission would be impossible. Abort!
+I'm gonna make it into the Scout Regiment!
+I...I can't do it. And while we're being honest, I'm really sc-sc...
+Eren's speech the night of graduation moved me. It made me realize I had a role in this struggle.
+Sasha's quite the character, always thinking about food!
+Eren and Jean despise each other. You think Mikasa has something to do with it?
+The instructor said I was livestock from a pigsty, but now I'm a full-fledged soldier.
+I wonder what the real deal is between Eren and Mikasa.

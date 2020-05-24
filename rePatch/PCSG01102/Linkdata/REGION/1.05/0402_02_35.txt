@@ -1,0 +1,96 @@
+﻿All done here... Onto the next fight.
+We still can't afford to rest. We must move on cautiously.
+That was tough...but I'm glad we got everything under control in the end.
+I can't afford to fall here. I still have duties I must carry out.
+A troublesome foe indeed... This will require some extra effort.
+I've confirmed that this one is an Abnormal. Be careful.
+Request for assistance confirmed. I'm on it.
+Quite the predicament you're in... I hope I can make it in time.
+Thank you very much. I won't forget this.
+I apologize for causing so much trouble.
+So it was you that helped me, [0:HERO_FAMN]... Thank you.
+I'm glad you were there to help me, [0:HERO_FSTN]. You're very reliable.
+Thank you for coming to my aid, [0:HERO_FSTN]. You gave me the strength to keep fighting.
+We can't let our guard down. This isn't over yet.
+Let's continue with our duties.
+Thanks for the help, Miche. I knew I could count on you.
+Thanks, Gelgar. I was honestly getting a little scared.
+Commander, I'm sorry to cause you trouble due to my own inabilities...
+I appreciate what you did, but please stay safe. Now is not the time to lose your life.
+Sorry, I got caught in a tough spot... You know, you're stronger than you look.
+Thank you, Miche. I'm going to hold you to that.
+All I did was pay back some of what you've done for me, Gelgar.
+The feeling's mutual. Now, let's finish this.
+
+
+Excellent. Keep that up and don't let your guard down.
+Wonderful. That will raise everyone's spirits.
+Not bad, [0:HERO_FAMN]. Keep it up!
+I'm impressed by your effort, [0:HERO_FSTN]. I'm expecting great things from you!
+Great job, [0:HERO_FSTN]! We can overcome anything with you on our side!
+You'd be just another weird old man if it weren't for your skill in battle.
+You have great strength, Gelgar. I won't forget what you've done.
+I don't want to make this a competition, but I don't like being outdone, either...
+What a strange child, but not untalented...
+...So there are talented soldiers in the Garrison Regiment, too.
+You defeated an enemy that strong? You're a better fighter than I thought.
+Well done... I don't think I would've been able to handle that.
+Great performance, [0:HERO_FAMN]. You've improved my opinion of your abilities.
+I knew you'd be up to the task, [0:HERO_FSTN]. Your skills are impeccable.
+I'm glad you're here to carry out your duties, [0:HERO_FSTN]. I really mean that.
+Ergh... Can I get a hand over here?
+Ergh... Could someone give me some assistance?
+I'm coming as fast as I can.
+Understood. I'm on my way.
+Dammit... I lost...
+I'm sorry...but this is as far as I can go...
+Hey! Soldiers shouldn't give up until the bitter end!
+No! We can't lose you yet!
+You still have some strength, right?
+Good, it looks like you're okay.
+No problem... Let's go.
+No problem. I'm on my way.
+Ugh... I hate to say this, but I have to retreat.
+I've accomplished what was required of me... It's time for me to go.
+Looks like I'm not too late... How are we doing?
+Time for me to join the battle.
+Commence fighting! I don't want anyone dying on me!
+What's going on...? And what should I do?
+It's not easy to be optimistic, but I'll do what I can.
+Hurry, our comrades are in danger.
+After them! If we let them escape now we'll pay for it later!
+Double down on defense! The Titans can go no further!
+Retreat! Some battles are best avoided... Just focus on getting out of here!
+At last... My heart has been waiting for this moment!
+Hurry! Time is one thing we don't have!
+Got it.
+Understood. Let's begin.
+This time we will be victorious.
+We did it... Our defenses held up.
+We successfully made our retreat... Well done, everyone.
+Let's call it a good fight and move on...
+We won... We beat them.
+It's over for us... Our mission ended in failure...
+I can't believe...this is how it ends...
+We won... At this rate we have a real chance!
+The odds aren't good...but we can't give up.
+Alright, let's make this happen.
+I'll move forward.
+I'll offer my support.
+I'll move in for the rescue.
+I'll defend this spot.
+I'll team up with the others.
+Forward march! We've no time to hesitate!
+Provide some backup. Go!
+Save our comrades!
+Time for defense!
+Our mission was a success, just as I expected.
+The mission failed... There's nothing we can do about it.
+Abort... There's no point continuing the mission now.
+We can't waste this opportunity to fight!
+It's as if we're being toyed with...
+First a Colossal Titan, then an Armored Titan... Who or what are they...?
+It's over for humanity if the Titans breach Wall Rose.
+One's own safety is a secondary consideration. That's just part of being a soldier.
+I know this is a lot for a new recruit, but that's how it is in times like these.
+A quick response is all the more important in times of emergency.
