@@ -11,9 +11,9 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 -------------------------------------------
 **APLICAR PARCHE CON DeltaPatcher/Lite**
 
-**1->** En su PS VITA con VitaShell diríjase a la carpeta UXO:APP y abren en modo desencriptado la carpeta PCSG01102, una vez dentro copien _"LOGO_KT.mp4"_ de _"\File\Movie"_ y también _"LINKDATA_REGION_JP.BIN"_ de _"\Linkdata\REGION"_.
+**1->** En su PS VITA con VitaShell diríjase a la carpeta ux0:APP y abren en modo desencriptado la carpeta PCSG01102, una vez dentro copien _"LOGO_KT.mp4"_ de _"\File\Movie"_ y también _"LINKDATA_REGION_JP.BIN"_ de _"\Linkdata\REGION"_. (Ojo, abrir en modo desencriptado por cada archivo).
 
-**2->** Una vez copiado lo guardan en UXO:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.0 previamente descargada y extraida.
+**2->** Una vez copiado lo guardan en ux0:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.01 previamente descargada y extraida.
 
 **3->** Ejecuten DeltaPatcherLite.
 
@@ -23,11 +23,11 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **6->** Una vez aplicado el parche en ambos archivos copien _"LINKDATA_REGION_JP.BIN"_ y _"LOGO_KT.mp4"_ de la carpeta AOTSP_v1.0.
 
-**7->** _"LINKDATA_REGION_JP.BIN" lo pegas en _"AOTSP_v1.0\rePatch\PCSG01102\Linkdata\REGION"_ y eliminas _"LINKDATA_REGION_JP.xdelta"_.
+**7->** _"LINKDATA_REGION_JP.BIN" lo pegas en _"AOTSP_v1.01\rePatch\PCSG01102\Linkdata\REGION"_ y eliminas _"LINKDATA_REGION_JP.xdelta"_.
 
-**8->** _"LOGO_KT.mp4"_ lo pegas en _"AOTSP_v1.0\rePatch\PCSG01102\File\Movie"_ y eliminas _"LOGO_KT.xdelta"_.
+**8->** _"LOGO_KT.mp4"_ lo pegas en _"AOTSP_v1.01\rePatch\PCSG01102\File\Movie"_ y eliminas _"LOGO_KT.xdelta"_.
 
-**9->** Una vez todo finalizado, copian la carperta _"rePatch"_ del directorio _"AOTSP_v1.0"_ y lo pegas en UX0 en su PS VITA.
+**9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.01"_ y lo pegar en ux0 en su PS VITA.
 
 **FIN**
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
@@ -41,24 +41,10 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 3->​ ​VitaShell​ para pasar archivos entre ​PS VITA​ y ​PC​, ya sea por USB o ​FileZilla​.
 
-4-> ​Obviamente el ​juego​ ya sea comprado o por ​pkgj​ ​(NO ACTUALIZAR EL JUEGO).
+4-> ​Obviamente el ​juego​ ya sea comprado o por otros medios... ​(NO ACTUALIZAR EL JUEGO).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 **Y LISTO, YA TIENES EL JUEGO PARCHEADO**
-**SI TIENE ALGUNA DUDA SOBRE**
-
-REPATCH​
-
-​AUTOPLUGIN​
-
-​VITASHELL​
-
-​FILEZILLA​
-
-​PKGJ
-
-**EN YOUTUBE ENCONTRARÁS MUCHOS VÍDEOS SOBRE SU FUNCIONAMIENTO.**
-
 -----------------------------------------------------------------------
 Mi principal objetivo fue eliminar cualquier bloqueo que pudiese estropear el modo
 historia.
@@ -94,5 +80,3 @@ Lo siento pero no puedo solucionarlo.
 -------------------------------------------
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/938owc/attack_on_titan_2_repatch_espa%C3%B1ol/**
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
-
-https://www.youtube.com/watch?v=Qakwu9evvxY
