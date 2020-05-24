@@ -1,0 +1,81 @@
+﻿Limpia la base para mejorar la salud mental. Facilita la mejora la popularidad y amistades.
+Continua el entrenamiento intensivo para mejorar las habilidades de los soldados. Aumenta la EXP adquirida.
+Inspecciona a fondo el equipo para aumentar el rendimiento en las misiones. Se reduce la cantidad usada de gas y cuchillas.
+Convence a los soldados para reunir fondos para la guarnicion. Aumenta el dinero que se puede obtener durante las misiones.
+Ofrece comida a soldados y ciudadanos. Mejora la moral de la guarnicion y aumenta significativamente el rendimiento de los soldados aliados.
+Insta a los soldados a descansar para aumentar la moral del rendimiendo. Aumenta ligeramente el rendimiento de los soldados aliados.
+Haz una oferta especial en la tienda del regimiento. Baja los precios.
+Aprende a ocultar rastros de movimiento para que los titanes no te detecten. Hace mas dificil llamar la atencion de los titanes.
+Comparte informacion cientifica sobre los titanes para extender el conocimiento entre los soldados. Hace que sea mas facil investigar sobre los titanes.
+Proporciona materiales con antelacion y lleva mas cantidad a la batalla. Aumenta el numero de objetos que pueden llevarse a las misiones.
+Interactua con animales para mejorar su manejo. Mejora las habilidades relacionadas con caballos de batalla.
+Reconoce los logros de los soldados en la batalla y castiga a aquellos que no logren nada. Cambia enormemente las recompensas por rendimiento.
+Analiza exhaustivamente los informes de batalla de las misiones y devuelveselos a los soldados. Aumenta los puntos de experiencia recibidos en las misiones.
+Aumenta las habilidades de construccion de bases de los soldados para permitir construcciones mas resistentes. Aumenta la resistencia de las bases.
+Aprende habilidades de negociacion del jefe de la Sociedad de mercaderes para mejorar la habilidad de recaudar fondos de la guarnicion. Incrementa el valor de los articulos poseidos.
+Dedica una plegaria al muro. Quizas ocurra algo bueno...
+Forma una unidad especializada centrada en la recuperacion de materiales. Aumenta los materiales que pueden obtenerse en las misiones.
+Forma una unidad especializada centrada en la excavacion. Permite la explotacion automatica de materiales.
+Forma una unidad especializada centrada en capturar titanes. Permite la captura automatica de titanes.
+Haz todo lo posible para preparar la proxima batalla. Mejora las habilidades de todos los soldados.
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base que puede atacar a titanes
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de reabastecimiento de provisiones
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base de obtencion de materiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+Base con fines especiales
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

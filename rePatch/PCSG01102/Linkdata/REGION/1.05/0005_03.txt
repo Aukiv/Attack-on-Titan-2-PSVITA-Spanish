@@ -1,0 +1,81 @@
+﻿Viveres muy necesarios para las expediciones fuera de los muros. No muy apetitosos.
+Pan que lleva mucho tiempo endureciendose al aire que ya es casi un arma. Le falta textura y sabor.
+Pan recien hecho y esponjoso. Sabe a felicidad.
+Carne animal deshidratada para evitar que se pudra. No tan buena como la fresca, pero es lo unico que se conoce dentro del muro.
+Carne veteada de la mas alta calidad. Una exquisitez que la mayoria no puede permitirse.
+Un plato de huevo muy popular. Muchos dicen que les recuerda a su hogar.
+Hojas de te negro. Un poco sofisticadas, pero la mayoria las prefiere.
+Un aromatico te negro, preparado mediante metodos tradicionales. Favorito entre la nobleza.
+Un licor bastante bueno, considerando el precio. Alivia el panico y el agotamiento diarios de la batalla.
+Un licor dificil de encontrar incluso para los aristocratas. Muy cotizado entre los bebedores habituales.
+Parece agua, pero un solo trago hara que no quieras volver a probar el agua normal.
+Un libro que detalla los aspectos basicos de enfrentarse a los titanes. Podria no ser muy preciso.
+Un libro que detalla los aspectos basicos de enfrentarse a los titanes. Podria no ser muy preciso.
+Un manual que describe la conducta adecuada de un soldado. Se lo inculcan a todos los nuevos reclutas.
+Detalla la historia de la humanidad dentro de los muros y su lucha contra los titanes. Cuesta leerlo.
+Una recopilacion de los conocimientos de los desarrolladores de armamento que lucharon junto a los soldados contra los titanes.
+Un mapa con los espacios turisticos mas populares dentro de los muros, como el Bosque de arboles gigantes y los negocios locales.
+Un libro con dibujos que ensena los peligros de los titanes a los ninos. Notable en su sencillez.
+El autor baso en su propia infancia esta emotiva historia del amor de una madre por su hijo. No olvides los panuelos.
+Un jarron de forma extrana que casi desafia las leyes de la fisica. Se supone que es arte moderno?
+Un cuadro tan abstracto que nadie sabe cual es el tema principal. Quiza de eso se trate el arte ahora.
+Una obra de arte basada en... algo. Es incomprensible, pero quiza fue esa la intencion.
+Una pluma de escribir hecha con una pluma de pajaro. Imprescindible para la creacion de documentos.
+Un cuaderno lleno de hojas en blanco. Esencial para registrar los resultados de los experimentos.
+Un trapo para polvo hecho con una tela vieja.
+Un trapo para polvo hecho con cuidado. Reune los mejores materiales y la mejor artesania para limpiar el polvo de una sola pasada.
+Los jovenes no deberian descuidar su pelo! Deberian usar esto para domarlo.
+Un conjunto de caza que incluye un arco con flechas, trampas y mas. Todo lo que necesitas para convertirte en cazador.
+El dinero puede comprar casi cualquier cosa. Bienes, amistad y, en algunos casos, hasta amor.
+Un cepillo para peinar caballos. Elimina la suciedad y da un brillo especial al pelaje.
+Un ajedrez completo con piezas muy detalladas.
+Un ramo de rosas de color rojo intenso que hara que cualquier mujer se desmaye.
+Una hierba natural con propiedades relajantes. Solo el olor es capaz de calmar al mas nervioso.
+Ropa de cama fabricada con los materiales mas exquisitos. Muy comoda e increiblemente reconfortante.
+Un anillo simple para hombres y mujeres. Un regalo muy popular.
+Un collar de oro brillante y de la artesania mas impecable, pero tan extravagante que solo unos pocos se lo pondrian.
+Una piedra preciosa muy brillante. En el mercado alcanzaria un valor muy alto.
+Un adorno que, ademas, recoge el pelo largo. Muy util para las mujeres soldado.
+Una chaqueta con capucha de colores apagados. Combina con casi todo.
+Unos guantes de cuero fabricados con estilo, son un regalo perfecto para los hombres.
+Un muneco de titan usado para entrenar con el equipo de maniobras tridimensionales. Permite entrenar en cualquier lugar a cualquier hora.
+Un equipo de entrenamiento usado para mejorar la fuerza y las capacidades fisicas en general. Ideal para soldados.
+Un uniforme de camuflaje para soldados, disenado para las misiones secretas. Es perfecto para pasar desapercibido.
+Un conjunto de herramientas necesarias para los primeros auxilios.
+Un kit para cultivar facilmente bambu de hierro, ornamental y esencial para construir equipo de maniobras tridimensionales.
+Una replica de la cuchilla mas vanguardista. Brilla mucho para ser una imitacion.
+Un articulo raro sobre el a menudo ignorado Cuerpo de exploracion.
+Una medalla que se da a los soldados como simbolo de su destacado servicio.
+Un fosil de una forma de vida sin identificar que merece una investigacion a fondo.
+Un muneco de titan demasiado adorable. No es buena idea que los ninos jueguen con el, pero podria gustarle a alguien.
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

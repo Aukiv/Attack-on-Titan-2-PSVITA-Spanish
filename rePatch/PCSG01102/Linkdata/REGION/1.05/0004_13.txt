@@ -1,0 +1,101 @@
+﻿Lo basico sobre movimiento
+Lo basico sobre combate
+Construccion de bases
+Uso de objetos
+Ataques sorpresa
+Combate con titanes
+Desencadenar transformacion en titan
+Deteccion de titanes
+Caracteristicas de titanes
+Misiones secundarias
+Acciones de companero
+Estrategia de misiones secundarias
+Defensa de objetivos
+Excentricos
+Defensa de bases
+Caballos
+DUMMY_ESP
+Captura
+Combate en las llanuras
+Bases: bases de suministro
+Bases: artilleria automatizada
+Bases: artilleria manual
+Bases: bases de extraccion
+Bases: bases de bomba
+Bases: bases del frente
+Formacion del equipo
+Bases: bases de suministro
+Bases: bases de produccion
+Bases: bases de ataque
+Objetivos prioritarios
+Juego en linea
+Juego en linea: modo Aniquilacion
+Juego en linea: modo Depredador
+Juego en linea: modo Supervivencia
+Minimapa
+Tipos de acciones de companero 1
+Evasion y caida de gancho
+Editor de personajes
+DUMMY_ESP
+Luchar contra titanes poderosos 1
+Luchar contra titanes poderosos 2
+Tipos de acciones de companero 2
+Controles de titan
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Vida diaria
+Personas importantes
+Recorrido de la zona
+Diario de explorador
+Amistad
+Historias secundarias e incrementar la amistad
+Habilidades
+Tienda del regimiento
+Mercado de materiales
+Estacion de equipo
+Campamentos
+Reminiscencia - 1
+Reminiscencia - 2
+Nuevas paginas del diario de explorador
+Tienda de regalos
+Ser un explorador de verdad y popularidad
+Misiones de exploracion
+Misiones pasadas
+Administracion del regimiento
+Politica
+Campos de entrenamiento
+Estacion de caballos de batalla
+Sala de investigacion de titanes
+Vida diaria despues del despegue
+Estadisticas de los soldados
+Parametros de equipo
+Efectos de conjunto de equipo
+Resultados de batalla
+Progreso de companeros
+Adquirir recompensas
+Botines de guerra
+Titanes capturados
+Avanzar a la siguiente batalla
+Conversacion
+Reforzar mas alla de los limites normales
+Popularidad y conversacion
+Fortalecimiento militar
+Editor de personajes en sala privada
+Comunicacion
+Aumentar amistad
+Recompensas de exploracion y recompensas de exploracion completadas
+Aumentar el area de exploracion
+Mejora del equipo
+Obtencion automatica de materiales necesarios
+Informes de investigacion biologica de titan
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

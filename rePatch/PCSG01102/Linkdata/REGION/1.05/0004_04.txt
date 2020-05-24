@@ -1,0 +1,51 @@
+﻿Explicacion de las misiones de exploracion
+Recupera la base.
+Trabajo en equipo.
+Marcha mas alla de los muros.
+Protege la ciudad!
+Primera mision de exploracion mas alla de los muros.
+En direccion a la senal de auxilio
+Ataque a los Titanes
+Segunda mision de exploracion mas alla de los muros.
+Instintos salvajes
+El paradero del comando
+Tercera mision de exploracion mas alla de los muros.
+Lo que debe hacerse
+Se valiente
+Defensa de base del frente
+ordenes de rescate de emergencia
+Guerreros de la historia
+Superhumano
+Senal de alerta de batalla
+Territorio impenetrable
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

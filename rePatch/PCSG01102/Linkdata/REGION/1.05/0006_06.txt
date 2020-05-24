@@ -1,0 +1,780 @@
+﻿Miembro de la 104 y, por lo que parece, tambien de Shiganshina.
+DUMMY_ESP
+Eren se puso mal genio despues de que Mikasa lo tratara como a un nino, supuestamente. Esos dos son como familia.
+Obtuviste la habilidad "Nunca digas muere".
+Hable sobre el futuro con Eren. Por lo visto, quiere explorar el mundo exterior.
+Obtuviste la habilidad "+3 de concentracion".
+Acabamos una mision con gran trabajo en equipo. Eren y yo nos volveremos mas fuertes. Mucho mas fuertes.
+Obtuviste la habilidad "Nunca digas muere Nv. 2".
+Eren discutio con Jean. Creo que es demasiado exigente consigo mismo.
+Obtuviste la habilidad "+5 de fuerza".
+Un soldado se burlo de Eren, llamandole monstruo. Eren no es un monstruo, es un amigo de verdad.
+Obtuviste la habilidad "Nunca digas muere Nv. 3".
+Eren hablo de su nueva determinacion. Me alegra que haya vuelto al buen camino.
+Obtuviste la habilidad "Fuerza de voluntad".
+Estreche lazos con Eren. Me enseno mucho sobre hacer lo correcto.
+Obtuviste el gesto "Transformacion en titan?".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Ella y Eren siempre estan juntos.
+DUMMY_ESP
+Mikasa siempre observa a Eren de reojo, incluso durante el entrenamiento. Tuve una fuerte caida y me lesione...
+Obtuviste la habilidad "+3 de fuerza".
+Mikasa parece arrepentida. Se ofrecio a contarme algo sobre ella.
+Obtuviste la habilidad "Movimiento aereo".
+Mikasa revelo un episodio de su pasado. Por lo visto, casi nunca hace esto.
+Obtuviste la habilidad "+5 de agilidad".
+Mikasa se sincero sobre Eren. el le salvo la vida y es su unica familia. Quiere protegerlo.
+Obtuviste la habilidad "Carrera multiple".
+Mikasa parece mas calida estos dias. Aunque pensandolo bien, quiza sea mi imaginacion.
+Obtuviste la habilidad "+10 de fuerza".
+Me parece que Mikasa adquirio cierta perspectiva. Quiza este lista para vivir a su propio ritmo.
+Obtuviste la habilidad "Arte con cuchillas".
+Estreche lazos con Mikasa. Me alegra de que podamos contarnos cosas.
+Obtuviste el gesto "Entrenamiento 2".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Amigo de Eren y Mikasa desde la ninez.
+DUMMY_ESP
+Armin no tiene confianza en sus capacidades fisicas como soldado. Me ofreci a entrenar con el.
+Obtuviste la habilidad "+5 de liderazgo".
+El instructor le dijo a Armin que vaya a hablar con el. Me pregunto por que.
+Obtuviste la habilidad "Preparado para todo".
+Le pidieron a Armin que disene un ejercicio de entrenamiento. Sera mejor que lo ayude.
+Obtuviste la administracion del regimiento "Raciones de emergencia".
+Les explique el ejercicio de entrenamiento a Conny y al resto. Sus reacciones fueron muy positivas.
+Obtuviste la habilidad "+10 de liderazgo".
+Es la noche de antes del ejercicio. Jugue una partida de ajedrez con Armin. Espero que este listo para creer en si mismo.
+Obtuviste la habilidad "Bien preparado".
+El ejercicio de entrenamiento fue todo un exito. Armin parece un hombre nuevo.
+Obtuviste la habilidad "Formacion de asedio".
+Estreche lazos con Armin. Tambien aprendi lo importante que es creer en uno mismo.
+Obtuviste el gesto "Retorcerse".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Todo el mundo respeta a este tipo.
+DUMMY_ESP
+Hoy entrene con Reiner. Puedo aprender mucho de el.
+Obtuviste la habilidad "+3 de salud".
+Reiner tiene un momento de debilidad ahora mismo. Supongo que incluso un grandulon como el tiene dias asi.
+Obtuviste la habilidad "+5 de salud".
+Reiner y yo trabajamos juntos para cumplir con nuestra mision. Ninguna mision podra intimidarme mientras el este de mi lado.
+Obtuviste la habilidad "+10 de salud".
+Reiner vuelve a ser el de antes. Me alegra servir con el.
+Obtuviste la habilidad "Proteccion filosa".
+Estreche lazos con Reiner. Pretendo ser uno de los mejores soldados de por aqui, igual que el.
+Obtuviste el gesto "Entrenamiento 1".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Timido, pero un soldado con talento a pesar de todo.
+DUMMY_ESP
+Bertholdt desearia ser mas valiente. No se como ayudarlo...
+Obtuviste la habilidad "+3 de agilidad".
+Comenzamos a entrenar con munecos de titanes. Creo que Bertholdt esta empezando a abrirse conmigo.
+Obtuviste la habilidad "+5 de agilidad".
+Bertholdt logro detener una pelea. Quien hubiera pensado que mejoraria tan rapido?
+Obtuviste la habilidad "+10 de agilidad".
+Bertholdt supero sus problemas de confianza. Se que a partir de ahora le ira bien.
+Obtuviste la habilidad "Regreso del abismo".
+Estreche lazos con Bertholdt. Se que podremos continuar nuestros respectivos caminos con confianza.
+Obtuviste el gesto "Lenguaje corporal: dormir".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. No parece muy abierta a hablar.
+DUMMY_ESP
+Parece que a Annie es buena en artes marciales. Me lanzo... lejos. Fue increible.
+Obtuviste la habilidad "Perseguir".
+Annie dice que me dara un par de consejos de lucha. Que ganas de aprender algunos movimientos nuevos.
+Obtuviste la habilidad "Perseguir Nv. 2".
+Estare con Sasha y otros cadetes. Parece que Annie no tiene ganas de venir.
+Obtuviste la habilidad "+10 de concentracion".
+Sali con Sasha y compania. Annie parecia estar mas que entretenida ella sola.
+Obtuviste la habilidad "Perseguir Nv. 3".
+Estreche lazos con Annie. Quiza le ayude a mitigar su soledad.
+Obtuviste el gesto "Postura de Annie".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Siempre parece rivalizar con Eren.
+DUMMY_ESP
+Jean me dio algunos consejos sobre el equipo de maniobras tridimensionales. Tiene talento, no hay duda.
+Obtuviste la habilidad "+3 de destreza".
+Jean no quiere hablar sobre su familia. Me pregunto que paso.
+Obtuviste la habilidad "Ataque en picada".
+Jean acaba de recibir una carta de su madre. Deberia contestarle. Tranquilizarla.
+Obtuviste la habilidad "+5 de destreza".
+Parece que le contesto. Debe ser genial tener una madre...
+Obtuviste la habilidad "Primeros auxilios en el aire".
+Sobrevivir es nuestra principal prioridad. Jean y yo estamos de acuerdo en eso.
+Obtuviste la habilidad "+10 de destreza".
+Nuestra mision fue un exito. Jean tambien envio esa carta. Las cosas van mejorando.
+Obtuviste la habilidad "Lazos fuertes".
+Creo que estreche lazos con Jean. Espero que podamos superar esta guerra juntos.
+Obtuviste el gesto "Senal de humo".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Afirma tener un "talento innato" para este asunto militar.
+DUMMY_ESP
+Honestamente, el del autoproclamado "talento innato" parece poseer CIERTA destreza...
+Obtuviste la habilidad "+3 de destreza".
+Conny le mintio a un nino del pueblo. Parece que tendre que ayudarlo a tener la boca cerrada.
+Obtuviste la habilidad "Ahorro de gas Nv. 2".
+Ayude a Conny a estudiar. No salio bien.
+Obtuviste la habilidad "+5 de destreza".
+Conny mejora con el equipo de maniobras tridimensionales. No es habitual verlo actuar con humildad.
+Obtuviste la habilidad "Ahorro de gas Nv. 3".
+Conny le dijo la verdad a aquel nino. La verdad te hara libre, como dicen.
+Obtuviste la habilidad "+10 de destreza".
+Conny juro convertirse en el soldado que siempre dijo que seria. Estare alli para apoyarlo.
+Obtuviste la habilidad "Aumento de cola".
+Estreche lazos con Conny. Se preocupa por sus amigos, algo importante en este tipo de trabajo.
+Obtuviste el gesto "Postura de Conny".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Usa un lenguaje extranamente educado. Le encanta comer.
+DUMMY_ESP
+Sali de caza con Sasha. Creo que descubri un nuevo talento.
+Obtuviste la habilidad "+3 de agilidad".
+Hablamos mucho mientras cazabamos. Sasha hasta recupero su acento rural.
+Obtuviste la habilidad "Ahorro de cuchillas Nv. 2".
+A Sasha le avergüenza su acento. Sinceramente, deberia sentirse a gusto al hablar con sus companeros.
+Obtuviste la habilidad "+5 de agilidad".
+A Sasha le pone nerviosa hablar con naturalidad. Ojala pudiera darle un poco de confianza...
+Obtuviste la habilidad "Ahorro de cuchillas Nv. 3".
+Sasha uso su acento rural con los demas. Y les gusto. Caso cerrado, supongo...
+Obtuviste la habilidad "+10 de agilidad".
+Sasha volvio a ser excesivamente cordial. Quiza sea asi siempre.
+Obtuviste la habilidad "Dilema".
+Estreche lazos con Sasha. Tambien aprendi el valor de ser honesto con uno mismo.
+Obtuviste el gesto "Postura de Sasha".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Brillante. Amigable. Adorable.
+DUMMY_ESP
+Haremos una excursion a la enfermeria. Espero aprender sobre primeros auxilios.
+Obtuviste la habilidad "Manipulador".
+Christa esta preocupada por una chica que conocimos en la enfermeria. Ahora tiene intencion de ir alli frecuentemente.
+Obtuviste la habilidad "+3 de liderazgo".
+Ymir no parece contenta con estas visitas frecuentes a la enfermeria. Yo, por mi parte, no puedo dejar a Christa sola en esto.
+Obtuviste la habilidad "Manipulador Nv. 2".
+Juntos conseguimos recoger unas plantas medicinales fuera del muro. Crucemos los dedos para que ayuden a que el padre de la chica se recupere...
+Obtuviste la habilidad "Amistad".
+El padre de la chica se recupero. Gracias al cielo.
+Obtuviste la habilidad "Manipulador Nv. 3".
+Parece que Christa encontro su sueno. La apoyare en todo momento.
+Obtuviste la habilidad "Caridad de la diosa".
+Estreche lazos con Christa. Siempre nos apoyaremos.
+Obtuviste el gesto "Bendicion".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Ella y Christa son inseparables.
+DUMMY_ESP
+Ymir discutio con Conny. Sinceramente, si que habla un poco mas de la cuenta.
+Obtuviste la habilidad "+3 de salud".
+Le debo un favor a Ymir. Esto no terminara bien.
+Obtuviste la habilidad "Ataque sorpresa".
+Ymir cobro ese favor y otros mas. Nota: con "otros" quiero decir "muchos".
+Obtuviste la habilidad "+5 de salud".
+Ymir le dijo a un soldado que se rinda y se vaya a casa. Sera su forma de motivar a la gente?
+Obtuviste la habilidad "Ataque sorpresa Nv. 2".
+Ayude a Ymir con un plan. Que le hizo a ese policia militar?
+Obtuviste la habilidad "+10 de salud".
+Al parecer, Ymir estaba cuidando de unos ninos desfavorecidos. Tiene un lado bueno.
+Obtuviste la habilidad "Ataque sorpresa Nv. 3".
+Estreche lazos con Ymir. Quizas me atreva a confiar un poco mas en mi.
+Obtuviste el gesto "Provocar".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Teniente del Cuerpo de exploracion. Lo llaman "el soldado mas fuerte de la humanidad".
+DUMMY_ESP
+Recibire instruccion personal del teniente. Me pregunto en que sera...
+Obtuviste la habilidad "+5 de fuerza".
+La primera "leccion" fue limpiar los barracones. Al parecer, siempre fue obsesivo con la limpieza.
+Obtuviste la habilidad "Intercambio de cuchillas en el aire".
+Se cancelo el entrenamiento grupal de los nuevos reclutas. El teniente debe estar muy decepcionado con nosotros.
+Obtuviste la administracion del regimiento "Semana de limpieza intensiva".
+Ayude al teniente a entregar las pertenencias de los soldados caidos. No fue tarea facil, pero alguien tiene que hacerlo, digo yo.
+Obtuviste la habilidad "Corte giratorio".
+Hoy volvi a entregar articulos personales. Cuanto tiempo tendre que hacer esto?
+Obtuviste la habilidad "+10 de fuerza".
+Parece que me gane el respeto del teniente. Pero no me voy a dormir en los laureles.
+Obtuviste la habilidad "Impacto multiple".
+Estreche lazos con el teniente Levi. Me hare aun mas fuerte y le demostrare de lo que soy realmente capaz.
+Obtuviste el gesto "Disciplina".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Comandante de seccion del Cuerpo de exploracion. Habla sin parar de la investigacion de titanes.
+DUMMY_ESP
+Fui a saludar a la comandante de seccion. Es un honor estar al servicio de alguien asi.
+Obtuviste la habilidad "+3 de concentracion".
+Hange me pidio que la ayude con una investigacion de titanes. Como deberia responderle...?
+Obtuviste la habilidad "Atractivo".
+Ahora soy ayudante oficial de Hange. Hare lo mejor que pueda a pesar de los nervios.
+Obtuviste la habilidad "+10 de concentracion".
+La investigacion se esta poniendo interesante y las misiones peligrosas. Pero no importa cual sea la tarea, dare el 100 %.
+Obtuviste la administracion del regimiento "Ascenso por investigacion de titanes".
+La humanidad debe vencer a los titanes. Por eso seguimos investigando.
+Obtuviste la habilidad "Cazatitanes".
+La mision fue un exito y nuestra investigacion dio resultados. Llevamos a la humanidad un paso mas alla.
+Obtuviste la habilidad "Fundamentos de la investigacion".
+Estreche lazos con la comandante de seccion Hange. Aprendi que esforzarse al maximo es importante para progresar.
+Obtuviste el gesto "Alegria".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Comandante del Cuerpo de exploracion. Es como si lo viera todo.
+DUMMY_ESP
+Me llamo el comandante para contarme algunas cosas sobre su regimiento. Hare todo lo que pueda para defender sus ideales, incluso en situacion de peligro.
+Obtuviste la habilidad "+3 de liderazgo".
+Hablamos de los problemas del regimiento. Espero hacer propuestas firmes desde la perspectiva de un nuevo recluta.
+Obtuviste la habilidad "+5 de liderazgo".
+Me encargaron disenar un plan de mejora de la eficacia de los entrenamientos. Espero que mi trabajo salve vidas en el campo de batalla.
+Obtuviste la administracion del regimiento "Analisis de los informes de batalla".
+El comandante acepto mi propuesta. Ahora, la siguiente tarea: abordar la escasez de soldados del regimiento.
+Obtuviste la habilidad "Velocidad extrema".
+Mi plan recibio el sello de aprobacion del comandante. Supongo que es importante intentarlo, sin importar la envergadura de la tarea.
+Obtuviste la habilidad "+10 de liderazgo".
+Avanza y nunca te detengas. Esa es la leccion que me dio el comandante.
+Obtuviste la habilidad "Batalla decisiva".
+Siento que estreche lazos con el comandante Erwin. Me esforzare para estar a la altura.
+Obtuviste el gesto "Apuntar".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Pretende unirse a la Policia militar.
+DUMMY_ESP
+Marco quiere probar con entrenamientos mas practicos. Tiene buenas ideas sobre el trabajo en equipo.
+Obtuviste la administracion del regimiento "Formar escuadron de recuperacion de materiales".
+Marco y yo nos entendemos muy bien. Creo que los demas tambien entendieron la importancia del trabajo en equipo.
+Obtuviste la administracion del regimiento "Formar escuadron de captura de titanes".
+Creo que estreche lazos con Marco. Tenemos objetivos diferentes, pero los cumpliremos algun dia.
+Obtuviste la habilidad "+3 de agilidad".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. No destaca, pero es brillante y energico.
+DUMMY_ESP
+El comandante casi se come a Thomas y Mina. Se lo tomaron bien. Espero poder ayudarlos mas en el futuro.
+DUMMY_ESP
+Thomas esta haciendo un gran esfuerzo para comunicarse con los demas y estudiar sus virtudes. Es muy proactivo. Podria aprender mucho de el.
+Obtuviste la habilidad "Ahorro de cuchillas".
+Creo que estreche lazos con Thomas. Espero que podamos seguir aprendiendo uno del otro.
+Obtuviste la habilidad "+5 de destreza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Bastante normal en todos los aspectos, pero es amigable y muestra cercania.
+DUMMY_ESP
+El comandante casi se come a Mina y Thomas. Se lo tomaron bien. Espero poder ayudarlos mas en el futuro.
+DUMMY_ESP
+Mina esta haciendo un gran esfuerzo para comunicarse con los demas y estudiar sus virtudes. Es muy proactiva. Podria aprender mucho de ella.
+Obtuviste la habilidad "Ahorro de gas".
+Creo que estreche lazos con Mina. Espero que podamos seguir aprendiendo uno del otro.
+Obtuviste la habilidad "+5 de destreza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Comandante de seccion del Cuerpo de exploracion. Tiene la extrana costumbre de oler a los nuevos reclutas...
+DUMMY_ESP
+El comandante de seccion Mike me volvio a oler. Segun dice, el aroma indica los talentos especiales...
+Obtuviste la habilidad "+3 de fuerza".
+Por lo visto, el comandante de seccion esta decidido a saber cual es mi talento especial. Tengo mis dudas de que tenga alguno...
+Obtuviste la habilidad "+5 de concentracion".
+El comandante de seccion encontro mi talento especial. No se que tan util sera, pero al menos queda resuelto el misterio.
+Obtuviste la habilidad "Sigilo".
+Estreche lazos con el comandante de seccion Mike. Usare mis poderes olfativos y auditivos por el bien del regimiento.
+Obtuviste la habilidad "+5 de fuerza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado del Cuerpo de exploracion y miembro del escuadron de Levi. No sabe cuando callarse, pero sus habilidades lo compensan. Oficial superior que se merece todo mi respeto.
+DUMMY_ESP
+Se me ocurrio un regalo para el teniente. Me pregunto en que estaran pensando los demas miembros del escuadron de Levi.
+Obtuviste la habilidad "Robo".
+Oruo quiere regalarle al teniente... un pano para limpiar el polvo. No se como reaccionar a eso.
+Obtuviste la habilidad "+3 de fuerza".
+Tenemos que estar todos de acuerdo para el regalo. Lo consultare con los otros dos miembros del escuadron.
+Obtuviste la habilidad "Robo Nv. 2".
+Decidimos regalarle una taza para el te. Me alegra que nos hayamos puesto de acuerdo.
+Obtuviste la habilidad "+5 de fuerza".
+Le regalaron la taza al teniente. Fue un momento emotivo. Me alegra haber podido ayudarlos.
+Obtuviste la habilidad "Robo Nv. 3".
+Estreche lazos con Oruo. Algun dia, espero ser tan buen cazador de titanes como el.
+Obtuviste la habilidad "+3 de fuerza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado del Cuerpo de exploracion y miembro del escuadron de Levi. Amable, cuida de los soldados jovenes.
+DUMMY_ESP
+Se me ocurrio un regalo para el teniente. Me pregunto en que estaran pensando los demas miembros del escuadron de Levi.
+Obtuviste la habilidad "Muerte subita".
+Oruo quiere regalarle al teniente... un pano para limpiar el polvo. Ni a Petra ni a mi nos entusiasma la idea.
+Obtuviste la habilidad "+3 de concentracion".
+Tenemos que estar todos de acuerdo para el regalo. Lo consultare con los otros dos miembros del escuadron.
+Obtuviste la habilidad "Muerte subita Nv. 2".
+Decidimos regalarle una taza para el te. Me alegra que nos hayamos puesto de acuerdo.
+Obtuviste la habilidad "+5 de concentracion".
+Le regalaron la taza al teniente. Fue un momento emotivo. Me alegra haber podido ayudarlos.
+Obtuviste la habilidad "Muerte subita Nv. 3".
+Estreche lazos con Petra. Algun dia espero llegar a oficial jefe, como ella.
+Obtuviste la habilidad "+3 de concentracion".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado del Cuerpo de exploracion y miembro del escuadron de Levi. Persona seria y de confianza.
+DUMMY_ESP
+Se me ocurrio un regalo para el teniente. Me pregunto en que estaran pensando los demas miembros del escuadron de Levi.
+Obtuviste la habilidad "+3 de salud".
+Oruo quiere regalarle al teniente... un pano para limpiar el polvo. Puede que Gunther y los demas tengan ideas mejores.
+DUMMY_ESP
+Tenemos que estar todos de acuerdo para el regalo. Lo consultare con los otros dos miembros del escuadron.
+Obtuviste la administracion del regimiento "Construccion de bases mejorada".
+Decidimos regalarle una taza para el te. Me alegra que nos hayamos puesto de acuerdo.
+Obtuviste la habilidad "+5 de salud".
+Le regalaron la taza al teniente. Fue un momento emotivo. Me alegra haber podido ayudarlos.
+DUMMY_ESP
+Estreche lazos con Gunther. Noto que confia en mi.
+Obtuviste la habilidad "+3 de salud".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado del Cuerpo de exploracion y miembro del escuadron de Levi. Lidera el equipo cuando el teniente no esta.
+DUMMY_ESP
+Se me ocurrio un regalo para el teniente. Me pregunto en que estaran pensando los demas miembros del escuadron de Levi.
+Obtuviste la habilidad "+3 de liderazgo".
+Oruo quiere regalarle al teniente... un pano para limpiar el polvo. Puede que Eld y los demas tengan ideas mejores.
+DUMMY_ESP
+Tenemos que estar todos de acuerdo para el regalo. Lo consultare con Eld y los demas.
+Obtuviste la administracion del regimiento "Preparacion de suministros para la batalla".
+Decidimos regalarle una taza para el te. Me alegra que nos hayamos puesto de acuerdo.
+Obtuviste la habilidad "+5 de liderazgo".
+Le regalaron la taza al teniente. Fue un momento emotivo. Me alegra haber podido ayudarlos.
+DUMMY_ESP
+Estreche lazos con Eld. Es genial contar con el respeto de un oficial jefe.
+Obtuviste la habilidad "+3 de liderazgo".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado del Cuerpo de exploracion y ayudante de la comandante de seccion Hange. Esta bastante ocupado cuidando a su superior.
+DUMMY_ESP
+Moblit esta igual de ocupado que siempre. Creo que le vendria bien un descanso.
+Obtuviste la habilidad "Maestro de los objetos".
+Por lo visto, su investigacion con Hange esta a punto de dar sus frutos. Yo tambien hare mi parte en el campo de batalla.
+Obtuviste la habilidad "Maestro de los objetos Nv. 2".
+La investigacion fue un fracaso. Aun asi, la humanidad debe seguir estudiando a su enemigo.
+Obtuviste la habilidad "Maestro de los objetos Nv. 3".
+Estreche lazos con Moblit. Me enseno la importancia de no rendirse.
+Obtuviste la habilidad "+5 de salud".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado de la Tropa de guarnicion y miembro de la Tropa de elite. Parece tan capaz como su historial sugiere.
+DUMMY_ESP
+Estreche lazos con Ian. Espero que luchemos juntos contra el enemigo.
+Obtuviste la habilidad "+5 de concentracion".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado de la Tropa de guarnicion y miembro de la Tropa de elite. Pequena. Dedicada a la causa.
+DUMMY_ESP
+Rico y los demas parecen preocupados por el... poder de Eren. Espero que puedan llegar a creer en el.
+Obtuviste la administracion del regimiento "Semana de vinculacion con animales".
+Estaba alli cuando Rico y su equipo escucharon el punto de vista de Eren. Parece que empiezan a creer en el. Menos mal...
+Base de apoyo Nv. 3 disponible.
+Estreche lazos con Rico. Juntos conseguiremos la victoria de la humanidad.
+Obtuviste la habilidad "+5 de agilidad".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado de la Tropa de guarnicion y miembro de la Tropa de elite. Grande. Intimida un poco.
+DUMMY_ESP
+Estreche lazos con Mitabi. Espero convertirme en el tipo de soldado que merece su respeto.
+Obtuviste la habilidad "+5 de salud".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Comandante del regimiento de la Policia militar. Leal a la monarquia y dedicado a su puesto.
+DUMMY_ESP
+Hoy, el comandante Erwin me presento al comandante Nile. Parece que con el no se lleva tan mal. Hablamos un rato.
+Obtuviste la habilidad "Buen trato".
+Me unire a una mision de la Policia militar, haremos rondas por la ciudad.
+Obtuviste la habilidad "Buen trato Nv. 2".
+Hoy estuve con la patrulla de la Policia militar, su papel es muy importante.
+Obtuviste la habilidad "Buen trato Nv. 3".
+Estreche lazos con el comandante Nile. Aunque pertenecemos a regimientos diferentes, ambos somos soldados trabajando por el bien de la humanidad.
+Obtuviste la habilidad "+5 de concentracion".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Recluta de la Policia militar. Busca ascender en las filas.
+DUMMY_ESP
+Detuve una pelea entre Marlo y Hitch. Lo cierto es que entiendo el punto de vista de Marlo sobre la corrupcion militar.
+Obtuviste la habilidad "Instinto de oro".
+Hitch no puede mas con las tendencias cerradas de Marlo. Deberian sentarse a hablar.
+Obtuviste la habilidad "Instinto de oro Nv. 2".
+Marlo entiende el punto de vista de Hitch. Con un poco de suerte, dejaran de discutir tanto.
+Obtuviste la habilidad "Instinto de oro Nv. 3".
+Estreche lazos con Marlo. Conseguiremos lo que nos propongamos, lo se.
+Obtuviste la habilidad "+3 de agilidad".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Recluta de la Policia militar. Se dice que se alisto para vivir comodamente.
+DUMMY_ESP
+Detuve una pelea entre Hitch y Marlo. Lo cierto es que entiendo el punto de vista de Marlo sobre la corrupcion militar.
+Obtuviste la habilidad "Valentia".
+Hitch no puede mas con las tendencias cerradas de Marlo. Deberian sentarse a hablar.
+Obtuviste la habilidad "Valentia Nv. 2".
+Hitch entiende el punto de vista de Marlo. Con un poco de suerte, dejaran de discutir tanto.
+Obtuviste la habilidad "Valentia Nv. 3".
+Estreche lazos con Hitch. Es genial contar con un nuevo amigo.
+Obtuviste la habilidad "+3 de destreza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado de la Tropa de guarnicion. Capitan de su propia unidad de ingenieros. Estaba destinado en Shiganshina.
+DUMMY_ESP
+Le conte a Hannes como le va a Eren y a sus amigos. Adora a esos tres.
+Obtuviste la habilidad "+3 de destreza".
+Hannes me conto que sufre ansiedad en el frente. Me pregunto si podria ayudarlo.
+Obtuviste la administracion del regimiento "Ofertas en la tienda del regimiento".
+La ultima mision ayudo a Hannes a recuperar la confianza en si mismo. No hay duda de que algun dia matara a ese titan.
+Base de suministros Nv. 3 disponible.
+Estreche lazos con Hannes. Algun dia volvera a Shiganshina.
+Obtuviste la habilidad "+3 de destreza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Esta al mando de todos los territorios del sur. Digno de confianza, aunque un poco excentrico.
+DUMMY_ESP
+Hoy me encontre con el comandante Pyxis, llevaba una petaca en la mano. Terminamos jugando al ajedrez, me enseno las normas basicas.
+Obtuviste la habilidad "+5 de destreza".
+El comandante Pyxis y yo hablamos mientras jugabamos al ajedrez. Por lo visto, esta buscando a un titan explosivo.
+Base de ataque Nv. 3 disponible.
+Escuche como el comandante Pyxis le transmitia sus valores de guerrero a un soldado de la Tropa de guarnicion. Es un acerrimo defensor de la humanidad.
+Obtuviste la administracion del regimiento "Preparacion para la batalla".
+Estreche lazos con el comandante Pyxis. Algun dia celebraremos juntos la victoria de la humanidad.
+Obtuviste la habilidad "+5 de liderazgo".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Instructor de la Unidad de instruccion. Da mas miedo que un titan.
+DUMMY_ESP
+Hoy vi como el instructor llamaba a Conny y a Sasha. Se dieron la vuelta aterrados como venados. Creo que puedo identificarme con su preocupacion por la 104...
+Obtuviste la habilidad "Maniobras tridimensionales avanzadas".
+El instructor volvio a intentar impartir algo de sabiduria a la 104. Agradezco sus consejos.
+Obtuviste la habilidad "Maniobras tridimensionales avanzadas Nv. 2".
+El instructor jefe compartio sus expectativas con nosotros. Ahora tenemos que intentar estar a la altura.
+Obtuviste la habilidad "Maniobras tridimensionales avanzadas Nv. 3".
+Estreche lazos con el instructor. Agradezco su preocupacion por mi.
+Obtuviste la habilidad "+3 de liderazgo".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Soldado de la Tropa de elite. Capitan de la Tropa de elite. Mucho mas timido de lo que sugiere su aspecto.
+DUMMY_ESP
+El capitan Kitz parece preocupado por el... poder de Eren. Espero que pueda llegar a creer en el.
+Base de mineria Nv. 3 disponible.
+Estaba alli cuando el capitan Kitz escucho el punto de vista de Eren. Parece que empieza a creer en el. Menos mal...
+Obtuviste la administracion del regimiento "Formar escuadron de mineria".
+Estreche lazos con el capitan Kitz. Juntos, conseguiremos la victoria de la humanidad.
+Obtuviste la habilidad "+3 de salud".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Los tres regimientos estan bajo su mando. Calmado y sereno. No se da aires de grandeza.
+DUMMY_ESP
+Me ordenaron recrear una de nuestras expediciones con dibujos. Espero que mis habilidades artisticas esten a la altura...
+Obtuviste la administracion del regimiento "Actividades para recaudacion de fondos".
+Al comandante en jefe le gusto mi obra. Al parecer, le encanta el arte.
+Obtuviste la administracion del regimiento "Reconocimiento y disciplina".
+Estreche lazos con el comandante en jefe. Aunque nuestros puestos sean distintos, ambos luchamos por la humanidad.
+Obtuviste la habilidad "+5 de liderazgo".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Explorador veterano. Amable. La clase de persona que te tranquiliza al instante.
+DUMMY_ESP
+Nanaba dijo que acuda a el siempre que lo necesite. Parece ser buen amigo de Mike y Gelgar.
+Obtuviste la habilidad "Maniobra secreta".
+Nanaba compartio su filosofia de soldado conmigo. Quiero ser tan imperturbable en una crisis como el.
+Obtuviste la habilidad "Maniobra secreta Nv. 2".
+Acompanare a Nanaba y a otros oficiales en una mision. Tengo que demostrarles lo que valgo.
+Obtuviste la habilidad "+5 de concentracion".
+Me elogiaron por mi trabajo en el campo. Espero tener una vida larga como soldado.
+Obtuviste la habilidad "Maniobra secreta Nv. 3".
+Estreche lazos con Nanaba. Seguire su ejemplo como veterano de campo.
+Obtuviste la habilidad "+3 de concentracion".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Explorador veterano. Amable. El tipo de persona en el que confias para todo.
+DUMMY_ESP
+Gelgar dijo que acuda a el siempre que lo necesite. Parece ser buen amigo de Mike y Nanaba.
+Obtuviste la habilidad "Duelista".
+Gelgar compartio su filosofia de soldado conmigo. Quiero ser tan imperturbable en una crisis como el.
+Obtuviste la habilidad "Duelista Nv. 2".
+Acompanare a Gelgar y a otros oficiales en una mision. Tengo que demostrarles lo que valgo.
+Obtuviste la habilidad "+5 de fuerza".
+Me elogiaron por mi trabajo en el campo. Espero tener una vida larga como soldado.
+Obtuviste la habilidad "Duelista Nv. 3".
+Estreche lazos con Gelgar. Cuando tenga tanta experiencia como el, espero tener tambien su gran corazon.
+Obtuviste la habilidad "+3 de fuerza".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Miembro de la 104. Cobarde. No sirve de mucho.
+DUMMY_ESP
+Daz y yo logramos llevar a cabo la mision, no se como. Necesita que cuide de el...
+Obtuviste la habilidad "+3 de agilidad".
+Daz empieza a tener sentido del deber como soldado. Creo que le ira bien a partir de ahora.
+Obtuviste la administracion del regimiento "Entrenamiento encubierto".
+Estreche lazos con Daz. Sera un buen soldado.
+Obtuviste la habilidad "+5 de agilidad".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Lider religioso que preside la Orden de los Muros. Es muy devoto.
+DUMMY_ESP
+Parece que me gane un poco la confianza del padre Nick.
+Obtuviste la administracion del regimiento "Plegaria de la Orden".
+El padre Nick parece confiar en mi.
+Obtuviste la habilidad "Soldado honorable".
+Estreche lazos con el padre Nick. Noto que confia en mi.
+Obtuviste el gesto "Postura de ceremonia de la Orden".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Jefe de la sociedad comercial. Opera en Trost. Autoritario y manipulador con todo el mundo.
+DUMMY_ESP
+Parece que me gane un poco la confianza del jefe de la sociedad comercial.
+Obtuviste la administracion del regimiento "Jefe del gremio de comerciantes".
+El jefe de la sociedad comercial parece confiar en mi.
+Obtuviste la habilidad "Negociacion".
+Estreche lazos con el jefe de la sociedad comercial. Yo tambien llevare con orgullo la vida que elija.
+Obtuviste el gesto "Presumir".
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

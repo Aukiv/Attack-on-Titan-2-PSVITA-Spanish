@@ -1,0 +1,256 @@
+﻿Aparecieron titanes en Stohess! Date prisa e interceptalos!
+Los soldados saben usar maniobras tridimensionales! Completa el entrenamiento de Keith!
+Sobrevivir de noche no sera facil. Trabaja en equipo para conseguirlo!
+Aparecio el titan colosal! Deten la invasion de titanes!
+Es la primera mision de la 104. Defiende Trost del asedio!
+Enemigos descontrolados en Trost! Sobreviviran los civiles y soldados?
+Es un titan matatitanes?! Que rayos es esta criatura?
+Confiemos en Eren para recuperar Trost. Destruye a los titanes y sal victorioso.
+La mision de Trost ya termina! Protege a Eren y destruye titanes!
+Es tu primera mision en el exterior! Combate con los exploradores!
+Empieza el plan de captura de Hange! Domina el arte de la caza!
+Fueron a crear bases de provisiones! Ayuda a los exploradores!.
+El experimento de transformacion fracaso, los titanes nos atacan. Protege a Eren!
+La 57.ª expedicion esta en marcha. Acaba con los titanes y prepara el despliegue.
+Los exploradores avanzan en formacion! El peligro llego antes de tiempo...
+Informa a Levi de la amenaza inminente! Podras acabar con la titan hembra?
+Capturaron a la titan hembra! De repente, una voz sacude el bosque...
+La titan hembra ataca al escuadron Levi. Venga a sus victimas junto a Eren!
+Llega el choque mas importante para los exploradores. La titan hembra entro!
+Los titanes se infiltraron en el muro Rose. Ayuda a Mike a que la 104 escape.
+Alerta titan en la aldea de Sasha! Derrota al enemigo y salva a los civiles!
+Los titanes entraron! Resistira la guarnicion?
+Los titanes van al castillo Utgard. Protegelo con los mejores exploradores.
+Ymir aguanta en su forma titan! Ayudala y salva a tus aliados!
+Reiner y Berthtoldt son titanes? Destruye esta amenaza para la humanidad.
+Reiner y Berthtoldt no pueden escaparse. Persiguelos y rescata a tus companeros.
+Las perdida de los poderes de Eren es el fin. Derrota al titan acorazado!
+Volvieron a traspasar el muro Rose! Protege el muro Sina a toda costa!
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Elimina a los titanes cercanos al muro para que la expedicion este a salvo.
+Escolta a los mensajeros y protegelos de la amenaza titanica!
+Titanes avistados de camino a casa! Acaba con ellos para volver a salvo!
+Los titanes rodean a exploradores heridos. Haz que se vayan y salva a tus aliados.
+Atacan una ciudad de primera linea! Asegura la zona utilizando las bases.
+Arrasan una ciudad de primera fila! Salva a los ciudadanos.
+Peligro en una ciudad del regimiento. Trabaja con tus aliados y protegela!
+Fisura en el muro en una zona comercial. Ayuda a la Policia militar!
+Los titanes impiden la exploracion del bosque. Acaba con ellos!
+Desinfesta el bosque de titanes. Trabaja en equipo para acabar con la amenaza.
+Unos titanes acosan al equipo de reconocimiento. Matalos para salvarlos!
+Se detecto una horda de titanes en el bosque. Hazlos salir y acaba con ellos!
+Atacan el interior! Trabaja con la Policia militar para echarlos fuera.
+Una horda de titanes arrasa el interior. Haz equipo y salva a los ciudadanos!
+Los titanes llegan y los ciudadanos huyen. unanse para aniquilarlos.
+Titanes en el interior. Protege a los civiles con la Policia militar.
+La zona vieja de la ciudad no aguantara. Usa la artilleria contra los enemigos!
+Llegan titanes por las laderas. Haz que se vayan usando los canones del muro.
+Atacan las bases de la zona vieja de la ciudad. Protegelas de los titanes.
+Llegan hordas por diferentes zonas del exterior! Ataquemos con todo!
+Soldados en peligro en las llanuras. Protegelos de los titanes!
+La base de operaciones esta en peligro. Acabemos con el enemigo y salvemos al personal.
+Nuestros hombres tienen problemas en las laderas. Hay que salvarlos.
+La formacion se rompio. Reune a las tropas para luchar!
+Se avistaron titanes en el campo de entrenamiento. Que se note que entrenas.
+Atacan el campo de entrenamiento! Defiende la zona con tus companeros!
+Enemigos en el campo de entrenamiento. Matalos junto a la Tropa de guarnicion!
+Atacan el campo de entrenamiento. Ve alli y salva a nuestros cadetes.
+Titanes en direccion a una aldea. Trabajen en equipo y acaben con ellos.
+Atacan una aldea del interior. Fuerza la retirada enemiga y salva vidas.
+Varios titanes atacan una aldea. Reune a tus aliados y recupera la aldea.
+Atacan a una base minera. Protegela y pon a salvo a los civiles.
+Los titanes irrumpieron en unas ruinas en pleno reconocimiento. Ve a ayudar!
+Se avisto una Horda de titanes en las ruinas. Imposible huir, hay que luchar!
+Los titanes te rodean en las ruinas. Zafate de ellos y escapa.
+Los titanes atacan una base de extraccion. Ahuyentalos y ayuda a los civiles.
+Limpia la ciudad abandonada de titanes para poder construir bases de suministro!
+Horda de titanes atrapada en la ciudad muerta. Trabaja en equipo para destruirlos.
+Te han rodeado cuando estabas de patrulla en la ciudad muerta. Resiste!
+Se avistaron titanes mientras se montaba una base de confluencia. Defiendela!
+Los titanes dan problemas a un escuadron en el exterior. Ponselo dificil.
+Una unidad multirregimiento se dirige al exterior! Protegela, y a la PM!
+Los titanes atacan la ciudad en ausencia del Cuerpo de exploracion! Salvala.
+Un excentrico lanza titanes sobre el muro! Transforma la crisis en victoria!
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Limpia la zona del castillo de titanes para que el Cuerpo pueda investigar.
+Un excentrico dirige el asedio al castillo! Protege a tus aliados y obten la victoria!
+La Tropa de guarnicion y el Cuerpo de exploracion unen fuerzas! Libera el castillo!
+Lanzando rocas, los titanes obtuvieron ventaja. Repelelos y asegura la zona!
+Atacaron a las tropas de guarnicion mientras entrenaban. Ayudalos!
+Ayuda al Cuerpo a atacar y usa canones para limpiar las inmediaciones del muro!
+Ayuda a la Policia militar en su tediosa tarea de recuperar joyas del exterior.
+Se acerca un gran excentrico a la cabeza de varios titanes! Usa los canones!
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+La 104 encontro titanes en el bosque! Acaba con el enemigo en equipo!
+Mientras estaba en el bosque, el Cuerpo se topo con titanes. Elimina la amenaza!
+Es un flujo de titanes masivo! Protege nuestras bases y deten la fuente!
+Destruye el frente titan para que todos los regimientos puedan unirse y barrerlos!
+Atacan a los soldados que entrenaban en el llano. Ayudalos de inmediato!
+Una ciudad en la llanura esta en peligro. Ayuda a evacuar y matar titanes!
+El Cuerpo de exploracion planea un asalto. Atrae a los titanes para el golpe!
+Un excentrico ataca una base del Cuerpo de exploracion. Defiendela y apoya!
+Los titanes se acercan a una pacifica aldea. Acaba con ellos cuanto antes.
+Una pintoresca aldea esta bajo ataque. Ayuda a montar bases y a repelerlos!
+Se avistaron titanes cerca de una aldea. Apoya a tus aliados y salva a la gente!
+Una aldea cayo ante los titanes. Apoya a nuestros hombres y exterminalos!
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

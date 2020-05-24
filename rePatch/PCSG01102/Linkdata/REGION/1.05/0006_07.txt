@@ -1,0 +1,50 @@
+﻿Tu [0:GIFT] no obtuvo una gran respuesta.
+Tu [0:GIFT] estuvo... bien, parece.
+Tu [0:GIFT] logro arrancar una sonrisa.
+Tu [0:GIFT] fue el regalo perfecto.
+Ayudaste a completar la mision secundaria durante la mision "[0:SCNAME]".
+Se desplegaron en equipo en la mision "[0:SCNAME]".
+Practicaron [0:TRAINING] en equipo, pero con problemas de concentracion.
+Practicaron [0:TRAINING] en equipo.
+Practicaron [0:TRAINING] en equipo y obtuvieron grandes resultados.
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

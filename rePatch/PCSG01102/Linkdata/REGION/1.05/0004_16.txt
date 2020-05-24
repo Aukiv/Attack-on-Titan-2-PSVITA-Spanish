@@ -1,0 +1,100 @@
+﻿Muevete con [$PAD_L3]
+Salta con [$PAD_RD]
+Lanza anclajes con [$PAD_RL]
+Manten presionado [$PAD_RL] y muevete con [$PAD_L3]
+Presiona [$PAD_RD] en el aire para realizar un salto aereo
+Manten presionado [$PAD_RD] en el aire para impulsarte
+Inclina [$PAD_L3] hacia delante cerca de un muro
+Fija el objetivo con [$PAD_R1]
+Carga contra la parte del cuerpo objetivo con [$FN_PARTS_CHANGE]
+Lanza anclajes con [$PAD_RU]
+Ataca con [$PAD_RU]
+Impulsate con [$PAD_RD]
+Ataca con [$PAD_RU]
+Presiona [$PAD_RR] cerca de un sitio de construccion de base.
+Elige el tipo de base con [$PAD_L3] y construyelo con [$PAD_DECIDE]
+Navega entre los elementos de la paleta con [$PAD_L2]
+Recarga el gas con [$PAD_CURSOR_ALL]
+Recarga las cuchillas con [$PAD_CURSOR_ALL]
+Acercate por detras para evitar que te detecten
+Manten presionado [$PAD_RR] para realizar un ataque sorpresa
+Presiona rapidamente [$PAD_RU] para liberarte
+Esquiva con [$PAD_L3][$PAD_RD]
+Usa un objeto curativo con [$PAD_CURSOR_ALL]
+Manten presionado [$PAD_RU] y sueltalo para realizar una caida de gancho
+Presiona [$PAD_RR] cerca de un soldado
+Usa una granada cegadora con [$PAD_L1][$PAD_CURSOR_ALL]
+Usa una granada ensordecedora con [$PAD_L1][$PAD_CURSOR_ALL]
+Manten presionado [$PAD_RL] y muevete con [$PAD_L3]
+Inicia las acciones de companero con[$PAD_L1][$PAD_CURSOR_ALL].
+Presiona [$PAD_RD] en el aire antes del impacto del ataque de un titan
+Presiona[$PAD_RU] al esquivar para realizar una caida con gancho
+Acercate a Ymir y presiona [$PAD_RR]
+Manten presionado [$PAD_R2] y, a continuacion, usa [$PAD_L3] para apuntar
+Con la mira sobre un titan, presiona [$PAD_RU] para cargar
+Ataca con [$PAD_RU]
+Carga contra la parte del cuerpo objetivo con [$FN_PARTS_CHANGE]
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Muevete con [$PAD_L3]
+Salta con [$PAD_RD]
+Lanza anclajes con [$PAD_RL]
+Manten presionado [$PAD_RL] y muevete con [$PAD_L3]
+Presiona [$PAD_RD] en el aire para realizar un salto aereo
+Manten presionado [$PAD_RD] en el aire para impulsarte
+Inclina [$PAD_L3] hacia delante cerca de un muro
+Fija el objetivo con [$PAD_R1]
+Carga contra la parte del cuerpo objetivo con [$FN_PARTS_CHANGE]
+Lanza anclajes con [$PAD_RU]
+Ataca con [$PAD_RU]
+Impulsate con [$PAD_RD]
+Ataca con [$PAD_RU]
+Presiona [$PAD_RR] cerca de un sitio de construccion de base.
+Elige el tipo de base con [$PAD_L3] y construyelo con [$PAD_RR]
+Navega entre los elementos de la paleta con [$PAD_L2]
+Recarga el gas con [$PAD_CURSOR_ALL]
+Recarga las cuchillas con [$PAD_CURSOR_ALL]
+Acercate por detras para evitar que te detecten
+Manten presionado [$PAD_RR] para realizar un ataque sorpresa
+Presiona rapidamente [$PAD_RU] para liberarte
+Esquiva con [$PAD_L3][$PAD_RD]
+Usa un objeto curativo con [$PAD_CURSOR_ALL]
+Manten presionado [$PAD_RU] y sueltalo para realizar una caida de gancho
+Presiona [$PAD_RR] cerca de un soldado
+Usa una granada cegadora con [$PAD_L1][$PAD_CURSOR_ALL]
+Usa una granada ensordecedora con [$PAD_L1][$PAD_CURSOR_ALL]
+Manten presionado [$PAD_RL] y muevete con [$PAD_L3]
+Inicia las acciones de companero con[$PAD_L1][$PAD_CURSOR_ALL].
+Presiona [$PAD_RD] en el aire antes del impacto del ataque de un titan
+Presiona[$PAD_RU] al esquivar para realizar una caida con gancho
+Acercate a Ymir y presiona [$PAD_RR]
+Manten presionado [$PAD_R2] y, a continuacion, usa [$PAD_L3] para apuntar
+Con la mira sobre un titan, presiona [$PAD_RU] para cargar
+Ataca con [$PAD_RU]
+Carga contra la parte del cuerpo objetivo con [$FN_PARTS_CHANGE]
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

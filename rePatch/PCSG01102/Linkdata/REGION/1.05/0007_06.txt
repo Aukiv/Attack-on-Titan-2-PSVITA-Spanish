@@ -1,0 +1,128 @@
+﻿Una vaina basica. Se diseno para ser facil de usar y con unas habilidades medias.
+Una vaina basica. El mantenimiento mejoro su rendimiento general.
+Una vaina basica. Se usaron datos de batalla para modificarla y que ofrezca un mayor rendimiento.
+Una vaina basica. Una mejora general con respecto a las vainas de primera generacion.
+Una vaina basica. El resultado de mejorar la segunda generacion de vainas a raiz de las sugerencias de los soldados.
+Una vaina basica. Se usaron materiales de la mas alta calidad para mejorar el rendimiento.
+Una vaina basica. Un equipo de maximo nivel, que al principio se producia solo para soldados de elite.
+Una vaina basica. Version mejorada de la vaina de tercera generacion, de edicion limitada.
+Una vaina basica. El equipo de elite mas moderno, creado gracias a las sugerencias de los soldados que usaron las vainas de edicion limitada en batalla.
+Una vaina creada con la tecnologia y los materiales mas modernos. Lo bastante resistente para sobrevivir a cualquier situacion a la par que muy practica.
+Una vaina disenada para ser resistente. Es ideal para expediciones en las que no haya muchos suministros.
+Una vaina todavia mas mejorada, que fue posible gracias a los datos obtenidos en combate.
+Una vaina mejorada con la tecnologia mas actual. Disenada para los exploradores, se produjo como una edicion limitada para soldados de elite.
+Una vaina creada para durar lo maximo posible. El contenedor se mejoro todavia mas para ofrecer la maxima duracion.
+Una vaina creada para ser facil de usar. La vaina se fabrico para contener mas gas y cuchillas, para mayor seguridad.
+Una version mejorada de la Schuzrumscheide. Compensa con duracion sus carencias en potencia.
+Una version superior de la Schuzrumscheide. Usa nuevos materiales para mantener el peso y ofrecer mayor capacidad.
+Una version mejorada de la Blitzscheide. Los materiales de alta calidad hacen que sea dificil producirla en masa, por lo que solo la usan algunos soldados de elite.
+Una version superior de la Blitzscheide. Se creo para su uso en entornos hostiles y posee mayor capacidad.
+Una version muy mejorada de la Jagtscheide, gracias a los datos obtenidos en batalla por los escuadrones de elite.
+Una vaina de gama alta, que porta el nombre de un rey. En cuanto a capacidad, no tiene rival.
+Una vaina especializada para el combate movil. Sacrifica las cuchillas extra para ofrecer mayor capacidad.
+Una version mejorada de la Caballorraudo Cero. Se mejoro su rendimiento general y su capacidad de gas.
+Una vaina especializada de gama alta, para su uso en combate. Maximiza la capacidad de gas y la presion para ofrecer una mayor libertad de movimiento en batalla.
+Una vaina creada mediante un proceso especial. Su nombre deriva de su distintivo color azul. Presenta mayor capacidad de gas.
+Una vaina redisenada para que la usen los soldados del frente. Se creo especialmente para no tener rival en cuanto a la presion de gas.
+La vaina ceremonial que usa la Policia militar. Su forma de ala es la principal caracteristica distintiva de este equipo de gama alta.
+Una version modificada del Ala. Presenta mayor presion de gas, sin perder la belleza de su predecesor.
+Un Ala creada con los mejores materiales. Ofrece una presion de gas extremadamente elevada, sin sacrificar ni un apice de su belleza.
+Una version de un Ala que recibe su nombre de una criatura sagrada. Solo unos pocos soldados de elite pueden usar este equipo de gama alta.
+Una version superior de la Emblema del unicornio. Tanto su rendimiento como su aspecto son impresionantes.
+La version definitiva de la Emblema del unicornio. La movilidad que aporta su mayor presion de gas impide que el enemigo contraataque.
+Una vaina que lleva el nombre de la rosa que simboliza a la Tropa de guarnicion. Su aspecto la hace apta para cualquier soldado de elite.
+Una funda especial que se entrega al Cuerpo de exploracion.
+Una funda especial que se entrega al Cuerpo de exploracion.
+Una funda especial que se entrega al Cuerpo de exploracion.
+Una funda especial que se entrega al Cuerpo de exploracion.
+Una vaina grande, pesada y poco refinada. Tiene una impresionante capacidad, pero dista de ser ideal para moverse.
+Una mejora con respecto a la primera version de la Vaina pesada. Su estructura se mejoro para poder contener mas gas.
+Una version de la Vaina pesada mejorada a partir de datos obtenidos en batalla. En comparacion con la segunda version, ofrece una mejora mas profunda en general.
+Una Vaina pesada que usa materiales de alta calidad. Sacrifica movimiento para ofrecer mayor capacidad.
+Una Vaina pesada que usa materiales de la mas alta calidad. Es como una gran masa de hierro especializada para ofrecer la maxima capacidad.
+Una vaina desarrollada para que sea facil de usar en combate. Esta bien equilibrada en general.
+Una version mejorada de la Funda espiritual. Mantiene el equilibrio entre capacidad y presion de gas de sus predecesoras, a la par que mejora en casi todos los aspectos.
+Una Funda espiritual superior. Se usaron materiales de mayor calidad para mejorar el rendimiento general.
+La Funda antigua tiene mayor capacidad y mayor duracion en combate.
+Una Funda antigua superior. Se modificaron la capacidad y la presion de gas para aumentar su uso al maximo.
+Una vaina cuyo desarrollo exige nuevas estrategias de batalla. Puede que no tenga las capacidades de otras vainas, pero es sigilosa en los movimientos tridimensionales.
+Una mejora de la Brisa de sombra. Permite que los soldados mas habiles se acerquen a los titanes sin ser detectados.
+Se altero la estructura interna y los materiales del Viento sombrio para crear una version mejorada. Permite al soldado esconderse en las sombras mientras se abre camino por el campo de batalla.
+Una vaina especializada para el movimiento encubierto. Muchos soldados de elite la prefieren porque les permite acercarse con sigilo a los titanes.
+La vaina superior en la serie Sombra. Tiene menos almacenamiento de gas, pero cuenta con un mecanismo silenciador de la mejor calidad.
+Una vaina fabricada con minerales muy duros. Se diseno para tener mayor capacidad.
+Una vaina fabricada con minerales muy duros. Sus materiales y sus planos se modificaron para mejorar su rendimiento general.
+Una vaina fabricada con minerales muy duros. Su estructura cambio para mejorar sus caracteristicas basicas.
+Una vaina fabricada con minerales muy duros. Ofrece un gran rendimiento en manos de cualquier soldado y, al mismo tiempo, cuenta con un bello exterior.
+Una vaina fabricada con minerales muy duros. Fue creada por los artesanos mas cualificados y posee la apariencia de una obra de arte.
+Una vaina especializada con mayor presion de gas. Se desarrollo pensando en esos soldados que se lanzan al ataque de forma violenta.
+Una vaina especializada con mayor presion de gas. Se mejoro a partir de las sugerencias de los soldados que la usaban.
+Una vaina mejorada especializada en la presion de gas. Su aceleracion rapida permite a los soldados hacer lo que quieran con los titanes.
+Una vaina mejorada especializada en la presion de gas. Su rendimiento general se mejoro para satisfacer a los soldados mas alocados.
+Una vaina superior especializada en la presion de gas. Solo podran empunar esta arma tan potente aquellos soldados fuertes que sean seleccionados especialmente.
+Una vaina especial con un diseno impresionante. Su funcionalidad basica es reducida, pero su apariencia es un estimulo para el resto de los soldados.
+Una vaina especial con un diseno impresionante. Sus planos se alteraron para mejorar su rendimiento general.
+Una mejora con respecto a la Yakumo. Una obra maestra que ofrece tanto belleza como funcionalidad en el campo de batalla.
+Una mejora con respecto a la Izumo Hyaku-Shiki. Se aumentaron sus caracteristicas basicas para tener ventaja en las peleas en el aire.
+El modelo definitivo en la serie Hyaku-Shiki. Su hermoso diseno revela un trabajo artesanal superior.
+Una vaina creada para tener una mejor presion de gas. Su sello es su exterior funcional. No es la mejor en cuanto a capacidad se refiere.
+Una vaina creada para tener una mejor presion de gas. Se uso tecnologia de ultimo modelo para mejorar sus caracteristicas basicas.
+Una vaina mejorada especializada en la presion de gas. Se mejoro su rendimiento utilizando la Gebrüllscheide como base.
+Una vaina mejorada especializada en la presion de gas. Su rendimiento excelente permite al usuario moverse a su gusto entre los titanes.
+Una vaina superior disenada para una mayor presion de gas. Su impresionante aceleracion mandara a los titanes de vuelta al infierno.
+Una vaina con una capacidad de cuchillas aumentada gracias a los avances en la tecnologia ligera. Tambien se aumento levemente la presion del gas.
+Una vaina que puede contener mas cuchillas de repuesto. Las mejoras en su estructura aumentaron sus caracteristicas basicas.
+Una vaina que puede contener mas cuchillas de repuesto. Se mejoro en profundidad, pero se mantuvo su capacidad aumentada.
+Una vaina que puede contener mas cuchillas de repuesto. Se reviso su estructura interna para aumentar de manera significativa sus caracteristicas basicas.
+El modelo perfecto de vaina. Se analizaron todos los datos recogidos por cada prototipo en la batalla para mejorar su rendimiento.
+Una vaina para batallas importantes, elaborada sin considerar su viabilidad de produccion. Logra un rendimiento extremadamente alto al reducir el numero de cuchillas de repuesto.
+Una vaina para batallas importantes que acelera mas rapido y dura mas en las batallas continuadas. Permite el movimiento a niveles sin precedentes.
+Una vaina artistica para batallas importantes que cuenta tanto con rapidez como con capacidad. Se dice que deja llamas a su paso.
+Una vaina para batallas importantes que lleva el aspecto al limite. Su increible aceleracion recuerda a las bolas de fuego del purgatorio.
+Una vaina para batallas importantes con capacidad y aceleracion maximas. Arde como el sol mientras incinera a los titanes y los convierte en faros de la victoria de la humanidad.
+Una vaina desarrollada en el mas absoluto secreto como un arma antititanes para batallas importantes. Puede contener un numero muy elevado de cuchillas de repuesto.
+Un combustible alfa mejorado. Sus caracteristicas basicas aumentadas hacen que sea mas facil usarlo en la batalla.
+El sucesor del combustible beta. Mejora el rendimiento en general y mantiene el numero de cuchillas de repuesto.
+Un combustible epsilon mejorado. Si se usa como es debido, pueden conseguirse resultados que ningun soldado experimento jamas.
+Una vaina desarrollada en el mas absoluto secreto como un arma antititanes para batallas importantes. Su rendimiento no tiene ningun defecto.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

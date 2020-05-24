@@ -1,0 +1,128 @@
+﻿Fragmento de bambu de hierro
+Bambu de hierro de grado B
+Bambu de hierro de grado A
+Bambu de hierro de grado S
+Restos de hierro
+Acero de grado B
+Acero de grado A
+Acero de grado S
+Acero extraduro de grado B
+Acero extraduro de grado A
+Acero extraduro de grado S
+Fragmento de piedra explosiva de hielo
+Piedra explosiva de hielo de grado B
+Piedra explosiva de hielo de grado A
+Piedra explosiva de hielo de grado S
+Metal raro de baja calidad
+Metal raro
+Metal raro de alta calidad
+Metal raro de altisima calidad
+Acero superresistente (prototipo)
+Acero superresistente
+Nuevo acero superresistente
+Acero ligero (prototipo)
+Acero ligero
+Nuevo acero ligero
+Acero gema
+Acero gema superior
+Hierro meteorico
+Madera
+Madera de alta calidad
+Medula de arbol gigante
+Cuero
+Cuero de alta calidad
+Cuero personalizado
+Bidon de alta presion (prototipo)
+Bidon de alta presion
+Bidon de muy alta presion
+Bidon grande (prototipo)
+Bidon grande
+Bidon supergrande
+Cable rigido (prototipo)
+Cable rigido
+Cable superrigido
+Cable ligero (prototipo)
+Cable ligero
+Cable superligero
+Ventilador de alta velocidad (prototipo)
+Ventilador de alta velocidad
+Ventilador de velocidad superalta
+Fragmento de piel de titan
+Fragmento de cristal de titan
+Cristal de titan
+Cristal de titan grande
+Fragmento de cristal ultraduro
+Cristal ultraduro
+Cristal ultraduro grande
+Cristal de titan brillante
+Cristal de titan resplandeciente
+Fragmento de armadura de titan
+Fragmento de armadura de titan grande
+Cristal de titan poco comun
+Cristal de titan siniestro
+Cristal gigante
+Cristal colosal
+Colmillo de titan
+Colmillo de titan (grande)
+Informe de despliegue generico
+Informe de despliegue generico de rango alto
+Informe de despliegue generico de rango superior
+Informe de despliegue especializado
+Informe de despliegue especializado de alto rango
+Informe de despliegue especializado de rango superior
+Informe de despliegue de ceremonia
+Informe de despliegue de ceremonia de rango alto
+Informe de despliegue de ceremonia de rango superior
+Informe de despliegue especial
+Informe de despliegue de ceremonia especial
+Informe de despliegue de ceremonia especial de rango superior
+Plancha de acero
+Plancha de acero pesado
+Plancha de acero especial
+Prototipo de acero forjado
+Acero forjado
+Acero forjado de alta calidad
+Prototipo de silenciador
+Silenciador mejorado
+Silenciador avanzado
+Augita
+Augita grande
+Diamante
+Aleacion anticorrosion de prueba
+Aleacion anticorrosion
+Aleacion anticorrosion de alta calidad
+Mecanismo especial de grado B
+Mecanismo especial de grado A
+Mecanismo especial de grado S
+Equipo simple
+Equipo robusto
+Equipo elaborado
+Polvora de grado B
+Polvora de grado A
+Polvora de grado S
+Cristal candente
+Cristal candente grande
+Cristal candente gigantesco
+Fragmento de plano pequeno
+Fragmento de plano mediano
+Fragmento de plano grande
+Cristal danado (pequeno)
+Cristal danado (mediano)
+Cristal danado (grande)
+Solucion arcoiris
+Dummy 112
+Dummy 113
+Dummy 114
+Dummy 115
+Dummy 116
+Dummy 117
+Dummy 118
+Dummy 119
+Dummy 120
+Dummy 121
+Dummy 122
+Dummy 123
+Dummy 124
+Dummy 125
+Dummy 126
+Dummy 127

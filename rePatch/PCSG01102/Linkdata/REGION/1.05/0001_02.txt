@@ -1,0 +1,220 @@
+﻿Invitar a [0:CHARA_G] a una mision de exploracion?
+Dar un regalo a [0:CHARA_G]?
+Se eliminara a [0:CHARA_G] del grupo. Quieres continuar?
+Eliminar a [0:CHARA_G] del grupo?
+Estas a punto de sugerir [0:CORPS_MNG]. Quieres continuar?
+Estas a punto de construir [0:FACILITY_BF]. Quieres continuar?
+Estas a punto de reforzar [0:FACILITY_BF]. Quieres continuar?
+Ya hiciste eso.
+Ya no se puede reforzar [0:FACILITY_BF] mas.
+Cuantas alas de la libertad quieres utilizar?
+Con quien te gustaria realizar un entrenamiento conjunto?
+Estas a punto de empezar [0:TRAINING]. Quieres continuar?
+Ya has llegado al limite del [0:TRAINING]. Quieres continuar?
+Estas a punto de empezar [0:EXPERIMENT]. Quieres continuar?
+El titan parece emocionado.
+No parece que el humor del titan haya cambiado.
+El titan no parece tener interes.
+Dejar a este titan en la sala de investigacion?
+Se agrego [0:CHARA_G] al diario del Cuerpo.
+No tienes suficientes alas de la libertad.
+No se ha colocado ningun titan aqui.
+No tienes suficientes puntos de habilidad.
+Esta habilidad ya se equipo.
+Las habilidades diarias no se pueden eliminar.
+Ya no puedes comprar mas.
+Te falta el oro necesario.
+No se ha seleccionado ninguna base de refuerzo.
+No se ha seleccionado ningun material de refuerzo.
+No se puede vender este objeto.
+Estas a punto de comprar [0:GIFT]. Quieres continuar?
+Estas a punto de vender [0:GIFT]. Quieres continuar?
+Estas a punto de comprar [0:MATERIAL]. Quieres continuar?
+Estas a punto de vender [0:MATERIAL]. Quieres continuar?
+Volver a la vida diaria en el pasado?
+Volver al dia de hoy en el campo de batalla?
+Para misiones importantes no te puedes movilizar entre recuerdos a vida diaria.
+No tienes regalos.
+Se desactivara el autoguardado hasta que la partida se guarde manualmente. Empezar el juego sin guardar de todas formas?
+Quieres continuar sin guardar?
+No se ha podido cargar.
+Quieres continuar sin cargar?
+Otro usuario creo esta partida guardada. Si continuas tu partida desde aqui, no podras adquirir mas trofeos.
+Se desactivara el autoguardado hasta que la partida se guarde manualmente. Empezar el juego sin guardar de todas formas?
+Se desactivara el autoguardado hasta que la partida se cargue manualmente. Empezar el juego sin cargar de todas formas?
+Otro usuario creo esta partida guardada. Si continuas tu partida desde aqui, no podras adquirir mas trofeos.
+Crear una nueva partida guardada sin cargar?
+Guardar?
+Crear nuevo guardado?
+Cargar?
+Guardada.
+No se pudo guardar.
+Cargada.
+La partida guardada esta danada.
+No se pudo comprobar las partidas guardadas.
+Instalando A.O.T. 2.
+No hay informacion de partidas guardadas para A.O.T. 2. Quieres crear una nueva partida guardada?
+No hay informacion de partidas guardadas para A.O.T. 2.
+Instalando Attack on Titan 2.
+No hay informacion de partidas guardadas para Attack on Titan 2. Quieres crear una nueva partida guardada?
+No hay informacion de partidas guardadas para Attack on Titan 2.
+Estas a punto de conseguir [0:WEAPON]. Quieres continuar?
+Estas a punto de conseguir [0:SCATTER]. Quieres continuar?
+Estas a punto de conseguir [0:ODMGEAR]. Quieres continuar?
+Estas a punto de conseguir [0:WEAPON]. Quieres continuar?
+Estas a punto de vender [0:SCATTER]. Quieres continuar?
+Estas a punto de vender [0:ODMGEAR]. Quieres continuar?
+Estas a punto de mejorar [0:WEAPON]. Quieres continuar?
+Estas a punto de mejorar [0:SCATTER]. Quieres continuar?
+Estas a punto de mejorar [0:ODMGEAR]. Quieres continuar?
+Estas a punto de reforzar [0:WEAPON]. Quieres continuar?
+Estas a punto de reforzar [0:SCATTER]. Quieres continuar?
+Estas a punto de reforzar [0:ODMGEAR]. Quieres continuar?
+Equipar [0:WEAPON]?
+Equipar [0:SCATTER]?
+Equipar [0:ODMGEAR]?
+Te faltan los materiales necesarios.
+Los objetos equipados no se pueden vender.
+Estas a punto de conseguir [0:WARHORSE]. Quieres continuar?
+Estas a punto de vender [0:WARHORSE]. Quieres continuar?
+Equipar [0:WARHORSE]?
+[0:MATERIAL] conseguido.
+Esto detendra la batalla y te hara volver al campamento. Quieres continuar?
+Estas seguro de que quieres volver al menu principal?
+La sesion actual de reclutamiento de desarrollo conjunto sera cancelada. Quieres continuar?
+Completaste un desarrollo conjunto con %s. Obtuviste [%s].
+Estas a punto de utilizar estos valores predeterminados. Quieres continuar?
+Volver a empezar la seleccion desde el principio?
+Estas a punto de finalizar tus cambios. Quieres continuar?
+Estas a punto de guardar este personaje. Quieres continuar?
+Estar a punto de cancelar la edicion. Quieres continuar?
+No disponible en la version beta.
+Un objeto se dejo en blanco.
+Elegir entre los objetos predeterminados?
+Volver al editor?
+Ahora puedes empezar [0:CORPS_MNG].
+Ahora puedes ir a [0:WARP_POINT].
+Ahora puedes empezar [0:EXPERIMENT].
+Ahora puedes utilizar [0:GESTURE].
+Esto finalizara la creacion del personaje y pasara a la siguiente fase. Quieres continuar? Si quieres seguir editando, selecciona [g]NO[/]. Tambien puedes realizar cambios mas tarde.
+Crear una nueva partida guardada y empezar el juego desde el principio? [r]*Los datos no guardados se perderan.[/]
+Estas a punto de embarcarte en esta mision de exploracion. Quieres continuar?
+Estas a punto de reclutar para mejorar [0:WEAPON]. Quieres continuar?
+Estas a punto de reclutar para mejorar [0:SCATTER]. Quieres continuar?
+Estas a punto de reclutar para mejorar [0:ODMGEAR]. Quieres continuar?
+Desarrollo conjunto completado.
+Debes conectarte en linea para lanzar una llamada de emergencia. Quieres conectarte ahora?
+Realizaste una llamada de emergencia. Si continuas, se cancelara la solicitud. Quieres continuar?
+Alguien respondio tu llamada de emergencia! Quieres aceptarla? *Si rechazas la proposicion, se cancelara la llamada de emergencia.
+Necesitas 1 [0:MATERIAL] para reforzar este equipo por encima de su limite normal. (Actualmente tienes: %d)
+Usa 1 [0:MATERIAL] para reforzar este equipo por encima de su limite normal. (Actualmente tienes: %d) Quieres reforzar el equipo?
+Ya puedes reforzar tu [0:WEAPON] por encima de sus limites normales!
+Ya puedes reforzar tu [0:SCATTER] por encima de sus limites normales!
+Ya puedes reforzar tu [0:ODMGEAR] por encima de sus limites normales!
+Este equipo no se puede reforzar mas.
+Todos los titanes [0:TITAN_BIG_CATEGORY]/[0:TITAN_SMALL_CATEGORY] capturados! Ganaste una recompensa especial. Recursos del regimiento: %d
+Aprendiste la habilidad <<[0:SKILL]>> tras subir de nivel la sala de investigacion de titanes!
+Ya puedes llevar y utilizar "[0:ITEM]" tras subir de nivel la sala de investigacion de titanes!
+Estas a punto de usar una de las alas de la libertad para iniciar una investigacion. Quieres continuar?
+Para participar en esta batalla, tienes que equiparte con [g]gas[/] y [g]cuchillas[/].
+Para participar en esta batalla, tienes que equiparte con un [g]objeto curativo[/].
+Para participar en esta batalla, tienes que equiparte con un [g]arma de contencion[/].
+Quieres cambiar el atuendo de [0:CHARA_G]?
+Este es el atuendo actual.
+Desbloqueaste %u.
+No tienes los materiales necesarios. Quieres obtener los materiales necesarios en la tienda de materiales antes de continuar? Costo total: %d
+Efecto de conjunto de equipo activado! "[0:SKILL]"
+Efectos de conjunto de equipo activados! "[0:SKILL]" "[1:SKILL]"
+Abandonaras la sesion. Quieres continuar?
+Quieres volver a empezar desde el ultimo punto de control?
+Quieres reducir el nivel de dificultad de esta batalla unicamente y volver a empezar desde el ultimo punto de control?
+Quieres volver a empezar la batalla desde el principio?
+Esto detendra la batalla y volveras al campamento. Quieres continuar?
+Esto detendra la batalla y volveras al menu principal. Quieres continuar?
+Estas a punto de volver a la vida diaria. Quieres continuar?
+No eres lo bastante popular.
+Aun no has capturado a este titan.
+Te invitaron a jugar. Quieres aceptar?
+Se aceptara la invitacion cuando los resultados de batalla esten completos.
+Iniciando los preparativos para unirse a la sesion.
+No pudiste unirte a la sesion porque no hay datos guardados de Attack on Titan 2.
+Accediendo a la pantalla de seleccion de personaje antes de unirte a la sesion.
+Seguro que no quieres unirte a la sesion?
+Omitir?
+No se puede eliminar el efecto de conjunto de equipo.
+Agotado en este momento.
+Ya puedes usar a [0:CHARA_G] en Otro modo.
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y desarrollar "[0:WEAPON]"? Costo total: %d
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y desarrollar "[0:SCATTER]"? Costo total: %d
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y desarrollar "[0:ODMGEAR]"? Costo total: %d
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y mejorar "[0:WEAPON]"? Costo total: %d
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y mejorar "[0:SCATTER]"? Costo total: %d
+No tienes los materiales necesarios.Quieres obtener los materiales necesarios de la tienda de materiales y mejorar "[0:ODMGEAR]"? Costo total: %d
+No puedes obtener todo el equipo porque tu inventario esta lleno.
+Ahora puedes cubrir una zona mas amplia al explorar tras haber superado la mision de exploracion.
+Se vendieron los materiales que no pudiste obtener debido a que tu inventario esta lleno.
+No se puede desarrollar mas.
+No se encontraron jugadores! Abandonaras la sesion.
+Actualiza la aplicacion para poder usar funciones en linea.
+Ocurrio un error de comunicacion.
+Se detecto un personaje que necesita contenido descargable para poder instalarse. Se eliminara el escenario elegido.
+Comunicando...
+No pudiste unirte a la sesion porque no se cumplen las condiciones de juego o no se ha completado el episodio.
+No pudiste unirte a la sesion a la que te habian invitado.
+No hay espacios disponibles. No pudiste unirte a la sesion.
+Si te unes a la sesion, se borraran los datos en curso. Quieres continuar?
+Se perdio la conexion de red.
+Se perdio la conexion con la sesion.
+Se perdio la conexion con el anfitrion.
+%s salio de la sesion.
+%s no pudo unirse a la sesion porque no se cumplen las condiciones de juego o no se ha completado el episodio.
+No se pudo encontrar ninguna sesion.
+No se pudo realizar el registro en la clasificacion.
+No se pudo conectar a la sesion.
+Comprobando contenido descargado...
+DUMMY_ESP
+Ya puedes construir: [0:FACILITY_BF].
+Incluso tras completar el juego, puedes seguir disfrutando del modo Historia. Se anadio contenido nuevo exclusivo por superar el juego.
+Se desbloqueo el modo Infernal! En este modo, tendras que enfrentarte a un mundo despiadado. Preparate bien para este reto en el modo Historia antes de enfrentarte a el!
+Instalando. Podras seguir jugando cuando la instalacion haya terminado.
+Instalando. Podras seleccionar este modo cuando la instalacion haya terminado.
+Instalando. Podras unirte a la sesion cuando la instalacion haya terminado.
+[0:CHARA_G] ya puede usar la habilidad "[0:SKILL]".
+Usar estos materiales como refuerzo no servira para aumentar la fuerza del objeto.
+Se desbloqueo Otro modo en el menu principal.
+Es mas facil progresar en el juego con el nivel de dificultad [g]"facil"[/]. Quieres seleccionar la dificultad [g]"facil"[/]? (Puedes modificar este ajuste en cualquier momento desde "Ajustes del juego" en "Opciones").
+El juego es compatible con la funcion de [g]vibracion[/] del control. Quieres activar la funcion de [g]vibracion[/]? (Puedes modificar este ajuste en cualquier momento desde "Ajustes del juego" en "Opciones").
+El juego contiene imagenes con sangre y violencia. Puedes restringir este ajuste seleccionando el nivel de sangre [g]"Desactivado".[/] Quieres seleccionar el nivel de sangre [g]"Desactivado"[/] antes de jugar? (Puedes modificar este ajuste en cualquier momento desde "Ajustes del juego" en "Opciones").
+Ahora puedes usar mas equipo en la estacion de suministro de equipo!
+[0:CHARA_G] ahora puede aparecer en la vida diaria del modo Historia.
+[0:CHARA_G] ahora puede aparecer en la vida diaria del modo Infernal.
+Estas a punto de embarcarte en esta mision. Quieres continuar?
+Ya puedes llevar y usar "[0:ITEM]".
+Esperando respuesta del anfitrion...
+Mision de exploracion completa.La sesion finalizara.
+Sincronizando...
+Un jugador invitado esta en mitad de una escena de evento.Omitir el evento?
+Buscando jugadores de apoyo...
+Se perdio con la conexion con los jugadores del grupo de rescate.
+No se pudo obtener la clasificacion.
+Saliste de la sesion.
+Realizando el registro en la clasificacion...
+No tienes los materiales necesarios.Todo lo necesario esta disponible en la tienda de materiales,pero no dispones de fondos suficientes.
+No tienes los materiales necesarios.Ninguno de los materiales necesarios esta disponible en la tienda de materiales.
+No tienes los materiales necesarios.No todos los materiales necesarios estan disponibles en la tienda de materiales.Quieres comprar los que si lo estan? Costo: %d
+No tienes los materiales necesarios.No todos los materiales necesarios estan disponibles en la tienda de materiales.Ademas,no dispones de fondos suficientes para obtener los que si lo estan.
+Estas por cambiar la resolucion? Continuar?
+Se encontraron datos de "Attack on Titan" guardados.Conseguiste la siguiente bonificacion por tener datos del juego anterior guardados: [g]Recursos del regimiento: 50 000[/]
+No pudiste unirte a la sesion porque aun no desbloqueaste Otro modo.
+Iniciando los preparativos para comenzar la sesion.
+No se pudo iniciar sesion porque no has desbloqueado Otro modo.
+Continuando a la pantalla de seleccion de personaje para iniciar sesion.
+Instalando. Podras unirte a la sesion cuando la instalacion haya terminado.
+Seguro que no quieres iniciar la sesion?
+No pudiste unirte a la sesion porque no hay datos guardados de A.O.T. 2..
+Se encontraron datos de "A.O.T. Wings of Freedom" guardados.Conseguiste la siguiente bonificacion por tener datos del juego anterior guardados: [g]Recursos del regimiento: 50 000[/]
+Fallo en las preparaciones para comenzar la batalla.
+No pudiste unirte a la sesion debido a que las invitaciones de desarrollo conjunto no estan disponibles.
+No pudiste unirte a la sesion debido a que las invitaciones de asistencia del Modo Historia no estan disponibles.
+Quieres hacer el despliegue con estos miembros?
+Estas a punto de cancelar el informe de investigacion biologica de titanes. Quieres continuar?

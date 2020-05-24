@@ -1,0 +1,119 @@
+﻿Plaza
+Plaza norte
+Plaza sur
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+Plaza
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Tienda del regimiento
+Oficina de soldados
+Cuartel
+Cuartel
+Habitacion privada
+Comedor
+Taller
+Almacen
+Sala de estrategias
+Sala de oficiales
+Recamara del comandante
+Oficina
+Habitacion privada
+Interior del comedor
+Zona de entrenamiento
+Zona de entrenamiento
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Sala de investigacion de titanes
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Viejo cuartel gral. del Cuerpo de exploracion
+Viejo cuartel gral. del Cuerpo de exploracion
+Int. del viejo cuartel gral. del Cuerpo de exploracion
+DUMMY_ESP
+DUMMY_ESP
+Distrito de Trost
+Plaza central
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Calle principal
+Calle principal
+Calle principal
+Calle principal
+Calle principal
+Callejon trasero
+Callejon trasero
+Callejon trasero
+DUMMY_ESP
+DUMMY_ESP
+Residencia privada
+Tienda grande
+Sala de asambleas
+Instalaciones de la Tropa de guarnicion
+Instalaciones de la Tropa de guarnicion
+Oficina de la Tropa de guarnicion
+Tienda del callejon trasero
+Instalaciones de la Orden de los Muros
+DUMMY_ESP
+DUMMY_ESP
+Distrito de Stohess
+Plaza central
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Plaza central
+Plaza central
+Plaza central
+Plaza central
+DUMMY_ESP
+Residencia privada
+Tienda
+Empresa de periodicos
+Instalaciones de la Policia militar
+Instalaciones de la Policia militar
+Oficina de la Policia militar
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Aldea agricola
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Castillo Utgard
+DUMMY_ESP
+DUMMY_ESP
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Salida de la sala en linea
+Base de suministros
+Sala en linea
+Sala en linea
+Sala en linea
+Sala en linea
+Salida de la sala en linea
+Base de suministros
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

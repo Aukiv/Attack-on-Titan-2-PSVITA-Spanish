@@ -1,0 +1,129 @@
+﻿Introduccion proactiva 1
+Introduccion proactiva 2
+Introduccion a la eliminacion de enemigo fuerte 1
+Introduccion a la eliminacion de enemigo fuerte 2
+Encuentro con enemigo fuerte
+Encuentro con excentrico
+Respuesta a senal de humo de batalla dura
+Respuesta a senal de humo critica
+Agradecimientos generales
+Agradecimientos generales (Oficial superior)
+Agradecimientos generales (Jugador) 1
+Agradecimientos generales (Jugador) 2
+Agradecimientos generales (Jugador) 3
+Respuesta a agradecimientos generales
+Respuesta a agradecimientos generales (Oficial superior)
+Agradecimiento por relacion especial 1
+Agradecimiento por relacion especial 2
+Agradecimiento por relacion especial 3
+Agradecimiento por relacion especial 4
+Agradecimiento por relacion especial 5
+Agradecimiento por relacion especial 1
+Agradecimiento por relacion especial 2
+Agradecimiento por relacion especial 3
+Agradecimiento por relacion especial 4
+Agradecimiento por relacion especial 5
+Elogio general
+Elogio general (Oficial superior)
+Elogio general (Jugador) 1
+Elogio general (Jugador) 2
+Elogio general (Jugador) 3
+Elogio por relacion especial 1
+Elogio por relacion especial 2
+Elogio por relacion especial 3
+Elogio por relacion especial 4
+Elogio por relacion especial 5
+Elogio por eliminacion de enemigo fuerte
+Elogio por eliminacion de enemigo fuerte (Oficial superior)
+Elogio por eliminacion de enemigo fuerte (Jugador) 1
+Elogio por eliminacion de enemigo fuerte (Jugador) 2
+Elogio por eliminacion de enemigo fuerte (Jugador) 3
+Lamento por batalla dura
+Lamento por batalla dura (oficial superior)
+Respuesta por batalla dura
+Respuesta por batalla dura (Oficial superior)
+Lamento critico
+Lamento critico (Oficial superior)
+Respuesta critica
+Respuesta critica (Oficial superior)
+Reunion
+Reunion (Oficial superior)
+Respuesta a reunion
+Respuesta a reunion (Oficial superior)
+Retirada (Derrota)
+Retirada (Planeada)
+Llegada (Refuerzos) 1
+Llegada (Refuerzos) 2
+Inicio de batalla general
+Inicio de batalla general junto a aliados (Fanfarria)
+Inicio de batalla general junto a aliados (Aprieto)
+Inicio de batalla general junto a aliados (Operacion de rescate)
+Inicio de batalla general junto a aliados (Persecucion)
+Inicio de batalla general junto a aliados (Defensa)
+Inicio de batalla general junto a aliados (Retirada)
+Inicio de batalla general junto a aliados (Enfrentamiento)
+Inicio de batalla general junto a aliados (Contrarreloj)
+Respuesta de aliados
+Respuesta de aliados (oficial superior)
+Victoria
+Victoria (Defensa completa)
+Victoria (Retirada completa)
+Victoria (No concluyente)
+Victoria (Concluyente)
+Fin de la partida (Fallo tactico)
+Fin de la partida (Derrota)
+Ventaja tactica
+Desventaja tactica
+Implementacion de la estrategia
+Iniciar el avance
+Iniciar operaciones de apoyo
+Iniciar rescate
+Iniciar defensa
+Iniciar operacion de reunion
+Orden de avanzar
+Orden de operaciones de apoyo
+Orden de rescate
+Orden de defender
+Estrategia exitosa
+Estrategia fracasada
+Implementacion de la estrategia
+Animar
+Desmotivarse
+Idea unica 1
+Idea unica 2
+Idea unica 3
+Idea unica 4
+Idea unica 5
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

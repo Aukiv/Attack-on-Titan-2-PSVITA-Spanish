@@ -1,0 +1,11 @@
+﻿Recursos del regimiento adquiridos: 10 000
+Aumento de puntos de habilidad en 1.
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

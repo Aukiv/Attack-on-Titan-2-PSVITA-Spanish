@@ -1,0 +1,170 @@
+﻿Este juego guarda los datos automaticamente. No cierres el juego ni apagues la consola mientras se guarda la partida.
+Esc
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-
+=
+Retroceso
+Tab
+Q
+W
+E
+R
+T
+Y
+U
+I
+O
+P
+[
+]
+Intro
+Ctrl Izq
+A
+S
+D
+F
+G
+H
+J
+K
+L
+;
+`
+`
+Mayus Izq
+\
+Z
+X
+C
+V
+B
+N
+M
+,
+.
+/
+Mayus Dcho
+Teclado Num: *
+Alt Dcho
+Espacio
+Bloq Mayus
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+Bloq Num
+Bloq Despl
+Teclado Num: 7
+Teclado Num: 8
+Teclado Num: 9
+Teclado Num: -
+Teclado Num: 4
+Teclado Num: 5
+Teclado Num: 6
+Teclado Num: +
+Teclado Num: 1
+Teclado Num: 2
+Teclado Num: 3
+Teclado Num: 0
+Teclado Num: .
+OEM 102
+F11
+F12
+F13
+F14
+F15
+Kana
+ABNT_C1
+Cambio
+Sin cambio
+¥
+^
+@
+:
+Teclado Num: Intro
+Ctrl Dcho
+Teclado Num: /
+Impr pant
+Alt Dcho
+Pausa/Inter
+Inicio
+↑
+Re Pag
+←
+→
+Fin
+↓
+Av Pag
+Insert
+Supr
+Win Izq
+Win Dcho
+Tecla Menu
+Accion
+Accion (titan)
+Teclado
+Mando
+Selecciona la accion deseada para cambiar los ajustes.
+Presiona la tecla o boton que quieres asignar.
+No se puede usar esa tecla o boton.
+No se puede cambiar la accion en el control.
+Muestra la pantalla de informacion
+Patada/Gesto
+Avanzar
+Retroceder
+Mover a la izquierda
+Mover a la derecha
+Camara hacia arriba
+Camara hacia abajo
+Camara a la izquierda
+Camara a la derecha
+Usar objeto 1
+Usar objeto 2
+Usar objeto 3
+Usar objeto 4
+Ataque normal
+Ataque potente
+Rabia
+Esquivar y saltar
+Fijar y liberar
+Guardar?
+Cargar?
+Guardado.
+Cargada.
+No existe ninguna partida guardada.
+No se pudo guardar la partida.No tienes espacio suficiente en el disco duro. Necesitas al menos %d KB de espacio adicional para guardar tu progreso.
+Quieres conectarte a la tienda?
+No se pudo abrir el cuadro de dialogo de invitacion. Asegurate de que la interfaz de Steam este en funcionamiento.
+No se ha podido acceder al chat debido a la configuracion restringida de tu cuenta.
+Se perdio la conexion con el jugador.
+Conectate a la red.
+Te desconectaste.\n\nDebes conectarte a Internet para acceder a las funciones en linea.
+No se puede acceder a los servicios en linea debido a la configuracion del modo familiar de tu cuenta.
+DUMMY_ESP
+No puedes conectarte en linea porque Steam esta funcionando en modo sin conexion.
+Cuenta de usuario
+Clic izquierdo
+Clic derecho
+Clic en la rueda de desplazamiento
+Cambiar parte del cuerpo
+Desplazarse hacia arriba
+Desplazarse hacia abajo
+Cambiar mapa
+Metodo de entrada preferido
+Raton y teclado
+Mando

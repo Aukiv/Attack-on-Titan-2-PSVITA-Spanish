@@ -1,0 +1,51 @@
+﻿Todas las excursiones fuera de los muros son peligrosas, podrias morir! Completa tu mision junto con los soldados expertos del Cuerpo de exploracion!
+Necesitaremos una base para reabastecernos si queremos recuperar el muro Maria. Elimina a los Titanes de las ciudades y pueblos en ruinas, y asegura el terrero para nuestra base!
+Varios titanes estan atacando una ciudad en el frente! unete al Cuerpo de exploracion y a la Tropa de guarnicion para pelear contra los Titanes!
+Los nuevos cadetes de la 104 ya cuentan con experiencia en combate contra los Titanes, pero ahora les han asignado una mision de reconocimiento mas alla de los muros.
+Se informo que aparecieron varios titanes de repente en el interior! La Policia militar y la Tropa de guarnicion se dirigen hacia alli para salvar la ciudad!
+El Cuerpo de exploracion ha recibido ordenes de llevar a cabo una expedicion a gran escala mas alla de los muros! Supera todas las misiones de gran dificultad que te esperan y regresa con vida!
+El Cuerpo de exploracion avisto una senal de auxilio, asi que organizo una partida de rescate y se dirige al exterior. Rescata al escuadron atrapado y ayudalos a retirarse!
+Han vuelto a ver Titanes en el interior! unete a la Policia militar y a la Tropa de guarnicion para pelear contra los Titanes!
+El Cuerpo de exploracion ha recibido ordenes de llevar a cabo una expedicion a gran escala mas alla de los muros! Supera todas las misiones de gran dificultad que te esperan y regresa con vida!
+Se formo un nuevo escuadron bajo las ordenes de la comandante Hange para atacar y capturar titanes. Hange estaba segura de haber reclutado soldados sensatos, pero...
+Te ordenaron expandir el alcance de la base de suministros. Los mejores soldados del escuadron estaran a cargo.
+El Cuerpo de exploracion recibio ordenes de llevar a cabo una tercera expedicion a gran escala mas alla de los muros! Supera todas las misiones de gran dificultad que te esperan y vuelve con vida!
+Tus companeros estan siendo atacados por incontables Titanes! Reune a tus aliados y ayudalos a superar esta situacion mortifera!
+Los informes dicen que aparecieron titanes en el distrito residencial donde viven los aldeanos! Quiza tengas miedo, pero aun eres un soldado! Supera tus miedos y lucha!
+La Tropa de guarnicion recibio ordenes de defender a los civiles de los Titanes. La lucha de la Tropa de guarnicion no terminara hasta que los titanes dejen de amenazar la seguridad de la humanidad.
+Atacan el interior! Trabaja con la Policia militar para echarlos fuera.
+Aparecieron incontables Titanes en la linea base del frente! Y puede que no sean los que te esperas.
+Hay soldados que destacan incluso entre los mas duros. Lucha a su lado y completa estas misiones brutales!
+Un escuadron de exploradores dirigido por Levi fue a explorar unas ruinas. Una avalancha de titanes enfurecidos los esperaba alli.
+Un numero nunca antes visto de titanes ha invadido la zona alrededor del distrito de Shiganshina! Lucha con todas tus fuerzas para salvar a la humanidad!
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

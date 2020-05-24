@@ -1,0 +1,268 @@
+﻿[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Volver a la configuracion predeterminada [$PAD_CANCEL]Atras
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_SELECT]Rotar mapa [$PAD_RL]Historial de batallas [$PAD_RU]Notificaciones [$PAD_CANCEL]Atras
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_SELECT]Bloquear mapa [$PAD_RL]Historial de batallas [$PAD_RU]Notificaciones [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Rotar mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Bloquear mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Rotar mapa [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Bloquear mapa [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Rotar mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Bloquear mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Rotar mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Mover
+[$PAD_CURSOR_UD]Seleccionar [$PAD_SELECT]Bloquear mapa [$PAD_CANCEL]Atras [$PAD_DECIDE]Mover
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Cambiar de objeto [$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Seleccionar/Quitar habilidad
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Ordenar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Activar/Desactivar chat de voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Salir
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Pagina siguiente
+[$PAD_CANCEL]Pagina anterior [$PAD_DECIDE]Pagina siguiente
+[$PAD_CANCEL]Pagina anterior [$PAD_DECIDE]Salir
+[$PAD_DECIDE]Salir
+[$PAD_DECIDE]Pagina siguiente
+[$PAD_CANCEL]Pagina anterior [$PAD_DECIDE]Pagina siguiente
+[$PAD_CANCEL]Pagina anterior [$PAD_DECIDE]Salir
+[$PAD_SELECT]Consejos y trucos
+[$PAD_RU]Disparar [$PAD_L3][$PAD_R3]Mover mirilla [$PAD_RR]Bajar (mantener)
+[$PAD_RD]Galopar [$PAD_RR]Bajar (mantener)
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Volver a la configuracion predeterminada [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Volver a la configuracion predeterminada [$PAD_CANCEL]Atras [$PAD_RL]Cambiar resolucion
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_LR]Pagina siguiente/anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_DECIDE]Pagina siguiente
+[$PAD_CURSOR_UD]Seleccionar [$PAD_DECIDE]Pagina siguiente
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_DECIDE]Pagina siguiente
+[$PAD_DECIDE]Cerrar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_DECIDE]Atras
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_DECIDE]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_CANCEL]Atras [$PAD_DECIDE]Reproducir
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_CANCEL]Atras [$PAD_DECIDE]Reproducir [$PAD_RL]Pausa
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_R3]Rotar modelo [$PAD_RU]Cambiar vestuario [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Reproducir voz
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_RU]Ver detalles [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Activar/Desactivar chat de voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_DECIDE]Aceptar
+[$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Descargar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Cargar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Volver a la configuracion predeterminada [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_RL]Atacar [$PAD_RU]Ataque de poder [$PAD_RD]Esquivar/Saltar [$PAD_RR]Ataque furioso
+[$PAD_R1]Acelerar [$PAD_START]Menu de pausa
+[$PAD_DECIDE]Hablar
+[$PAD_DECIDE]Hablar [$PAD_RU]Invitar a mision
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Tu rango [$PAD_CANCEL]Atras [$PAD_DECIDE]Informacion de usuario
+[$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_RU]Activar/desactivar chat de voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1]Llamada de emergencia
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_DECIDE]Salir
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_DECIDE]Terminar
+[$PAD_R2]Iniciar reproduccion automatica [$PAD_DECIDE]Siguiente
+[$PAD_R2]Detener reproduccion automatica [$PAD_DECIDE]Siguiente
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_RU]Invitar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_CANCEL]Atras
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Informacion de usuario
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_RL]gamercard [$PAD_DECIDE]Informacion de usuario
+[$PAD_DECIDE]Hablar [$PAD_RL]Dar regalo
+[$PAD_DECIDE]Hablar [$PAD_CANCEL]Cambiar vestuario
+[$PAD_DECIDE]Hablar [$PAD_RU]Invitar a mision [$PAD_RL]Dar regalo
+[$PAD_DECIDE]Hablar [$PAD_RU]Invitar a mision [$PAD_CANCEL]Cambiar vestuario
+[$PAD_DECIDE]Hablar [$PAD_RL]Dar regalo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_DECIDE]Hablar [$PAD_RU]Invitar a mision [$PAD_RL]Dar regalo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Descargar
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Cargar
+[$PAD_CURSOR_LR]Pagina siguiente
+[$PAD_CURSOR_LR]Pagina siguiente [$PAD_DECIDE]Siguiente
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RL]Cancelar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_SELECT]Posicion por defecto [$PAD_R3]Mover camara [$PAD_CURSOR_LR]Cambiar de pagina [$PAD_RU]Acercar vista [$PAD_RL]Alejar vista [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_RU]Notificaciones [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_DECIDE]Reproducir voz [$PAD_RU]Notificaciones [$PAD_CANCEL]Atras
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_R1]Acelerar [$PAD_START]Menu de pausa [$PAD_RL]Diario de explorador
+[$PAD_L1]Llamada de emergencia [$PAD_R1]Acelerar [$PAD_START]Menu de pausa [$PAD_RL]Diario de explorador
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_RL]Historial de batallas [$PAD_CANCEL]Atras
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_L]Pagina anterior [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al indice
+[$PAD_L1][$PAD_R1]Cambiar de objeto [$PAD_CURSOR_ALL]Seleccionar [$PAD_CURSOR_L]Pagina anterior [$PAD_CURSOR_R]Pagina siguiente [$PAD_RL]Cerrar [$PAD_CANCEL]Volver al principio [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Tu rango [$PAD_CANCEL]Atras [$PAD_RL]gamercard [$PAD_DECIDE]Informacion de usuario
+[$PAD_CANCEL]Atras [$PAD_RL]gamercard
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Volver a empezar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Volver a empezar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restablecer [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Volver al editor [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Volver al editor [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_RL]Atras [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_CURSOR_ALL]Seleccionar [$PAD_DECIDE]Aceptar [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_CURSOR_ALL]Seleccionar [$PAD_DECIDE]Aceptar [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_R3]Rotar modelo [$PAD_CURSOR_ALL]Seleccionar [$PAD_DECIDE]Aceptar [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_CURSOR_LR]Ajustar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras [$PAD_CURSOR_LR]Ajustar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Ajustar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Ajustar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_R3]Rotar modelo [$PAD_CANCEL]Cancelar [$PAD_CURSOR_LR]Seleccionar [$PAD_START]Terminar
+[$PAD_CURSOR_LR]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Volver al editor [$PAD_CANCEL]Cancelar [$PAD_DECIDE]Editar [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_UD]Cambiar de objeto [$PAD_CURSOR_LR]Ajustar [$PAD_R3]Rotar modelo [$PAD_RU]Reproducir voz [$PAD_CANCEL]Atras [$PAD_START]Terminar
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Restablecer [$PAD_CANCEL]Atras [$PAD_SELECT]Editar perfil
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_RU]Volver a empezar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_SELECT]Editar perfil
+[$PAD_CURSOR_UD]Seleccionar [$PAD_L2][$PAD_R2]Desplazarse [$PAD_R3]Rotar modelo [$PAD_CANCEL]Atras
+[$PAD_CURSOR_ALL]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_CURSOR_UD]Seleccionar [$PAD_R3]Rotar modelo [$PAD_RL]Restaurar predeterminado [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar [$PAD_START]Finalizar
+[$PAD_DECIDE]Hablar [$PAD_RU]Eliminar del grupo [$PAD_RL]Dar regalo
+[$PAD_DECIDE]Hablar [$PAD_RU]Eliminar del grupo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_DECIDE]Hablar [$PAD_RU]Eliminar del grupo
+[$PAD_DECIDE]Hablar [$PAD_RU]Eliminar del grupo [$PAD_RL]Dar regalo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_RU]Eliminar del grupo [$PAD_RL]Dar regalo
+[$PAD_RU]Eliminar del grupo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_RU]Eliminar del grupo
+[$PAD_RU]Eliminar del grupo [$PAD_RL]Dar regalo [$PAD_CANCEL]Cambiar vestuario
+[$PAD_CURSOR_LR]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Comprobar habilidad equipada [$PAD_CANCEL]Atras [$PAD_DECIDE]Equipar/Eliminar habilidad
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Atras [$PAD_DECIDE]Eliminar habilidad
+[$PAD_DECIDE]Editor de personajes
+[$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Aceptar
+[$PAD_L2][$PAD_R2]Desplazarse
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Activar/Desactivar chat de voz [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_CURSOR_UD]Seleccionar [$PAD_RU]Activar/Desactivar chat de voz [$PAD_CANCEL]Atras [$PAD_RL]gamercard [$PAD_DECIDE]Aceptar
+[$PAD_CANCEL]Atras [$PAD_DECIDE]Aceptar
+[$PAD_RU]Cambiar de informacion [$PAD_CANCEL]Atras
+[$PAD_RU]Invitar [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Esperando para unirse al equipo [$PAD_RU]Invitar [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Esperando para unirse al equipo [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Esperando para unirse al equipo [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Seleccion de titan [$PAD_RU]Invitar [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Seleccion de titan [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Seleccion de titan [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Informacion de mision [$PAD_RU]Invitar [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Informacion de mision [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Informacion de mision [$PAD_L1]Desplegar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Esperando para unirse al equipo [$PAD_RU]Invitar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Esperando para unirse al equipo [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Seleccion de titan [$PAD_RU]Invitar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Seleccion de titan [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Informacion de mision [$PAD_RU]Invitar [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Informacion de mision [$PAD_L2]Informacion de usuario [$PAD_START]Salir
+[$PAD_RL]Depredacion [$PAD_RU]Ataque de poder [$PAD_RD]Saltar [$PAD_RR]Ataque furioso [$PAD_R1]Acelerar

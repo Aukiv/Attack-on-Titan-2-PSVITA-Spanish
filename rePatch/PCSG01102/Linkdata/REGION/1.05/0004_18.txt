@@ -1,0 +1,30 @@
+﻿Se colocaron varios munecos de titanes en la zona. Domina el ataque antes de avanzar al siguiente paso.
+Al acercarte al objetivo, aparecera una flecha amarilla. Usa [$PAD_R1] para fijarlo.
+Una vez fijado el objetivo, [$PAD_RU] iniciara las maniobras tridimensionales. Presiona [$PAD_RU] en el momento justo para atacar.
+Tras fijar el objetivo con [$PAD_R1], puedes usar [$FN_PARTS_CHANGE] para cambiar de parte del cuerpo.
+Ademas de la nuca, otras zonas otorgaran puntos, por ejemplo, las piernas. Destruye varias partes para acumular puntos.
+Luego de fijar objetivo con [$PAD_R1], puedes presionar [$PAD_CURSOR_ALL] mientras mantienes presionado [$PAD_L1] para dar ordenes de ataque. Si aparece un icono con una cara iluminado en la parte izquierda de la pantalla, significa que el aliado esta listo para atacar.
+Usa objetos con [$PAD_CURSOR_ALL]. Asegurate de recargar el gas y las cuchillas antes de que sea tarde.
+Construye una base o acercate a una existente y usa [$PAD_RU] para reabastecerte de gas y cuchillas. Si la base ya se agoto, puedes presionar [$PAD_RR] para reconstruirla. Esto te permitira volver a reabastecerte.
+La captura de titanes requiere utilizar un arma de contencion. Usa [$PAD_L2] para seleccionar el objeto y [$PAD_CURSOR_ALL] para usarlo.
+Con el objetivo fijado, usa [$PAD_R1] para disparar el arma de contencion.
+Tendras que lisiar las piernas de los titanes grandes y medianos primero. Debilita a la presa antes de intentar capturarla!
+Tras dar una orden, se iniciara un tiempo de recarga que no permitira dar mas durante un breve periodo.
+Desplazate con [$PAD_L3]. Presiona [$PAD_RL] y [$PAD_L3] al mismo tiempo para utilizar el equipo de maniobras tridimensionales.
+[$FN_MAP] activa el minimapa. Dirigete al punto con la senal de humo roja.
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

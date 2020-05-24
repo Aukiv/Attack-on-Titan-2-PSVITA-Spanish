@@ -1,0 +1,33 @@
+﻿Caballo con un pelaje marron. Es un medio de transporte esencial durante las expediciones.
+Caballo con un pelaje marron amarillento. Es mas rapido que un caballo bayo.
+Caballo con un pelaje marron oscuro. Tiene mas resistencia que un caballo bayo.
+Caballo con un pelaje gris. Tiene gran velocidad y resistencia.
+Caballo con el pelaje completamente negro. Es extremadamente rapido.
+Caballo con el pelaje completamente blanco. Es extremadamente resistente.
+Caballo con el pelaje dorado. Su bello pelaje y su rareza lo convierten en la raza favorita de la aristocracia.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

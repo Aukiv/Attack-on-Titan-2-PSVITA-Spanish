@@ -1,0 +1,109 @@
+﻿Ataque normal
+Ataque poderoso
+Elevacion 1
+Elevacion 2
+Provocacion
+Modo de batalla
+Desplazamiento
+Balancearse
+Salto aereo
+Destruccion de una parte del cuerpo
+Eliminacion de un Titan
+Ataque sorpresa
+Critico
+Contraataque
+Dano minimo
+Dano severo
+Vinculado
+Senal de auxilio
+Muerte
+Adquisicion de objeto 1
+Adquisicion de objeto 2
+Reabastecimiento de objeto
+Uso de objeto
+Construccion de base
+Peticion para liderar
+Orden para liderar
+Peticion de halagos
+Orden de halagos
+Peticion general
+Orden general
+Aprobacion 1
+Aprobacion 2
+Apoyo 1
+Apoyo 2
+Apoyo 3
+Apoyo 4
+Apoyo 5
+Gracias 1
+Gracias 2
+Afiliacion 1
+Afiliacion 2
+Afiliacion 3
+Afiliacion 4
+Afiliacion 5
+Unirse 1
+Unirse 2
+Rescate 1
+Rescate 2
+Puesta en marcha
+DUMMY_ESP
+Especial 1
+Especial 2
+Especial 3
+Especial 4
+Especial 5
+Especial 6
+Especial 7
+Especial 8
+Especial 9
+Especial 10
+Ataque de contencion 1 (Uso de Titan)
+Ataque de contencion 2 (Uso de Titan)
+Ataque de contencion 3 (Uso de Titan)
+Contencion exitosa 1 (Uso de Titan)
+Contencion exitosa 2 (Uso de Titan)
+Contencion exitosa 3 (Uso de Titan)
+Contencion fracasada 1 (Uso de Titan)
+Contencion fracasada 2 (Uso de Titan)
+Contencion fracasada 3 (Uso de Titan)
+Mordida 1 (Uso de Titan)
+Mordida 2 (Uso de Titan)
+Mordida 3 (Uso de Titan)
+Depredacion 1 (Uso de Titan)
+Depredacion 2 (Uso de Titan)
+Depredacion 3 (Uso de Titan)
+Reconocimiento 1 (Uso de Titan)
+Reconocimiento 2 (Uso de Titan)
+Reconocimiento 3 (Uso de Titan)
+Marchar 1 (Uso de Titan)
+Marchar 2 (Uso de Titan)
+Marchar 3 (Uso de Titan)
+Correr 1 (Uso de Titan)
+Correr 2 (Uso de Titan)
+Correr 3 (Uso de Titan)
+Enemigo avistado 1 (Uso de Titan)
+Enemigo avistado 2 (Uso de Titan)
+Enemigo avistado 3 (Uso de Titan)
+Perdida de contacto visual con el enemigo 1 (Uso de Titan)
+Perdida de contacto visual con el enemigo 2 (Uso de Titan)
+Perdida de contacto visual con el enemigo 3 (Uso de Titan)
+Confusion 1 (Uso de Titan)
+Confusion 2 (Uso de Titan)
+Confusion 3 (Uso de Titan)
+Herida 1 (Uso de Titan)
+Herida 2 (Uso de Titan)
+Herida 3 (Uso de Titan)
+Herida 4 (Uso de Titan)
+Herida 5 (Uso de Titan)
+Herida 6 (Uso de Titan)
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

@@ -1,0 +1,20 @@
+﻿Felicidad
+Esperanza
+Ira
+Pena
+Sorpresa
+Conmocion / Desesperacion
+Elogio / Apreciacion
+Sospecha
+Gracias
+Murmullo 1
+Murmullo 2
+Murmullo 3
+Murmullo 4
+Murmullo 5
+Murmullo 6
+Murmullo 7
+Murmullo 8
+Murmullo 9
+Respuesta
+Orden

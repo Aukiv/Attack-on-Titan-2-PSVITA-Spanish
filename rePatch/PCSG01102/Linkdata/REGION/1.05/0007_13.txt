@@ -1,0 +1,256 @@
+﻿Transformacion en titan
+Ataque en picada
+Corte giratorio
+Impacto multiple
+Las alas de la libertad
+Carrera multiple
+Intercambio de cuchillas en el aire
+Primeros auxilios en el aire
+Movimiento aereo
+Proteccion filosa
+Velocidad extrema
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Fuerza de voluntad
+Dilema
+Instinto de supervivencia
+Caridad de la diosa
+Sonrisa de la diosa
+Preparado para todo
+Bien preparado
+Atractivo
+Sigilo
+Maniobra secreta
+Maniobra secreta Nv. 2
+Maniobra secreta Nv. 3
+Muerte subita
+Muerte subita Nv. 2
+Muerte subita Nv. 3
+Duelista
+Duelista Nv. 2
+Duelista Nv. 3
+Ataque sorpresa
+Ataque sorpresa Nv. 2
+Ataque sorpresa Nv. 3
+Lazos fuertes
+La union hace la fuerza
+Formacion de asedio
+Tacticas naturales
+Manipulador
+Manipulador Nv. 2
+Manipulador Nv. 3
+Persecucion
+Persecucion Nv. 2
+Persecucion Nv. 3
+Batalla
+Devoto
+Fundamentos de la investigacion
+Corazon de la investigacion
+Maestro de los objetos
+Maestro de los objetos Nv. 2
+Maestro de los objetos Nv. 3
+Aumento de cola
+Facil de complacer
+Arte con cuchillas
+Arte con cuchillas unico
+Regreso del abismo
+Nunca digas muere
+Nunca digas muere Nv. 2
+Nunca digas muere Nv. 3
+Maniobras tridimensionales avanzadas
+Maniobras tridimensionales avanzadas Nv. 2
+Maniobras tridimensionales avanzadas Nv. 3
+Ahorro de gas
+Ahorro de gas Nv. 2
+Ahorro de gas Nv. 3
+Ahorro de cuchillas
+Ahorro de cuchillas Nv. 2
+Ahorro de cuchillas Nv. 3
+Cazatitanes
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
++3 de fuerza
++3 de fuerza
++3 de fuerza
++3 de fuerza
++3 de fuerza
++5 de fuerza
++5 de fuerza
++5 de fuerza
++5 de fuerza
++5 de fuerza
++10 de fuerza
++10 de fuerza
++3 de destreza
++3 de destreza
++3 de destreza
++3 de destreza
++3 de destreza
++5 de destreza
++5 de destreza
++5 de destreza
++5 de destreza
++5 de destreza
++10 de destreza
++10 de destreza
++3 de concentracion
++3 de concentracion
++3 de concentracion
++3 de concentracion
++3 de concentracion
++5 de concentracion
++5 de concentracion
++5 de concentracion
++5 de concentracion
++5 de concentracion
++10 de concentracion
++10 de concentracion
++3 de agilidad
++3 de agilidad
++3 de agilidad
++3 de agilidad
++3 de agilidad
++5 de agilidad
++5 de agilidad
++5 de agilidad
++5 de agilidad
++5 de agilidad
++10 de agilidad
++10 de agilidad
++3 de salud
++3 de salud
++3 de salud
++3 de salud
++3 de salud
++5 de salud
++5 de salud
++5 de salud
++5 de salud
++5 de salud
++10 de salud
++10 de salud
++3 de liderazgo
++3 de liderazgo
++3 de liderazgo
++3 de liderazgo
++3 de liderazgo
++5 de liderazgo
++5 de liderazgo
++5 de liderazgo
++5 de liderazgo
++5 de liderazgo
++10 de liderazgo
++10 de liderazgo
+Dummy
+Dummy
+Dummy
+Buen trato
+Buen trato Nv. 2
+Buen trato Nv. 3
+Valentia
+Valentia Nv. 2
+Valentia Nv. 3
+Instinto de oro
+Instinto de oro Nv. 2
+Instinto de oro Nv. 3
+Robo
+Robo Nv. 2
+Robo Nv. 3
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Amistad
+Soldado honorable
+Habilidades de negociacion
+Habilidad diaria 004
+Habilidad diaria 005
+Habilidad diaria 006
+Habilidad diaria 007
+Habilidad diaria 008
+Habilidad diaria 009
+Habilidad diaria 010
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
++3 de fuerza
++5 de fuerza
++3 de destreza
++5 de destreza
++3 de concentracion
++5 de concentracion
++3 de agilidad
++5 de agilidad
++3 de salud
++5 de salud
++3 de liderazgo
++5 de liderazgo
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Sobre los titanes, volumen 1
+Sobre los titanes, volumen 2
+Sobre los titanes, volumen 3
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

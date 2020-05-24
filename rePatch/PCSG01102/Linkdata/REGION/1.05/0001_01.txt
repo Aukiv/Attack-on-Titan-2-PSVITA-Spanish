@@ -1,0 +1,655 @@
+﻿Dificultad
+Subtitulos
+Reproduccion de video
+Vibracion
+Tamano de visualizacion
+Visualizacion del minimapa
+Rotacion del minimapa
+Cambio automatico (minimapa)
+Visualizacion de la ventana de objetos
+Visualizacion de gas/cuchillas restantes
+Visualizacion de informacion de titan
+[$PAD_L2]
+[$PAD_L1]
+[$PAD_R2]
+[$PAD_R1]
+[$PAD_RU]
+[$PAD_RR]
+[$PAD_RD]
+[$PAD_RL]
+Cambiar de espacio de objeto
+Accion de companero
+Preparar ataque sorpresa
+Fijar titan
+Disparo de gancho/Ataque
+Interactuar
+Saltar/Impulsar
+Balanceo
+Velocidad de la camara
+Ajustes verticales de la camara (Normal)
+Ajustes verticales de la camara (Artilleria)
+Ajustes horizontales de la camara (Normal)
+Ajustes horizontales de la camara (Artilleria)
+Volumen de la musica
+Volumen de los efectos de sonido
+Volumen de la voz
+Volumen de los videos
+Nivel de sangre
+Pantalla completa
+Resolucion
+Filtro y textura
+Ajustes de calidad de imagen
+Rayos de luz
+Movimiento difuminado
+Profundidad de campo
+Suavizado de bordes
+Oclusion ambiental
+Calidad de los efectos
+Reflejos
+Desenfoque radial
+ACTIVADO
+DESACTIVADO
+Facil
+Normal
+Dificil
+Pesadilla
+Solo todos
+Estandar
+Invertido
+ALTO
+MEDIO
+BAJO
+Personalizado
+Soldado
+Titan
+Base
+Estado
+Consejos y trucos
+Cargar
+Guardar
+Opciones
+Intercambio de datos
+Retirada
+Zona
+Gente
+Estado
+Equipo
+Habilidad
+Materiales
+Base
+Objetos
+Sin equipo
+Gesto
+Consejos y trucos
+Menu principal
+Tiempo jugado: %03d h %02d min\nModo Historia completado: %d%%\nGaleria completada: %d%%
+N.º %d
+Tiempo de juego desconectado
+Tiempo de juego en linea
+Eliminaciones
+Misiones cumplidas
+Tiempo de batalla
+Objetivo de eliminacion extrema
+Puntuacion total
+EXP estandar
+EXP por eliminaciones
+EXP especial
+EXP total
+Puntos de habilidad
+Aumentar
+Recompensa base
+Recompensa de eliminacion
+Recompensa especial
+Recompensa en medallas
+Recompensas totales
+Recursos del regimiento
+Botines de guerra adquiridos
+Recompensa base
+Recompensa especial
+Recompensa completada
+Recompensa de repeticion
+Recompensa de eliminacion
+Recompensa por destruir una parte del cuerpo
+Recompensa de captura
+Recompensa de mineria
+Recompensa de rango
+Titan capturado
+Amistad
+[r]Muerto[/]
+[r]Derrotado[/]
+[b]Titan eliminado[/]
+[b]Aparicion[/]
+[r]Aparicion de titan[/]
+[r]Senal de humo avistada[/]
+[g]Senal de humo avistada[/]
+[y]Senal de humo avistada[/]
+[v]Peticion urgente[/]
+[v]Senal de humo resuelta[/]
+Eliminacion extrema
+[r]Llamada de emergencia[/]
+[b]Base construida[/]
+[r]Base en peligro[/]
+[r]Base destruida[/]
+[b]Captura exitosa[/]
+[r]Captura fallida[/]
+ACEPTAR
+SI
+NO
+Fuerzas ganadas
+x Velocidad insuficiente
+x Cuchillas danadas
+x Quedan partes defensivas
+x Ataque a la piel
+x Ataque a una parte reforzada
+x No concentrado en la parte
+x Mal angulo
+x Ataques fallados: %d
+x Veces agarrado: %d
+Facil
+Normal
+Dificil
+Publico
+Privado
+[$PAD_RR]Construir base
+[$PAD_RU]Montar la artilleria
+[$PAD_RU]Reabastecerse
+[$PAD_RR]Reconstruir
+Sin base
+Fuerzas ganadas
+Objetos conseguidos
+Preparativos de la base completos
+Ruta de supervivencia desbloqueada
+Empezar fuego de apoyo
+Se unio al equipo
+[$PAD_RR]Alistar
+[$PAD_RR]Montar
+Imposible reabastecerse
+[$PAD_RR]Construir base
+Sin base
+[$PAD_DECIDE]Construir
+Sala de investigacion de titanes
+Investigar
+Peticion de captura
+Titan capturado
+Administracion del regimiento
+Politica
+I+D
+Campo de entrenamiento
+Entrenamiento individual
+Entrenamiento conjunto
+Comprar
+Vender
+Nivel de entrenamiento
+indice de exito de los entrenamientos: %3d%%
+Alto
+Normal
+Bajo
+/
+Visualizar ventana de mision
+Precio total
+Fuerza
+Destreza
+Concentracion
+Resistencia
+Salud
+Liderazgo
+Afilado
+Longitud de la hoja
+Durabilidad
+Capacidad de gas
+Presion de gas
+Cuchillas maximas
+Velocidad del carrete
+Distancia de anclaje
+Fuerza de anclaje
+Velocidad
+Resistencia
+Pelo
+Cejas
+Ojos
+Nariz
+Boca
+Contorno
+Piel
+Ropa interior
+Chaqueta
+Color de cinto
+Cinturon
+Color de pantalones
+Color de botas
+Otras prendas 2
+Capa
+Durabilidad
+Distancia de busqueda
+Ataque
+Rango de ataque
+Capacidad de batalla simultanea
+Tiempo de extraccion
+Capacidad de suministros
+Limite de extraccion
+Nueva construccion
+Mejorar
+Reforzar
+Vender
+Costo
+Resultados de fortificacion
+Costo de las alas de la libertad
+Obtener objeto
+Obtener todos los objetos
+Reabastecer objetos
+Reabastecer objetos por completo
+Obtener objeto
+No hay nadie en la zona.
+Seleccion de la zona
+Cuartel
+Zona de entrenamiento
+Viejo cuartel gral. del Cuerpo de exploracion
+Sala de investigacion de titanes
+Distrito de Trost
+Distrito de Stohess
+Aldea agricola
+Castillo Utgard
+PH
+Ninguno
+Habilidad equipada
+Habilidad ya obtenida
+Jugado: %03d hora(s) %02d minuto(s)
+Modo Historia
+Galeria completada
+%d%%
+Corte de pelo
+Corte de pelo %d
+Color
+Color
+Grosor
+Posicion
+Forma
+Ojos %d
+Color
+Tamano
+Tamano
+Angulo
+Posicion
+Forma
+Nariz %d
+Tamano
+Posicion
+Color de labios
+Tamano
+Angulo de la boca
+Posicion
+Forma
+Contorno %d
+Color de mejillas
+Color
+Cuerpo
+Hombre
+Mujer
+Altura
+Cabeza
+Torso
+Cintura
+Brazos
+Piernas
+Voz
+Voz %d
+Tipo
+Ropa interior %d
+Color 1
+Color 2
+Llevar
+ACTIVADO
+DESACTIVADO
+Color
+Color
+Color de cinturon
+Color
+Color
+Accesorio
+Accesorio %d
+Llevar
+ACTIVADO
+DESACTIVADO
+Color
+Nombre (Ej.: Eren)
+Apellido (Ej.: Jaeger)
+Pequeno
+Grande
+Abajo
+Arriba
+Cerca
+Lejos
+Ligero
+Pesado
+VACIO
+Condiciones de victoria
+Condiciones de derrota
+Condiciones de mision especial
+Desarrollo conjunto
+Mejorar reclutamiento
+Material provisto
+Cambiar
+Llegaste al puesto de control
+OmegaForce1
+KoeiTecmo1
+Posible sitio de construccion
+Consejos de control
+%d/%d
+Otro modo
+Bonificacion de inicio de sesion
+Bonificacion de inicio de sesion diario
+Bonificacion total de inicio de sesion
+Total de sesiones
+Empieza en:
+Estacion de equipo
+Mercado de materiales
+Tienda de regalos
+Administracion del regimiento
+Politica
+I+D
+Campo de entrenamiento
+Entrenamiento individual
+Entrenamiento conjunto
+Sala de investigacion de titanes
+Estacion de caballos de batalla
+Precio
+Color
+Galeria
+Galeria completada
+Historial del regimiento
+Coleccion de musica
+Lista de revista
+Guia de equipo de campo
+Guia de titanes
+Completado
+Registro oficial
+Registro de eventos
+Completado
+Completado
+Completado
+Completado
+Coleccion de efectos de sonido
+Completado
+Completado
+???
+Mision del Cuerpo
+Organizar
+Unirse
+Chat de voz
+Resultados de batalla
+Puntos de eliminacion de titanes
+Puntos de defensa base
+Puntos de mision exitosa
+Bonificacion multiple
+Bonificacion de tiempo
+Puntos de caza de ciudadanos
+Puntos de caza de nobles
+Puntos de destruccion
+Evaluacion de batalla
+Eliminaciones
+Ayudas de eliminacion
+Ataque sorpresa
+Misiones de reconocimiento
+Local
+Informacion danada
+Actualizado (AAAA/MM/DD)
+Tiempo de juego
+%%
+Hora(s)
+Minuto(s)
+Actualizacion automatica
+Cargar
+Descargar
+Restablecer la configuracion inicial
+Configuracion guardada
+Intercambio de datos
+Registro del Cuerpo
+Registro de gente
+Registro de actividad
+Historia
+Informacion publica
+x No se puede continuar
+x No hay suficiente gas
+x Fuera de rango
+x No se puede atacar por sorpresa
+x Se actuo demasiado pronto
+x Se actuo demasiado tarde
+x Choco con un obstaculo
+Tiempo de juego
+Nivel
+Progreso del modo Historia
+Progreso de mision de exploracion
+Galeria completada
+Equipo actual
+Estado
+Eliminaciones
+Ayudas de eliminacion
+Capturas
+Misiones de exploracion completadas
+Misiones secundarias completadas
+Bases construidas
+Ataques sorpresa realizados
+Veces en condicion critica
+Distancia recorrida (tierra)
+Distancia recorrida (aire)
+Tiempo
+Titanes
+km
+Usos de la administracion del regimiento
+Politica mas utilizada
+Veces que se ha usado el entrenamiento
+Veces que se han usado entrenamientos conjuntos
+Misiones de exploracion en equipo
+Regalos mas habituales
+Habilidades obtenidas
+Equipo desarrollado
+Registro de batalla
+Registro diario
+Registro en linea
+Informacion basica
+Crear mision de exploracion
+Publico
+Privado
+Modo
+Mapa
+Modo Aniquilacion
+Modo Depredador
+Modo Supervivencia
+Jugadores: 4 contra 4
+Jugadores: 4
+Jugadores: 1 contra 1
+Modo de juego en el que varios equipos se enfrentan por ganar puntos matando titanes. El equipo que obtenga mas puntos dentro del limite de tiempo gana.
+Modo de juego en el que competiras por ganar puntos controlando un titan. Recibiras puntos por atacar a humanos y destruir estructuras. El jugador que obtenga mas puntos dentro del limite de tiempo gana.
+Modo Supervivencia
+Desarrollo conjunto
+Mejorar reclutamiento
+Material provisto
+Solicitando desarrollo conjunto
+Desarrollo conjunto completado
+Se agoto el tiempo. Empezaras el juego con el personaje seleccionado.
+Se agoto el tiempo. Fin del combate. Gracias por jugar.
+Regalo
+icono
+Edicion de personaje completada. En la version final podras personalizar la cara, el cuerpo, la ropa, etc.
+Llamada de emergencia
+Llamada de emergencia
+Enviando llamada de emergencia
++%d
++%d★
+Informe de investigacion biologica de titan
+Nivel de sala de investigacion
+Resultados de captura
+Fondos obtenidos
+Nuevos tipos capturados
+Capturas adicionales
+EXP de sala de investigacion
+EXP
+Nivel
+Titan capturado
+Normal
+Excentrico
+Extrano
+Clase 3M
+Clase 7M
+Clase 15M - Estandar 1
+Clase 15M - Estandar 2
+Clase 15M - Corpulento
+Clase 15M - Esbelto
+Clase 15M - Muscular
+Clase 3M
+Clase 7M
+Clase 15M - Estandar
+Clase 15M - Corpulento
+Clase 15M - Esbelto
+Clase 15M - Muscular
+Extrano
+Extrano
+Extrano
+Extrano
+Extrano
+Tipos capturados
+%d/%d
+Capturas totales
+Soldado
+Ciudadano
+Aristocrata
+Traje por defecto
+Efecto de conjunto de equipo
+Objetivo de conjunto de equipo
+Efecto especial
+Quieres empezar el juego con el personaje seleccionado?
+En la version final podras personalizar la cara, el cuerpo, la ropa, etc.
+?????
+Solo gestos
+Solo mensajes
+Tamano del pecho
+Pupila
+Ancho
+Altura
+Posicion de la barbilla
+Emblema
+Cuerpo de exploracion
+Policia militar
+Unidad de instruccion
+Tropa de guarnicion
+Tono
+Alto
+Bajo
+Recompensa de exploracion
+Recompensa de exploracion completada
+Primera recompensa por completar
+Recompensa por completar
+Recompensa de rango S
+Vuelve a empezar desde el punto de control.
+Cambia la dificultad y vuelve a empezar desde el punto de control.
+Vuelve a empezar desde el principio.
+Vuelve al campamento.
+Vuelve al menu principal.
+%d Dias
+Modo Ad hoc
+Victorias en linea
+Ayudas en linea
+Desarrollos conjuntos
+---
+Misiones pasadas
+Edita el personaje.
+Vuelve a empezar desde el principio.
+Nada
+Clasificacion
+Posicion
+Usuario
+EXP de batalla
+Informacion de usuario
+Nivel
+EXP de batalla
+Personaje favorito actual
+Objetos utilizados
+Modo Aniquilacion
+Modo Depredador
+Modo Supervivencia
+MVP ganados
+Mayor numero de eliminaciones
+Mayor numero de ayuda para eliminaciones
+Victorias
+Mayor numero de puntos
+A otra zona
+SIN NOMBRE
+SIN NOMBRE
+Sincronizacion vertical
+Hierba
+Calidad de las texturas
+Sombras
+Efectos de contorno
+Ventana
+Sin bordes
+Pantalla completa
+[$PAD_R3]
+Centrar camara/Cambiar de objetivo de ataque
+Lista de revista: [0:CHARA_G]
+Recursos del regimiento: %d
+Red
+Actualizado
+%4d/%2d/%2d %2d:%02d
+Tiempo
+%03d h %02d min
+Guardando...
+En posesion
+Conocidos con rango de amistad max.
+Informes de investigacion biologica de titan
+Total de recursos del regimiento adquiridos
+Agilidad
+Objetivo
+Dificultad
+Nada en especial
+Volviendo al menu principal.
+Finalizando la batalla.
+%s\n\n%s
+Attack on Titan 2
+Attack on Titan 2
+A.O.T. 2
+Te invitaron a jugar Attack on Titan 2.
+Te invitaron a jugar A.O.T. 2.
+Tu rango
+Sin rango
+La pantalla del juego se mostrara dentro de una zona con bordes. Usa [$PAD_CURSOR_UD] para alinear esa zona con tu televisor. Puedes modificar este ajuste en cualquier momento desde "Ajustes del juego" en "Opciones".
+[$PAD_RR]Rescatar
+Velocidad al caminar
+Resistencia
+Poder de salto
+Agilidad
+Velocidad de aumento de rabia
+Puntos ganados
+Pt
+Ciudadanos cazados
+Aristocratas cazados
+Estructuras destruidas
+%s desato [r]"%s"[/]!
+Base de refuerzos
+Material 1
+Material 2
+Material 3
+Herida
+Otras prendas 1
+[0:MATERIAL] x %d
+Manual
+%s%s\n%s%s
+Modo JcJ:
+Modo Cooperativo:
+Escenario:
+Nombre de la mision:
+Mision de exploracion (Infernal)
+[$FONT_EX_STAR]
+Color predeterminado
+Grupo de gestos
+Vestimenta
+Despliegue de rescate
+Elegir modo de juego
+Modo cooperativo:
+Modo cooperativo (Infernal):
+Modo JcJ:
+Batalla
+%d/%d
+Juego local
+Valoracion de eliminacion de titan/dano
+Visualizacion de distancia de titan
+[r]Aparicion[/]

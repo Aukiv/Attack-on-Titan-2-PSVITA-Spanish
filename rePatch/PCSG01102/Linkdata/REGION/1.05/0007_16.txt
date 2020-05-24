@@ -1,0 +1,19 @@
+﻿Ninguno
+Clase 3M
+Clase 7M
+Clase 15M - Estandar 1
+Clase 15M - Estandar 2
+Clase 15M - Corpulento
+Clase 15M - Esbelto
+Clase 15M - Muscular
+Clase 3M
+Clase 7M
+Clase 15M - Estandar
+Clase 15M - Corpulento
+Clase 15M - Esbelto
+Clase 15M - Muscular
+Titan extrano 1
+Titan extrano 2
+Titan extrano 3
+Titan extrano 4
+Titan extrano 5

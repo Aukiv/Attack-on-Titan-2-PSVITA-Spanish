@@ -1,0 +1,128 @@
+﻿Equipo basico. Se diseno para un uso facil y con capacidades medias.
+Equipo basico. El mantenimiento mejoro su rendimiento general.
+Equipo basico. Se usaron datos de batalla para modificarla y que ofrezca un mayor rendimiento.
+Equipo basico. Una mejora general con respecto al equipo de primera generacion.
+Equipo basico. Una mejora del equipo de segunda generacion realizada a partir de los comentarios de los soldados en el terreno.
+Equipo basico. Se usaron materiales de alta calidad para mejorar su rendimiento general.
+Equipo basico. Se fabrico una edicion limitada del equipo para soldados de elite.
+Equipo basico. Una version mejorada del equipo de tercera generacion de edicion limitada.
+Equipo basico. Equipo de vanguardia fabricado a partir de datos de batalla practicos del equipo de edicion limitada.
+Equipo fabricado con lo ultimo en tecnologia y materiales. Su increible velocidad ofrece al usuario una oportunidad para cambiar el mundo.
+Equipo disenado para ser resistente. Es ideal para expediciones en las que no haya muchos suministros.
+Un equipo todavia mas mejorado, que fue posible gracias a los datos obtenidos en combate.
+Equipo mejorado con la tecnologia mas actual. Disenado para los exploradores, se produjo como una edicion limitada para soldados de elite.
+Equipo centrado en el rango de anclaje. Consigue un rendimiento de mayor nivel muy necesario para los exploradores.
+Equipo disenado para ser facil de usar. Cuenta con un anclaje mas fuerte para poder luchar con titanes en distancias cortas.
+Una version mejorada del Schuzrumhaken. Su anclaje es muy fuerte y proporciona un movimiento tridimensional seguro.
+Una version superior del Schuzrumhaken. Se fabrico con materiales nuevos para mejorar la fuerza de anclaje.
+Una version mejorada del Blitzhaken. Los materiales de alta calidad hacen que sea dificil producirlo en masa, por lo que solo lo usan algunos soldados del escuadron.
+Una version superior del Blitzhaken. Se creo para su uso en entornos hostiles y posee un anclaje mas fuerte.
+El Jagthaken se mejoro con la tecnologia mas moderna para aumentar drasticamente su fuerza de anclaje.
+Equipo de gama alta. La fuerza de su anclaje hace honor a su nombre, que comparte con un rey.
+Equipo especializado para el uso en combate movil. Un mecanismo especial posibilita el anclaje a mayor velocidad.
+Una version mejorada del Cola de pantera cero. Se reforzo en gran medida mediante el uso de materiales de alta calidad.
+Equipo especializado de gama alta para uso en combate movil. Su diseno se centro en la importancia del movimiento rapido en el campo de batalla.
+Equipo fabricado mediante un proceso especial. Cuenta con un exterior azul y un anclaje de largo alcance.
+Equipo redisenado para que lo usen los soldados del frente. Se creo especialmente para no tener rival en cuanto a velocidad de anclaje.
+Equipo ceremonial de gama alta usado por la Policia militar, fabricado con diferentes tecnicas que el equipo anterior.
+Una version modificada del Simbolo. Se mejoro su rango de anclaje sin perder la belleza de su predecesor.
+Un Simbolo fabricado con los mejores materiales. Su increible rango de anclaje proporciona al usuario la sensacion de poseer un par de alas.
+Una version de un Simbolo que recibe su nombre de una criatura sagrada. Solo unos pocos soldados de elite pueden usar este equipo de gama alta.
+Una version superior del Cola de unicornio. Tanto su rendimiento como su aspecto son impresionantes.
+La version definitiva del Cola de unicornio. Esta cubierto de bellos ornamentos y es de maxima calidad tanto en terminos de rendimiento como de aspecto.
+Equipo que recibe el nombre de la rosa que simboliza a la Tropa de guarnicion. Su apariencia es ideal para un soldado de elite.
+Equipo especial distribuido al Cuerpo de exploracion.
+Equipo especial distribuido al Cuerpo de exploracion.
+Equipo especial distribuido al Cuerpo de exploracion.
+Equipo especial distribuido al Cuerpo de exploracion.
+Equipo especializado en la fuerza de anclaje. Su peso hace que sea menos veloz que otros equipos.
+Una version aun mas mejorada del equipo pesado con una mejor fuerza de anclaje.
+Una version aun mas mejorada del equipo pesado con una mejor fuerza de anclaje gracias a sus materiales de nuevo desarrollo.
+Una version mas moderna del equipo pesado que sacrifica velocidad de anclaje para conseguir una fuerza mayor.
+Se usaron materiales de la mayor calidad para crear un equipo pesado de ultima generacion con un anclaje tan fuerte que desafia el sentido comun.
+Equipo que da preferencia al rango de anclaje. Su velocidad de anclaje es menor a la de otros equipos.
+Una version del equipo espiritual en la que se mejoro el rango de anclaje.
+Una version superior del equipo espiritual. Los cambios al balanceo que se realizaron a su estructura potencian el rango de anclaje.
+Equipo antiguo mejorado. Los investigadores dieron todo para mejorar el rango de anclaje al maximo.
+La inclusion de un novedosos mecanismo le da a este equipo de ultima generacion un rango de anclaje increible.
+El desarrollo de este equipo exige la creacion de nuevas estrategias de batalla. Puede que no tenga las capacidades de otros equipos, pero es sigiloso en los movimientos omnidireccionales.
+Una mejora del Destello sombrio. Permite que los soldados mas habiles se acerquen a los titanes sin ser detectados.
+Se altero y mejoro la estructura interna y los materiales del Trueno sombrio. Permite al soldado esconderse en las sombras mientras se abre camino por el campo de batalla.
+Equipo especializado para el movimiento encubierto. Muchos soldados de elite la prefieren porque les permite acercarse con sigilo a los titanes.
+La version superior de la serie Sombra. Permite a los soldados masacrar a los titanes en silencio a costa del resto de capacidades.
+Equipo fabricado con minerales muy duros. Sus cables son especialmente fuertes y esta bien equilibrado en general.
+Equipo fabricado con minerales muy duros. Unas modificaciones infimas mejoraron su rendimiento general.
+Equipo fabricado con minerales muy duros. Se mejoro su rendimiento tras reevaluar su estructura.
+Equipo fabricado con minerales muy duros. Su funcionalidad principal se modifico para adaptarlo mejor al combate.
+Equipo fabricado con minerales muy duros. Una obra maestra de artesania con un rendimiento excelente.
+Equipo especializado para obtener mayor velocidad de anclaje. Su diseno no tiene en cuenta el ruido, por lo que es mas probable que los titanes detecten al usuario.
+Equipo especializado para obtener mayor velocidad de anclaje. Se mejoro a partir de las sugerencias de los soldados que lo usaban.
+Equipo mejorado y especializado para obtener mayor velocidad de anclaje. Permite movimientos omnidireccionales rapidos para que el usuario pueda encargarse de los titanes como prefiera.
+Equipo mejorado especializado para obtener mayor velocidad de anclaje. Su rendimiento general se mejoro para satisfacer a los soldados mas alocados.
+Equipo mejorado y especializado para obtener mayor velocidad de anclaje. Solo podran empunar esta arma tan potente aquellos soldados fuertes que sean seleccionados especialmente.
+Equipo especial para una mayor resistencia. Su funcionalidad basica es reducida, pero cuenta con un mecanismo unico que ayuda a descender a menor velocidad en una caida.
+Equipo especial para una mayor resistencia. Sus planos se alteraron para mejorar su rendimiento general.
+Una mejora del Mizuchi Hyaku-Shiki. Aprovecha su capacidad para descender a menor velocidad en una caida y alcanzaras la victoria.
+Una mejora del Orochi Hyaku-Shiki. Se aumento su funcionalidad basica para aportar una mayor ventaja en el combate aereo.
+La forma definitiva del equipo Hyaku Shiki. No solo tiene un rendimiento fuera de serie, ademas cuenta con un diseno exquisito.
+Equipo fabricado pensando en la velocidad de anclaje. Su diseno es equilibrado y facil de usar.
+Equipo fabricado pensando en la velocidad de anclaje. Su tecnologia de ultimo modelo se ideo para aumentar su funcionalidad basica.
+El sucesor del Gebrüllhaken. Su rendimiento se mejoro para facilitar su uso.
+Una version mejorada del Hellhaken. Su velocidad de movimiento excepcional permite al usuario acabar con los titanes facilmente.
+Equipo superior fabricado pensando en la velocidad de anclaje. Su velocidad sobresaliente envia a los titanes directos al infierno.
+Un prototipo de equipo que usa lo ultimo en tecnologia. Es equilibrado y facil de usar. El rango de anclaje es especialmente amplio.
+Un prototipo de equipo que usa lo ultimo en tecnologia. Las mejoras a su estructura aumentaron su funcionalidad basica.
+Un prototipo de equipo que usa lo ultimo en tecnologia. Se aumento su alcance ademas de su rendimiento general.
+Un prototipo de equipo que usa lo ultimo en tecnologia. Su estructura interna se reevaluo para aumentar de forma drastica su funcionalidad.
+La version perfecta del equipo de asalto. Los datos de combate de cada prototipo se analizaron para maximizar su rendimiento.
+Equipo para batallas importantes elaborado sin considerar la viabilidad de su produccion. Posee un gran alcance y una excelente velocidad de anclaje.
+Equipo para batallas importantes que fue mejorado a partir de su diseno original para permitir un mayor movimiento. Es capaz de ir mas alla de las estrategias convencionales.
+Equipo para batallas importantes que fue optimizado hasta el ultimo detalle para maximizar el movimiento. El usuario puede moverse como el viento y atrapar a cualquier titan.
+Equipo para batallas importantes que ofrece el mejor rendimiento. Sus movimientos son capaces de esquivar a la propia Muerte.
+Equipo para batallas importantes que permite ejecutar movimientos perfectos. Los usuarios parecen el sol naciente cuando cazan titanes.
+Equipo desarrollado en secreto como arma antititanes. La resistencia del anclaje es extremadamente alta.
+Unidad alfa mejorada. Su funcionalidad basica se aumento para facilitar su uso en el combate.
+Unidad beta mejorada. Se corrigieron los defectos de los modelos anteriores para ofrecer una mejora general.
+Unidad epsilon mejorada. Si se usa como es debido, pueden conseguirse resultados que ningun soldado experimento jamas.
+Equipo desarrollado en secreto como el arma antititanes definitiva. No tiene defectos en su rendimiento.
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy

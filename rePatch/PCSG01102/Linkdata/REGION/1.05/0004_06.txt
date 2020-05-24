@@ -1,0 +1,100 @@
+﻿Nadie
+Derrota de [0:CHARA_G]
+Derrota de [0:CHARA_G] y [1:CHARA_G]
+Derrota de [0:CHARA_G]
+Aniquilacion de [r][0:PARTY][/]
+Aniquilacion de [y][0:PARTY][/]
+Defensa de [0:CHARA_G]
+[0:CHARA_G] alcanzo la [g]zona objetivo[/]
+[0:CHARA_G] o [1:CHARA_G] alcanzaron la [g]zona objetivo[/]
+[0:CHARA_G] y el grupo alcanzaron la [g]zona objetivo[/]
+Defensa de [0:FACILITY_BF]
+Defensa de [0:FACILITY_BF] y [1:FACILITY_BF]
+Derrota de suficientes [r][0:PARTY][/]
+[r][0:PARTY][/] devorados
+[0:CHARA_G] murio
+[0:CHARA_G] o [1:CHARA_G] murieron
+[0:CHARA_G] y el grupo estan eliminados
+Todos los [b]aliados[/] estan eliminados
+Destruccion de [0:FACILITY_BF]
+Destruccion de [0:FACILITY_BF] y [1:FACILITY_BF]
+Todas las [b]bases[/] fueron destruidas
+Se agoto el tiempo
+Los [r]humanos [/] fueron devorados
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+Se sobrevivio a la batalla
+Entrenamiento de equipo de maniobras tridimensionales completado
+Entrenamiento en grupo completado
+Se alcanzo el [g]cuartel general[/]
+[0:CHARA_G] a salvo
+Derrota de [0:CHARA_G]
+[g]Cuartel general[/] destruido
+Los [b]aliados[/] huyen
+[0:CHARA_G], [1:CHARA_G] o [b]Armin[/] murieron
+Derrota de [0:PARTY][/] cerca del [g]muro[/]
+Derrota de [r][0:PARTY][/] que se acercaban
+Asegura la [g]zona de captura[/]
+Captura de [r][0:PARTY][/]
+[b][0:PARTY][/] escaparon de la [g]ciudad vieja[/]
+Fracaso de la ayuda para escape de [b][0:PARTY][/]
+Muerte de un miembro de [b][0:PARTY][/]
+Reunion y escolta segura de [0:CHARA_G]
+Derrota de [0:PARTY] invasores
+Evita que [0:CHARA_G] escape
+[0:CHARA_G] escapo
+[b]Bases[/] tras la [b]linea de defensa[/] destruidas
+Rescata a [0:CHARA_G]
+Se agoto el tiempo o [0:CHARA_G] murio
+Reunion y defensa de [0:CHARA_G]
+Se perdieron todas las [b]lineas de defensa[/]
+Cualquier miembro de los [b]cadetes de la 104[/] muere.
+Los [b]cadetes de la 104[/] alcanzan la [g]zona objetivo[/]
+Eliminan a [0:CHARA_G] o se alcanza la [g]zona objetivo[/] de [1:CHARA_G]
+[0:CHARA_G] llega a la [g]puerta exterior[/] o la [0:FACILITY_BF] queda destruida
+Se ha alcanzado la [g]senal de humo[/]
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP
+DUMMY_ESP

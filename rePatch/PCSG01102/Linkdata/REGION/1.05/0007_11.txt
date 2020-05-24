@@ -1,0 +1,20 @@
+﻿Objeto curativo
+Gas
+Cuchillas
+Granada cegadora
+Granada ensordecedora
+Bomba de fuego
+Senal de alerta de batalla
+Senal de construccion
+Arma de contencion
+Petardo
+Balas reforzadas
+Balas destructoras de bases
+Balas adormecedoras
+Balas de pintura
+Polvo brillante
+Pantalla de humo
+Piedra
+Llamada de auxilio
+Senal de refuerzos
+Tonico
