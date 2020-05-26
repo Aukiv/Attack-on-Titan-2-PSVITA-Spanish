@@ -2,7 +2,7 @@
 Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 -------------------------------------------
 
-**Antes de proceder, les recuerdo que este parche es totalmente gratuido y no es oficial ni apoyado por la desarrolladora Omega Forceni por el distribuidora Koei Tecmo.**
+**Antes de proceder, les recuerdo que este parche es totalmente gratuido y no es oficial ni apoyado por la desarrolladora Omega Forceni ni por Koei Tecmo.**
 
 **No me hago responsable de nigún daño.**
 
@@ -103,5 +103,8 @@ han sido recortadas para evitar bloqueos.
 -------------------------------------------
 
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/938owc/attack_on_titan_2_repatch_espa%C3%B1ol/**
+
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
+
 **Agradecimientos a AkatsukiDark por las herramientas aportadas.**
+
