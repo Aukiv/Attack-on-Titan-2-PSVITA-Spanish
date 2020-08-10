@@ -1,4 +1,4 @@
-# Attack on Titan 2 PS VITA ESPAÑOL NO OFICIAL
+# BETA - Attack on Titan 2 PS VITA ESPAÑOL NO OFICIAL
 Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 -------------------------------------------
 
