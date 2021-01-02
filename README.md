@@ -87,7 +87,7 @@ Todo lo restante que sale en Japonés es gráfico y no tengo conocimiento para e
 
 **Se me bloquea cuando accedo a otras cosas que no son modo
 historia->**
-Lo siento pero sólo me he centrado en el modo Historia.
+Lo siento pero sólo me he centrado en el modo historia.
 
 -------------------------------------------
 
@@ -97,8 +97,8 @@ Lo siento pero no puedo solucionarlo.
 -------------------------------------------
 
 **No hay acentos, hay faltas de ortografía, de puntuación, etc...->**
-Por desgracia no puedo añadir acentos de momento ni caracteres especiales, la mayoria de las frases
-han sido recortadas para evitar bloqueos.
+Por desgracia no puedo añadir acentos de momento ni caracteres especiales, 
+la mayoría de las frases han sido recortadas para evitar bloqueos.
 
 -------------------------------------------
 
