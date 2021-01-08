@@ -9,6 +9,7 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 **La traducción es libre para cualquiera que desee modificar bajo su responsabilidad.**
 
 -------------------------------------------
+# VERSIONES 1.0 / 1.01 / 1.05
 **APLICAR PARCHE CON DeltaPatcher/Lite**
 
 **1->** En su PS VITA con VitaShell diríjase a la carpeta ux0:APP y abren en modo desencriptado la carpeta PCSG01102, una vez dentro copien _"LOGO_KT.mp4"_ de _"\File\Movie"_ y también _"LINKDATA_REGION_JP.BIN"_ de _"\Linkdata\REGION"_. (Ojo, abrir en modo desencriptado por cada archivo).
@@ -30,6 +31,7 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 **9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.05"_ y lo pegar en ux0 en su PS VITA.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
+# VERSIONES 1.0 / 1.01 / 1.05
 
 **PARA COMPROBAR SI FUE REALIZADO EL PARCHEO UTILIZA LA SIGUIENTE WEB.
 http://onlinemd5.com/**
@@ -61,14 +63,10 @@ MD5
 
 3->​ ​VitaShell​ para pasar archivos entre ​PS VITA​ y ​PC​, ya sea por USB o ​FileZilla​.
 
-4-> ​Obviamente el ​juego​ ya sea comprado o por otros medios... ​(NO ACTUALIZAR EL JUEGO).
+4-> ​Obviamente el ​juego​ ya sea comprado o por otros medios... ​(PUEDES ACTUALIZAR EL JUEGO).
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
-Mi principal objetivo fue eliminar cualquier bloqueo en el modo
-historia.
-El 9 de Julio del 2019 pude conseguirlo después de horas y horas en el
-mismo escenario y más de 500 líneas recortadas.
 
 Posibles fallos que te vas a encontrar y soluciones.
 -------------------------------------------
@@ -79,9 +77,7 @@ No están recortadas algunas conversaciones para el Rango de Amistad.
 -------------------------------------------
 
 **Cuando juego, algunos personajes hablan en inglés, o cosas que salen en Japonés->**
-24/05/2020/ Encontré 60 archivos de texto en inglés, proximamente serán
-traducidos.
-Todo lo restante que sale en Japonés es gráfico y no tengo conocimiento para editarlo/modificarlo.
+08/01/2021 No se traducirá el contenido al inglés ni Japonés.
 
 -------------------------------------------
 
@@ -92,7 +88,7 @@ Lo siento pero sólo me he centrado en el modo historia.
 -------------------------------------------
 
 **A veces el texto se sale del marco->**
-Lo siento pero no puedo solucionarlo.
+No puedo solucionarlo.
 
 -------------------------------------------
 
@@ -107,4 +103,8 @@ la mayoría de las frases han sido recortadas para evitar bloqueos.
 **Agradecimientos a https://www.reddit.com/r/VitaPiracy/comments/8z5cdm/aot_2_asset_swap_patchtext_translated/**
 
 **Agradecimientos a AkatsukiDark por las herramientas aportadas.**
+
+**Agradecimientos a MODman01 por su traducción al inglés.**
+
+**Agradecimientos a Mxscr por darme permisos. https://www.reddit.com/r/VitaPiracy/comments/kaj86d/attack_on_titan_2_english_patch_update_for/**
 
