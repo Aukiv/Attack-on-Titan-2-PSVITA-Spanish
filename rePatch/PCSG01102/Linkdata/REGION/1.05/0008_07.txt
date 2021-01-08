@@ -1,6 +1,0 @@
-﻿Seleccion de personaje 1
-Seleccion de personaje 2
-DUMMY_ESP
-DUMMY_ESP
-DUMMY_ESP
-DUMMY_ESP
