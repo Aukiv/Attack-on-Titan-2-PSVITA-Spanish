@@ -2,9 +2,9 @@
 Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 -------------------------------------------
 
-**Antes de proceder, les recuerdo que este parche es totalmente gratuido y no es oficial ni apoyado por la desarrolladora Omega Forceni ni por Koei Tecmo.**
+**Antes de proceder, les recuerdo que este parche es totalmente gratuito y no es oficial ni apoyado por la desarrolladora Omega Forceni ni por Koei Tecmo.**
 
-**No me hago responsable de nigún daño.**
+**No me hago responsable de ningún daño.**
 
 **La traducción es libre para cualquiera que desee modificar bajo su responsabilidad.**
 
@@ -14,11 +14,11 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **1->** En su PS VITA con VitaShell diríjase a la carpeta ux0:APP y abren en modo desencriptado la carpeta PCSG01102, una vez dentro copien _"LOGO_KT.mp4"_ de _"\File\Movie"_ y también _"LINKDATA_REGION_JP.BIN"_ de _"\Linkdata\REGION"_. (Ojo, abrir en modo desencriptado por cada archivo).
 
-**2->** Una vez copiado lo guardan en ux0:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.05 previamente descargada y extraida.
+**2->** Una vez copiado lo guardan en ux0:DATA y lo pasan al ordenador/computadora ya sea por USB o FTP y lo pegan en la carpeta AOTSP_v1.05 previamente descargada y extraída.
 
 **3->** Ejecuten DeltaPatcherLite.
 
-**4->** En "Original File" seleccionan _"LOGO_KT.mp4"_ y el _"Delta Patch"_ dentro del zip extraido hay una carpeta llamada "rePatch", busquen en su interior el archivo _"LOGO_KT.xdelta"_ y luego le dan a _"Apply patch"_.
+**4->** En "Original File" seleccionan _"LOGO_KT.mp4"_ y el _"Delta Patch"_ dentro del zip extraído hay una carpeta llamada "rePatch", busquen en su interior el archivo _"LOGO_KT.xdelta"_ y luego le dan a _"Apply patch"_.
 
 **5->** En "Original File" seleccionan _"LINKDATA_REGION_JP.BIN"_ y el "Delta Patch" dentro del zip extraido hay una carpeta llamada "rePatch", busquen en su interior el archivo _"LINKDATA_REGION_JP.xdelta"_ y luego le dan a "Apply patch".
 
@@ -28,7 +28,7 @@ Una corrección / traducción de Attack on Titan 2 para PS VITA en Español.
 
 **8->** _"LOGO_KT.mp4"_ lo pegas en _"AOTSP_v1.05\rePatch\PCSG01102\File\Movie"_ y eliminas _"LOGO_KT.xdelta"_.
 
-**9->** Una vez todo finalizado, copiar la carperta _"rePatch"_ del directorio _"AOTSP_v1.05"_ y lo pegar en ux0 en su PS VITA.
+**9->** Una vez todo finalizado, copiar la carpeta _"rePatch"_ del directorio _"AOTSP_v1.05"_ y lo pegan en ux0.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------- 
 # VERSIONES 1.0 / 1.01 / 1.05
@@ -83,7 +83,7 @@ No están recortadas algunas conversaciones para el Rango de Amistad.
 
 **Se me bloquea cuando accedo a otras cosas que no son modo
 historia->**
-Lo siento pero sólo me he centrado en el modo historia.
+Lo siento pero solo me he centrado en el modo historia.
 
 -------------------------------------------
 
